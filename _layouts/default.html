@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+{% include head.html %}
+
+<body>
+  <div class="antialiased font-serif leading-tight text-black">
+    <div class="px-6 py-8 md:px-16 lg:px-24 lg:py-16">
+      {% include navigation.html %}
+      <article class="prose prose-p:text-xl prose-li:text-xl prose-figure:text-xl">
+        {{ content }}
+      </article>
+    </div>
+  </div>
+</body>
+
+</html>

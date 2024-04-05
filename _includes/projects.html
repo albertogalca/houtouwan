@@ -1,0 +1,11 @@
+<section class="mb-12">
+  <h2 class="my-0">Projects</h2>
+  {% for project in site.data.projects %}
+  <article class="flex my-4 leading-snug">
+    <div class="self-center">
+      <h3 class="my-0"> <a class="block mb-1" target="_blank" href="{{ project.url }}">{{ project.name }}</a></h3>
+      <p class="text-slate-500 text-sm">{{ project.description }}</p>
+    </div>
+  </article>
+  {% endfor %}
+</section>

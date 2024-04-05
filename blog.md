@@ -1,0 +1,14 @@
+---
+title: "Blog"
+layout: "default"
+---
+
+<section class="mb-12">
+{% for post in site.posts %}
+  <article class="flex my-4">
+    <div class="self-center">
+      <h2 class="my-0"><a class="block mb-1 " href="{{ post.url }}">{{ post.title }}</a></h2>
+    </div>
+  </article>
+{% endfor %}
+</section>

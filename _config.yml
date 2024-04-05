@@ -1,0 +1,8 @@
+url: "https://albertogalca.com"
+baseurl: ""
+title: "My personal space"
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false

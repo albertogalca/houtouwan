@@ -1,0 +1,9 @@
+- name: "Kalm"
+  url: "https://kalm.so"
+  description: >
+    The map where you can find places to find your calm and silence.
+
+- name: "Sunbathe"
+  url: "https://sunbatheapp.com"
+  description: >
+    Your ally for getting your daily dose of vitamin D.
