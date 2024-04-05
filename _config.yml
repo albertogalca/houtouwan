@@ -4,6 +4,7 @@ title: "My personal space"
 plugins:
   - jekyll-postcss
   - jekyll-sitemap
+  - jekyll-feed
 
 postcss:
   cache: false

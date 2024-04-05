@@ -5,3 +5,4 @@ gem 'webrick'
 gem 'jekyll-postcss'
 gem "kramdown-parser-gfm"
 gem 'jekyll-sitemap'
+gem 'jekyll-feed'
