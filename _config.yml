@@ -3,6 +3,7 @@ baseurl: ""
 title: "My personal space"
 plugins:
   - jekyll-postcss
+  - jekyll-sitemap
 
 postcss:
   cache: false
