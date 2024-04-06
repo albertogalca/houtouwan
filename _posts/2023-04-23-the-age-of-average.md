@@ -17,6 +17,8 @@ Welcome to this new Everything is a Remix’s edition, today’s remixes are:
 
 ![](/assets/images/posts/2024/01/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F6c28de4c-5460-4a5f-8c4b-6bbf3ce20f47_1024x683.jpg)
 
+- The other day [Ben Bouche popped up in my Twitter timeline](https://twitter.com/RoucheBen/status/1645787218638942208?ref=albertogalca.com) and I thought: “Elon Musk once in a while doesn't mess up so much this social network”. His illustrations awaken in me a feeling of exploration that only happens to me with some Pixar or Disney movies.
+
 ![Imagen](/assets/images/posts/2024/01/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd59c9cad-7259-4945-8ff6-287c1f7c05ab_1753x2350.jpg "Imagen")
 
 - Sometimes creativity is about chaos. I found very interesting [this thread on Twitter about how to embrace chaos using ChatGPT and Midjourney](https://twitter.com/bl_artcult/status/1644413172521250817?ref=albertogalca.com).
