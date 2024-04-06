@@ -1,6 +1,10 @@
 url: "https://albertogalca.com"
-baseurl: ""
-title: "My personal space"
+title: "Alberto's nonsense"
+description: "I create software, write random stuff, and enjoy traveling to capture moments with my phone"
+author:
+  twitter: albertogalca
+  name: Alberto Gallego
+  picture: /assets/images/me.jpg
 plugins:
   - jekyll-postcss
   - jekyll-sitemap
