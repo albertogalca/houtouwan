@@ -50,7 +50,7 @@ In my case, I apply it in the same way I do with my training: **one day, one thi
 
 For example, in Kalm there are various tasks that could be sub-contexts: developing a product, managing projects, doing marketing… and so on to infinity. Therefore, if I work on this project for a day, I try to specify the sub-contexts in which I am going to work.
 
-- Monday → Push (training) → Kalm (context) → Marketing [Kalm Places](https://kalmplaces.com/) (sub-context)
+- Monday → Push (training) → Kalm (context) → Marketing [Kalm](https://kalm.so/) (sub-context)
 - Wednesday → Pull (training) → Client A (context) → Developing a new feature (sub-context)
 - Friday → Leg (training) → Newsletter (context) → Writing this newsletter you are reading (sub-context)
 
