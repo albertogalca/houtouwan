@@ -35,4 +35,4 @@ And the truth is that it doesn’t. If you’re reading me, you’re probably fr
 
 I gave up being able to spend more time with my family, to have more zeros in my bank account, to have a better job, to have a group of friends I could see more often, to have a house to return to.
 
-And as [I said last week](https://albertogallego.substack.com/p/loose-ideas-on-freedom?ref=albertogalca.com), the freedom to do this implies responsibility and demands a lot. So you have to be willing to give up a lot of things to get other things. And remember that if I, who suck at what I do, can do it, you can do it more and probably way better than me.
+And as [I said last week](/loose-ideas-on-freedom), the freedom to do this implies responsibility and demands a lot. So you have to be willing to give up a lot of things to get other things. And remember that if I, who suck at what I do, can do it, you can do it more and probably way better than me.
