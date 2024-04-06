@@ -17,6 +17,6 @@ I am on a flight to Singapore reading [Solatz](https://solatz.substack.com/?ref=
 - **Freedom can be daunting and intimidating from the outside**, but only the brave who dare to pursue it can truly enjoy it.
 - **Freedom demands a lot from you, but it gives you more.** Be demanding with life and sooner or later you’ll be a little freer. Pursuing freedom is an active process – it won’t come to you on its own.
 - **Freedom is asking yourself more questions than usual**, and at the same time knowing that we will probably never get the answers.
-- **Freedom is not tied to any kind of identity.**<span style="color: var(--wp--preset--color--foreground); font-family: var(--wp--preset--font-family--system-font); font-size: var(--wp--preset--font-size--medium); background-color: var(--wp--preset--color--background);"> To be free is to know that there will be nothing that is “the normal” anymore.</span><span style="background-color: var(--wp--preset--color--background); color: var(--wp--preset--color--foreground); font-family: var(--wp--preset--font-family--system-font); font-size: var(--wp--preset--font-size--medium);"> </span>
+- **Freedom is not tied to any kind of identity.** To be free is to know that there will be nothing that is “the normal” anymore.
 
 Now it’s your turn, what are your thoughts on freedom?
