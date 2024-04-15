@@ -5,3 +5,4 @@ _site/
 node_modules
 .vercel
 vendor
+.DS_Store
