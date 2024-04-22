@@ -1,0 +1,35 @@
+---
+title: "Articles"
+layout: "curations"
+permalink: "/articles"
+---
+
+<section class="mb-12">
+  <table class="min-w-full divide-y divide-gray-300">
+    <thead class="text-left">
+      <tr>
+        <th scope="col" class="py-3.5 pl-4 pr-3 text-left font-semibold text-gray-900">Article</th>
+        <th scope="col" class="py-3.5 pl-4 pr-3 text-left font-semibold text-gray-900">Note</th>
+        <th scope="col" class="py-3.5 pl-4 pr-3 text-left font-semibold text-gray-900">Author</th>
+        <th scope="col" class="py-3.5 pl-4 pr-3 text-left font-semibold text-gray-900">Date added</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+
+      {% for article in site.data.articles %}
+      <tr class="p-8">
+        <td class="whitespace-nowrap px-3 py-4 underline"><a href="{{ article.link }}">{{ article.title
+            }}</a></td>
+        <td class="px-3 py-4 text-gray-500">
+          {{ article.note}} <br>
+        </td>
+        <td class="px-3 py-4 text-gray-500">
+          {{ article.author}} <br>
+        </td>
+
+        <td class="px-3 py-4 text-gray-500">{{ article.date_added }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
