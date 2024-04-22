@@ -18,7 +18,8 @@ permalink: "/articles"
 
       {% for article in site.data.articles %}
       <tr class="p-8">
-        <td class="whitespace-nowrap px-3 py-4 underline"><a href="{{ article.link }}">{{ article.title
+        <td class="whitespace-nowrap px-3 py-4 underline"><a target="_blank" rel="noopener nofollower"
+            href="{{ article.link }}">{{ article.title
             }}</a></td>
         <td class="px-3 py-4 text-gray-500">
           {{ article.note}} <br>
