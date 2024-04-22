@@ -9,6 +9,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
+      sans: ["Work Sans", "sans"],
       serif: ["Crimson Pro", "serif"],
     },
   },

@@ -5,32 +5,19 @@ permalink: "/articles"
 ---
 
 <section class="mb-12">
-  <table class="min-w-full divide-y divide-gray-300">
-    <thead class="text-left">
-      <tr>
-        <th scope="col" class="py-3.5 pl-4 pr-3 text-left font-semibold text-gray-900">Article</th>
-        <th scope="col" class="py-3.5 pl-4 pr-3 text-left font-semibold text-gray-900">Note</th>
-        <th scope="col" class="py-3.5 pl-4 pr-3 text-left font-semibold text-gray-900">Author</th>
-        <th scope="col" class="py-3.5 pl-4 pr-3 text-left font-semibold text-gray-900">Date added</th>
-      </tr>
-    </thead>
-    <tbody class="divide-y divide-gray-200">
+  <article class="prose prose-p:text-xl prose-li:text-xl prose-figure:text-xl">
+    <header>
+      <h1>Articles</h1>
+    </header>
 
-      {% for article in site.data.articles %}
-      <tr class="p-8">
-        <td class="whitespace-nowrap px-3 py-4 underline"><a target="_blank" rel="noopener nofollower"
-            href="{{ article.link }}">{{ article.title
-            }}</a></td>
-        <td class="px-3 py-4 text-gray-500">
-          {{ article.note}} <br>
-        </td>
-        <td class="px-3 py-4 text-gray-500">
-          {{ article.author}} <br>
-        </td>
-
-        <td class="px-3 py-4 text-gray-500">{{ article.date_added }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+    {% for article in site.data.articles %}
+    <article class="flex my-4 leading-snug">
+      <div class="self-center">
+        <h3 class="mb-3"> <a class="block mb-1" target="_blank" href="{{ article.link }}">{{ article.title }} - {{
+            article.author }}</a></h3>
+        <p class="text-slate-500 text-sm">{{ article.note }}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </article>
 </section>
