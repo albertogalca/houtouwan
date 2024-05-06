@@ -25,15 +25,6 @@
 
 @font-face {
   font-family: "HEX Franklin";
-  src: url("../fonts/HEXFranklinv02-Extrabold.woff2") format("woff2"),
-    url("../fonts/HEXFranklinv02-Extrabold.woff") format("woff");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "HEX Franklin";
   src: url("../fonts/HEXFranklinv02-Regular.woff2") format("woff2"),
     url("../fonts/HEXFranklinv02-Regular.woff") format("woff");
   font-weight: normal;
