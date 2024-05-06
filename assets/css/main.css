@@ -6,37 +6,9 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "HEX Franklin";
-  src: url("../fonts/HEXFranklinv02-Bold.woff2") format("woff2"),
-    url("../fonts/HEXFranklinv02-Bold.woff") format("woff");
-  font-weight: bold;
+  font-family: "Hex Franklin";
+  src: url("../fonts/hex-franklin-0.2.woff2") format("woff2");
+  font-weight: 1 999;
+  font-stretch: 0% 100%;
   font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "HEX Franklin";
-  src: url("../fonts/HEXFranklinv02-Medium.woff2") format("woff2"),
-    url("../fonts/HEXFranklinv02-Medium.woff") format("woff");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "HEX Franklin";
-  src: url("../fonts/HEXFranklinv02-Regular.woff2") format("woff2"),
-    url("../fonts/HEXFranklinv02-Regular.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "HEX Franklin";
-  src: url("../fonts/HEXFranklinv02-Semibold.woff2") format("woff2"),
-    url("../fonts/HEXFranklinv02-Semibold.woff") format("woff");
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
 }
