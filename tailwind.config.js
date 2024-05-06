@@ -9,7 +9,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ["Work Sans", "sans"],
+      sans: ["HEX Franklin", "sans"],
       serif: ["Crimson Pro", "serif"],
     },
   },
