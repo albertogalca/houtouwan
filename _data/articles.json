@@ -30,5 +30,21 @@
     "author": "Jeff Bezos",
     "note": "What choices can you make today that minimize the regret you'll feel as an 80-year-old looking back on your life? When you minimize future regret, you sleep well knowing you're maximizing fulfillment.",
     "category": "Video"
+  },
+  {
+    "title": "No Meetings, No Deadlines, No Full-Time Employees",
+    "link": "https://sahillavingia.com/work",
+    "cover": "https://sahillavingia.com/gumroadians.png",
+    "author": "Sahil Lavingia",
+    "note": "Gumroad is one of those companies that change the industry in some way.",
+    "category": "Article"
+  },
+  {
+    "title": "How to do great work",
+    "link": "https://www.paulgraham.com/greatwork.html",
+    "cover": "/assets/images/curations/articles/how-to-do-great-work.png",
+    "author": "Paul Graham",
+    "note": "Yes, you'll have to work hard. But again, lots of people have to work hard. And if you're working on something you find very interesting, which you necessarily will if you're on the right path, the work will probably feel less burdensome than a lot of your peers'.",
+    "category": "Article"
   }
 ]
