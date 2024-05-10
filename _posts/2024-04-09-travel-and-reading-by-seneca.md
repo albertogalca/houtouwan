@@ -6,7 +6,7 @@ author: albertogalca
 layout: post
 permalink: /travel-and-reading-by-seneca/
 categories:
-  - Uncategorized
+  - note
 ---
 
 > He is nowhere who is everywhere. This is what happens to those who spend their lives travelling: **they have many homes and no friends**. The same thing must happen to those who do not apply themselves to the familiar treatment of any ingenuity, but who deal with everything in a hurried and hasty manner.

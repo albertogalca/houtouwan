@@ -7,7 +7,7 @@ layout: post
 guid: "https://www.albertogalca.com/?p=191"
 permalink: /creativity-takes-courage/
 categories:
-  - Microblog
+  - note
 ---
 
 ![](/assets/images/posts/2024/01/image.jpg)

@@ -1,17 +1,18 @@
 ---
-title: "Essays"
+title: "Notes"
 layout: "default"
-permalink: "/essays"
+permalink: "/notes"
 ---
 
 <section class="mb-12">
+  <h2 class="my-0 text-lg font-medium">Notes</h2>
   {% for post in site.posts %}
-  {% unless post.categories contains 'note' %}
+  {% if post.categories contains 'note' %}
   <article class="flex my-4">
     <h2 class="my-0 text-base">
       <a class="block mb-1" href="{{ post.url }}">{{ post.title }}</a>
     </h2>
   </article>
-  {% endunless %}
+  {% endif %}
   {% endfor %}
 </section>

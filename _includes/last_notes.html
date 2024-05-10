@@ -1,9 +1,9 @@
 <section class="mb-12">
-  <h2 class="my-0 text-lg font-medium">Essays</h2>
+  <h2 class="my-0 text-lg font-medium">Notes</h2>
   {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
   {% assign count = 0 %}
   {% for post in sorted_posts %}
-  {% unless post.categories contains 'note' %}
+  {% if post.categories contains 'note' %}
   {% if count < 4 %} <article class="flex my-4">
     <div class="self-center">
       <h3 class="my-0 text-base">
@@ -13,10 +13,10 @@
     </article>
     {% assign count = count | plus: 1 %}
     {% endif %}
-    {% endunless %}
+    {% endif %}
     {% if count >= 4 %}
     {% break %}
     {% endif %}
     {% endfor %}
-    <a class="text-gray-500 no-underline" href="/essays">Read more &#8594;</a>
+    <a class="text-gray-500 no-underline" href="/notes">Read more &#8594;</a>
 </section>

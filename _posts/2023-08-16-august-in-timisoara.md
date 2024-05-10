@@ -7,7 +7,7 @@ layout: post
 guid: "https://www.albertogalca.com/?p=194"
 permalink: /august-in-timisoara/
 categories:
-  - Microblog
+  - note
 ---
 
 ![](/assets/images/posts/2024/01/tumblr_12fe2096f28a100dafab421f55ec3a06_3905ba01_2048-768x1024.jpg)
