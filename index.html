@@ -20,8 +20,11 @@ layout: default
 </section>
 {% include projects.html %}
 {% include curations.html %}
-<!-- For Essays, excluding 'note' category -->
-{% include latest_content.html exclude_category="note" title="📮 Essays" link="/essays" %}
-
-<!-- For Notes, including 'note' category -->
-{% include latest_content.html category="note" title="📝 Notes" link="/notes" %}
+<section class="mb-12">
+        <h2 class="my-0 text-lg font-medium">📮 Essays</h2>
+        {% include content.html exclude_category="note" link="/essays" limit=4 %}
+</section>
+<section class="mb-12">
+        <h2 class="my-0 text-lg font-medium">📝 Notes</h2>
+        {% include content.html category="note" title="📝 Notes" link="/notes" limit=4 %}
+</section>
