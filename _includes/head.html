@@ -1,33 +1,36 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title }}{% else %}Alberto Gallego{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} - Alberto Gallego{% else %}Alberto Gallego{% endif %}</title>
   <meta name="description"
-    content="I create software, write random stuff, and enjoy traveling to capture moments with my phone">
-
+    content="{{ page.description | default: 'I create software, write random stuff, and enjoy traveling to capture moments with my phone' }}">
 
   <!-- Google / Search Engine Tags -->
-  <meta itemprop="name" content="Alberto Gallego">
+  <meta itemprop="name" content="{{ page.title | default: 'Alberto Gallego' }}">
   <meta itemprop="description"
-    content="I create software, write random stuff, and enjoy traveling to capture moments with my phone">
-  <meta itemprop="image" content="http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png">
+    content="{{ page.description | default: 'I create software, write random stuff, and enjoy traveling to capture moments with my phone' }}">
+  <meta itemprop="image"
+    content="{{ page.image | default: 'http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png' }}">
 
   <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://www.albertogalca.com">
+  <meta property="og:url" content="{{ page.url | absolute_url | default: 'https://www.albertogalca.com' }}">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Alberto Gallego">
+  <meta property="og:title" content="{{ page.title | default: 'Alberto Gallego' }}">
   <meta property="og:description"
-    content="I create software, write random stuff, and enjoy traveling to capture moments with my phone">
-  <meta property="og:image" content="http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png">
+    content="{{ page.description | default: 'I create software, write random stuff, and enjoy traveling to capture moments with my phone' }}">
+  <meta property="og:image"
+    content="{{ page.image | default: 'http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png' }}">
 
   <!-- Twitter Meta Tags -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Alberto Gallego">
+  <meta name="twitter:title" content="{{ page.title | default: 'Alberto Gallego' }}">
   <meta name="twitter:description"
-    content="I create software, write random stuff, and enjoy traveling to capture moments with my phone">
-  <meta name="twitter:image" content="http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png">
+    content="{{ page.description | default: 'I create software, write random stuff, and enjoy traveling to capture moments with my phone' }}">
+  <meta name="twitter:image"
+    content="{{ page.image | default: 'http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png' }}">
 
   <!-- Favicon -->
+
   <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
@@ -47,9 +50,8 @@
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-  <link rel="alternate" type="application/rss+xml" title="Alberto's nonsense" href="/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Alberto's Nonsense" href="/feed.xml">
   <script defer data-domain="albertogalca.com" src="https://plausible.io/js/script.js"></script>
 
   <link rel="preload" href="../assets/fonts/hex-franklin-0.2.woff2" crossorigin="anonymous" as="font" type="font/woff2">
-
 </head>
