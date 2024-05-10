@@ -2,12 +2,8 @@
 id: 19
 title: "Have we over-optimized our lives?"
 date: "2023-07-30T16:02:00+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/have-we-over-optimized-our-lives"
 permalink: /have-we-over-optimized-our-lives/
-categories:
-  - Uncategorized
 ---
 
 What exactly for?

@@ -2,12 +2,8 @@
 id: 15
 title: "Ode to photography"
 date: "2023-10-15T09:00:17+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/ode-to-photography"
 permalink: /ode-to-photography/
-categories:
-  - Uncategorized
 ---
 
 Almost without knowing you, you were there to show me who I was when I wasn’t even aware of myself.

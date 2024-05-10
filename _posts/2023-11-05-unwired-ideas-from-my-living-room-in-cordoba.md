@@ -2,12 +2,8 @@
 id: 12
 title: "Unwired ideas from my living room in Córdoba"
 date: "2023-11-05T09:00:24+01:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/unwired-ideas-from-my-living-room"
 permalink: /unwired-ideas-from-my-living-room-in-cordoba/
-categories:
-  - Uncategorized
 ---
 
 - <span>Proust always said, “N’Allez Pas Trop Vite,” which means “Don’t go too fast.” When you go slow and observe, you realize things. The world becomes richer, less monotonous. </span>**You find beauty in what was previously blurred because of speed**<span>.</span>

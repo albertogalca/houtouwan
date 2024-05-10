@@ -2,12 +2,8 @@
 id: 23
 title: "Five ideas on how to live"
 date: "2023-04-30T09:00:00+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/five-ideas-on-how-to-live"
 permalink: /five-ideas-on-how-to-live/
-categories:
-  - Uncategorized
 ---
 
 Welcome to this new Everything is a Remix’s edition, today’s remixes are:
@@ -19,7 +15,7 @@ Welcome to this new Everything is a Remix’s edition, today’s remixes are:
 
 - _“There isn’t time, so brief is life, for bickering, apologies, heart burning, callings to account. There is only time for loving, and but an instant, so to speak, for that.”_
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="409" loading="lazy" src="https://www.youtube-nocookie.com/embed/8KkKuTCFvzI?rel=0&autoplay=0&showinfo=0&enablejsapi=0" width="728"></iframe>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="409" loading="lazy" src="https://www.youtube-nocookie.com/embed/8KkKuTCFvzI?rel=0&autoplay=0&showinfo=0&enablejsapi=0" width="100%"></iframe>
 
 - Marty Bell is the [creator of Poolsuite](https://poolsuite.net/?utm_source=everythingisaremix&utm_medium=email&utm_campaign=newsletter-no-02), which I have told you about before. [This manifesto](https://wepresent.wetransfer.com/stories/manifesto-marty-bell?utm_source=everythingisaremix&utm_medium=email&utm_campaign=newsletter-no-02) is gold.
 

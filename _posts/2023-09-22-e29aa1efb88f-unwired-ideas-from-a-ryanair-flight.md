@@ -2,12 +2,8 @@
 id: 16
 title: "Unwired Ideas from a Ryanair flight"
 date: "2023-09-22T09:00:24+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/disconnected-ideas-from-a-ryanair"
 permalink: /%e2%9a%a1%ef%b8%8f-unwired-ideas-from-a-ryanair-flight/
-categories:
-  - Uncategorized
 ---
 
 Yes, I know. Another list. Probably this will be the last one for a while.
@@ -31,7 +27,7 @@ Yesterday, I was on a flight back to Spain and was reading [Stolen Focus](https:
 
 ---
 
-In [past editions](https://news.albertogalca.com/p/updates-after-two-months-of-not-writing) I talked to you about Sunbathe, the app I was working on with [Julia](https://twitter.com/juliaalvarez23). After a while, **the first version is ready**. If you don’t remember, it’s a single-purpose application that aims to help you become more aware of vitamin D by showing you the optimal times to get your dose of vitamin D in your location.
+In [past editions](/updates-after-two-months-of-not-writing) I talked to you about Sunbathe, the app I was working on with [Julia](https://twitter.com/juliaalvarez23). After a while, **the first version is ready**. If you don’t remember, it’s a single-purpose application that aims to help you become more aware of vitamin D by showing you the optimal times to get your dose of vitamin D in your location.
 
 The application **can be purchased for a one-time fee of $3.99** for both [iOS](https://apps.apple.com/us/app/sunbathe/id6449760948) and [Android](https://play.google.com/store/apps/details?id=com.sunbatheapp). We have several ideas for this app, and over the months, we will be developing new features. No rush, but no pause.
 

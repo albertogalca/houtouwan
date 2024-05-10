@@ -2,12 +2,8 @@
 id: 18
 title: "Unwired Ideas from a train to Budapest"
 date: "2023-09-04T18:14:15+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/disconnected-ideas-from-a-train-to"
 permalink: /unwired-ideas-from-a-train-to-budapest/
-categories:
-  - Uncategorized
 ---
 
 I was on a 5-hour train journey from Timişoara to Budapest, and it occurred to me to do the following exercise: **During the journey, I was going to write down and maybe delve into some ideas that were coming up in my head.** I think it is a very useful way to understand how you think, and above all, where your gaps are.

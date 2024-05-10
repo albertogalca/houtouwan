@@ -2,7 +2,6 @@
 id: 194
 title: "August in Timisoara"
 date: "2023-08-16T16:29:00+02:00"
-author: albertogalca
 layout: post
 guid: "https://www.albertogalca.com/?p=194"
 permalink: /august-in-timisoara/

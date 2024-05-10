@@ -2,7 +2,6 @@
 id: 200
 title: "I want people"
 date: "2023-08-12T16:32:00+02:00"
-author: albertogalca
 layout: post
 guid: "https://www.albertogalca.com/?p=200"
 permalink: /i-want-people/

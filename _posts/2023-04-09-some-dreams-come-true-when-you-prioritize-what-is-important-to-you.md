@@ -2,12 +2,8 @@
 id: 26
 title: "Some dreams come true when you prioritize what is important to you"
 date: "2023-04-09T09:00:00+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/some-dreams-come-true-when-you-prioritize"
 permalink: /some-dreams-come-true-when-you-prioritize-what-is-important-to-you/
-categories:
-  - Uncategorized
 ---
 
 7:30pm. I was in Singapore, lying on the floor of the Garden by The Bay waiting for a light and music show to start.

@@ -2,12 +2,8 @@
 id: 22
 title: "Five websites I use for travel"
 date: "2023-05-07T09:00:00+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/five-websites-i-use-for-travel"
 permalink: /five-websites-i-use-for-travel/
-categories:
-  - Uncategorized
 ---
 
 Welcome to this new Everything is a Remix’s edition, today’s remixes are in the mood to get on a plane:

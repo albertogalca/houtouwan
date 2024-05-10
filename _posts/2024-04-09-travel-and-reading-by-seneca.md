@@ -2,7 +2,6 @@
 id: 30
 title: "Travel and reading by Séneca"
 date: "2024-04-09T08:14:15+02:00"
-author: albertogalca
 layout: post
 permalink: /travel-and-reading-by-seneca/
 categories:

@@ -1,13 +1,9 @@
 ---
 id: 25
-title: 'New direction, new name'
-date: '2023-04-16T16:12:00+02:00'
-author: albertogalca
+title: "New direction, new name"
+date: "2023-04-16T16:12:00+02:00"
 layout: post
-guid: 'https://news.albertogalca.com/p/new-direction-new-name'
 permalink: /new-direction-new-name/
-categories:
-    - Uncategorized
 ---
 
 After 12 editions, I’m going to give this newsletter a twist.

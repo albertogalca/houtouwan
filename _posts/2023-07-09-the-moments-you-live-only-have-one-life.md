@@ -2,12 +2,8 @@
 id: 20
 title: "The moments you live only have one life"
 date: "2023-07-09T16:06:00+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/the-moments-you-live-only-have-one"
 permalink: /the-moments-you-live-only-have-one-life/
-categories:
-  - Uncategorized
 ---
 
 A week ago, I arrived in New Zealand with the main idea of visiting my friend Gonzalo. Our plan was to fly to the South Island of New Zealand and take a circular route with Christchurch as the starting and ending point.

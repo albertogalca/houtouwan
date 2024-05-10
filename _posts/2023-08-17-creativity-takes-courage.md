@@ -2,7 +2,6 @@
 id: 191
 title: "Creativity takes courage"
 date: "2023-08-17T16:27:00+02:00"
-author: albertogalca
 layout: post
 guid: "https://www.albertogalca.com/?p=191"
 permalink: /creativity-takes-courage/

@@ -2,12 +2,8 @@
 id: 17
 title: "Unwired Ideas from a café in Ljubljana"
 date: "2023-09-15T09:00:30+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/ideas-from-a-cafe-in-ljubljana"
 permalink: /%e2%9a%a1%ef%b8%8f-unwired-ideas-from-a-cafe-in-ljubljana/
-categories:
-  - Uncategorized
 ---
 
 - **You procrastinate for 2 reasons**: 1/ because you fear that something might go wrong or that it might go well and the implications/responsibilities that come with it. 2/ Because you don’t care about the thing you have to do and don’t find it meaningful for your life.

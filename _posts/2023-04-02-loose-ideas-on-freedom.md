@@ -2,12 +2,8 @@
 id: 27
 title: "Loose ideas on freedom"
 date: "2023-04-02T09:00:00+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/loose-ideas-on-freedom"
 permalink: /loose-ideas-on-freedom/
-categories:
-  - Uncategorized
 ---
 
 I am on a flight to Singapore reading [Solatz](https://solatz.substack.com/?ref=albertogalca.com), a Spanish newsletter that shares ideas about freedom. Pursuing freedom has been a long-standing goal of mine, and I try to prioritize it in every decision I make. Over time, I’ve developed some brief opinions about freedom that I’d like to share with you today:

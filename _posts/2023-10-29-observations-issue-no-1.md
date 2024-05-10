@@ -2,12 +2,8 @@
 id: 13
 title: "Observations from Istanbul"
 date: "2023-10-29T09:00:46+01:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/observations-issue-no-1"
 permalink: /observations-issue-no-1/
-categories:
-  - Uncategorized
 ---
 
 _Istanbul, Turkey / November 2022_

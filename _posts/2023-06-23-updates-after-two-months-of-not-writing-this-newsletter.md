@@ -2,12 +2,8 @@
 id: 21
 title: "Updates after two months of not writing this newsletter"
 date: "2023-06-23T09:00:00+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/updates-after-two-months-of-not-writing"
 permalink: /updates-after-two-months-of-not-writing-this-newsletter/
-categories:
-  - Uncategorized
 ---
 
 Halo!

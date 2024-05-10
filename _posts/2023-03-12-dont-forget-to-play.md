@@ -1,13 +1,9 @@
 ---
 id: 29
-title: 'Don&#8217;t forget to play'
-date: '2023-03-12T09:00:00+01:00'
-author: albertogalca
+title: "Don&#8217;t forget to play"
+date: "2023-03-12T09:00:00+01:00"
 layout: post
-guid: 'https://news.albertogalca.com/p/dont-forget-to-play'
 permalink: /dont-forget-to-play/
-categories:
-    - Uncategorized
 ---
 
 As a child, life was all about playing and exploring. Everything is new and exciting, and every experience is a discovery. Every moment shines with its own light, and every second of your life is an adventure. We see the world as a collection of shining pearls at the bottom of the ocean.

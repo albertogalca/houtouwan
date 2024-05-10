@@ -2,12 +2,8 @@
 id: 11
 title: "Don&#8217;t switch context"
 date: "2023-11-26T09:00:39+01:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/dont-switch-context"
 permalink: /dont-switch-context/
-categories:
-  - Uncategorized
 ---
 
 Do you ever have days where you feel like you’ve been stumbling from one thing to another but haven’t actually accomplished anything?

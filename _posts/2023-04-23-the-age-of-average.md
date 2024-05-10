@@ -2,12 +2,8 @@
 id: 24
 title: "The age of average"
 date: "2023-04-23T09:00:00+02:00"
-author: albertogalca
 layout: post
-guid: "https://news.albertogalca.com/p/the-age-of-average"
 permalink: /the-age-of-average/
-categories:
-  - Uncategorized
 ---
 
 Welcome to this new Everything is a Remix’s edition, today’s remixes are:
