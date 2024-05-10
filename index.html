@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="mb-12">
+<div>
         <h1 class="text-2xl font-medium">Hello, I'm Alberto 👋🏻</h1>
         <p>
                 I’m a curious mind and a slow thinker. I create conscious technology and collaborate with other people
@@ -18,14 +18,17 @@ layout: default
                 I enjoy meeting new people, so <a href="mailto:hello@albertogalca.com">write me</a> and say hello.
         </p>
         {% include newsletter.html %}
-</section>
+</div>
+
 {% include projects.html %}
 {% include curations.html %}
-<section class="mb-12">
+
+<div>
         <h2 class="text-lg font-medium mb-8">📮 Essays</h2>
         {% include content.html exclude_category="note" link="/essays" limit=4 %}
-</section>
-<section class="mb-12">
+</div>
+
+<div>
         <h2 class="text-lg font-medium mb-8">📝 Notes</h2>
         {% include content.html category="note" title="📝 Notes" link="/notes" limit=8 %}
-</section>
+</div>
