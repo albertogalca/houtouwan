@@ -41,11 +41,12 @@ Usage:
 {% break %}
 {% endif %}
 {% endif %}
-<article class="flex my-4">
-  <div class="self-center">
+<article class="flex mb-2">
+  <div class="w-full flex flex-col lg:flex-row gap-1 lg:gap-0 lg:justify-between items-baseline">
     <h3 class="my-0 text-base">
       <a class="block mb-1" href="{{ post.url }}">{{ post.title }}</a>
     </h3>
+    <p class="text-sm text-gray-500">{{ post.date | date: "%b %d, %Y" }}</p>
   </div>
 </article>
 {% assign count = count | plus: 1 %}
