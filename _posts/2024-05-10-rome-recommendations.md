@@ -7,7 +7,7 @@ categories:
   - note
 ---
 
-## Places I've been
+**Places I've been**
 
 - Pizzeria Da Baffetto: [https://maps.app.goo.gl/1nXV9ETxa7LRqgU18](https://maps.app.goo.gl/1nXV9ETxa7LRqgU18)
 - Da Bucatino: [https://goo.gl/maps/74WG3hjBW6ymQ4Zq5](https://goo.gl/maps/74WG3hjBW6ymQ4Zq5)
@@ -16,7 +16,7 @@ categories:
 - Fatamorgana Monti: [https://goo.gl/maps/GzVokbk2EPMpw8Hz5](https://goo.gl/maps/GzVokbk2EPMpw8Hz5)
 - La Carbonara (Monti): [https://maps.app.goo.gl/EUxLq37Cs2EEAT78A](https://maps.app.goo.gl/EUxLq37Cs2EEAT78A)
 
-## Places I haven't been to but they look good
+**Places I haven't been to but they look good**
 
 - Paninoteca Slurp: [https://goo.gl/maps/dHHt6XHGzXxF7zT67](https://goo.gl/maps/dHHt6XHGzXxF7zT67)
 - Tonnarello: [https://goo.gl/maps/W5hLtNH9zJNEVGPr7](https://goo.gl/maps/W5hLtNH9zJNEVGPr7)
@@ -27,7 +27,7 @@ categories:
 - Trattoria Vecchia Roma: [https://maps.app.goo.gl/9T8STwDByo1qKpmp6](https://maps.app.goo.gl/9T8STwDByo1qKpmp6)
 - Pinsere: [https://goo.gl/maps/iPEgsfrFKtg3cjXEA](https://goo.gl/maps/iPEgsfrFKtg3cjXEA)
 
-## Places to see
+**Places to see**
 
 - Campidoglio: [https://maps.app.goo.gl/ZVbtDoG8yY1rQNzL6](https://maps.app.goo.gl/ZVbtDoG8yY1rQNzL6)
 - Pincio: [https://goo.gl/maps/qYLMSUGcj1PMT1bE8](https://goo.gl/maps/qYLMSUGcj1PMT1bE8)
