@@ -6,10 +6,10 @@ can't forget them"
 permalink: "/books"
 ---
 
-<div class="grid grid-cols-2 md:grid-cols-4 2xl:grid-cols-5 gap-20 2xl:gap-32">
+<div class="grid grid-cols-2 sm:grid-cols-4 2xl:grid-cols-5 gap-20 2xl:gap-32">
   {% for book in site.data.books %}
   <div class="items-center text-center">
-    <div class="w-[180px] h-[280px] bg-gray-200 rounded-lg mb-4 border-2 border-gray-200 mx-auto">
+    <div class="w-[180px] max-w-full h-auto lg:h-[280px] bg-gray-200 rounded-lg mb-4 border-2 border-gray-200 mx-auto">
       <img loading="lazy" class=" w-full h-full object-cover rounded-lg" src="{{ book.cover }}" alt="{{ book.title}}">
     </div>
     <h2 class="mb-2 text-base font-medium"> {{ book.title
