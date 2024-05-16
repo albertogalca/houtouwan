@@ -59,6 +59,8 @@ You get it, right? So that’s it basically.
 
 ### 5. We continue curating places now with Creare Spaces.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is probably one of the nicest libraries I&#39;ve ever been to. They were the bathrooms of an old tobacco factory.<br><br>📍Not Just Library, Taipei <a href="https://t.co/EDZGyIvS99">pic.twitter.com/EDZGyIvS99</a></p>&mdash; Alberto Gallego (@albertogalca) <a href="https://twitter.com/albertogalca/status/1787735619512549699?ref_src=twsrc%5Etfw">May 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Yesterday, Marga and I launched another site curation project. This time, we're focusing on finding beautiful places to work for people like us who are in one place one day and in another the next.
 
 For now, we are testing the idea and have started very simply. If you visit the Creare Spaces page and subscribe to the newsletter, we will send you 10 places to get you started.
