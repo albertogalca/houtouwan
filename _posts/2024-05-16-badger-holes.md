@@ -63,7 +63,7 @@ You get it, right? So that’s it basically.
 
 Yesterday, Marga and I launched another site curation project. This time, we're focusing on finding beautiful places to work for people like us who are in one place one day and in another the next.
 
-For now, we are testing the idea and have started very simply. If you visit the Creare Spaces page and subscribe to the newsletter, we will send you 10 places to get you started.
+For now, we are testing the idea and have started very simply. If you visit the [Creare Spaces](https://crearespaces.com/) page and subscribe to the newsletter, we will send you 10 places to get you started.
 
 ## 5 things I liked it in the last few months
 
