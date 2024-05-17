@@ -1,5 +1,5 @@
 url: "https://albertogalca.com"
-title: "Alberto's nonsense"
+title: "Alberto Gallego"
 description: "I create software, write random stuff, and enjoy traveling to capture moments with my phone"
 author:
   twitter: albertogalca
@@ -9,6 +9,8 @@ plugins:
   - jekyll-postcss
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-last-modified-at
 
 postcss:
   cache: false

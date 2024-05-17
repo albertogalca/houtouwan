@@ -1,33 +1,8 @@
-<head>
+<head lang="en">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title }} - Alberto Gallego{% else %}Alberto Gallego{% endif %}</title>
-  <meta name="description"
-    content="{{ page.description | default: 'I create software, write random stuff, and enjoy traveling to capture moments with my phone' }}">
 
-  <!-- Google / Search Engine Tags -->
-  <meta itemprop="name" content="{{ page.title | default: 'Alberto Gallego' }}">
-  <meta itemprop="description"
-    content="{{ page.description | default: 'I create software, write random stuff, and enjoy traveling to capture moments with my phone' }}">
-  <meta itemprop="image"
-    content="{{ page.image | default: 'http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png' }}">
-
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="{{ page.url | absolute_url | default: 'https://www.albertogalca.com' }}">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ page.title | default: 'Alberto Gallego' }}">
-  <meta property="og:description"
-    content="{{ page.description | default: 'I create software, write random stuff, and enjoy traveling to capture moments with my phone' }}">
-  <meta property="og:image"
-    content="{{ page.image | default: 'http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png' }}">
-
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title | default: 'Alberto Gallego' }}">
-  <meta name="twitter:description"
-    content="{{ page.description | default: 'I create software, write random stuff, and enjoy traveling to capture moments with my phone' }}">
-  <meta name="twitter:image"
-    content="{{ page.image | default: 'http://www.albertogalca.com/wp-content/uploads/2024/01/Frame-19.png' }}">
+  {% seo %}
 
   <!-- Favicon -->
 
