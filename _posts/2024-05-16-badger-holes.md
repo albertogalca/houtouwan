@@ -19,7 +19,7 @@ And that is precisely what I think about the Thai people. They spend a lot of ti
 
 When I was in Athens, I went to [Blank Wall Gallery](https://www.blankwallgallery.com/) for a photography exhibition, and they were preparing a Street Photography exhibition for May 17th. Not really believing it, and after much deliberation, I sent 5 photos that I had selected. After a few weeks without receiving a response, I received this email:
 
-![](/assets/images/posts/2024/05/Screenshot%202024-05-16%20at%203.08.03%E2%80%AFPM.png)
+{% image src="/assets/images/posts/2024/05/Screenshot%202024-05-16%20at%203.08.03%E2%80%AFPM.png" alt="Email from Blank Wall Gallery" %}
 
 It seemed that they had selected one of the photos I sent to exhibit. I'm very sad that I can't attend the exhibition since I'm a bit far away, but I'm thrilled that a photo I took with my phone will be in a gallery.
 
@@ -37,7 +37,7 @@ In January, we launched the paid version and…well. We sold a total of €49. W
 
 We'll keep at it.
 
-![](/assets/images/posts/2024/05/Screenshot%202024-05-16%20at%203.13.34%E2%80%AFPM.png)
+{% image src="/assets/images/posts/2024/05/Screenshot%202024-05-16%20at%203.13.34%E2%80%AFPM.png" alt="I think I can't retire yet 👀" %}
 
 ## 3. I started my own studio
 
