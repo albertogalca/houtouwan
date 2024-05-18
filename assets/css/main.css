@@ -41,7 +41,7 @@ figcaption {
 }
 
 ul {
-  @apply list-disc pl-8 text-lg text-gray-600 leading-loose mb-4;
+  @apply list-disc pl-8 text-base lg:text-lg text-gray-600 leading-loose mb-4;
 }
 
 li::marker {
