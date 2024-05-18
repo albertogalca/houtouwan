@@ -1,8 +1,8 @@
 ---
-title: "Badger Holes"
+title: "6 months later"
 date: "2024-05-16T08:14:15+02:00"
 layout: post
-permalink: /badger-holes/
+permalink: /6-months-later/
 ---
 
 It's been a long time since I last wrote, and I missed it. My journal is full of phrases like "next week I'll start writing again." Looking back, the last post I wrote was in November of last year, which was no less than 6 months ago. The only conclusion I can draw from this is that time passes very quickly.
@@ -29,7 +29,7 @@ To be more specific, the photo is one I took last year in Zagreb, and it's this 
 
 Eventually, I will create a newsletter just for sharing photos like this, but if you want to know more about my photos, you can follow me on [Instagram](https://www.instagram.com/albertogalca/).
 
-## 2. We launched a paid version of Kalm
+### 2. We launched a paid version of Kalm
 
 For those who don't remember, Kalm is a directory of places to find calm. I started this project because of cities like the one I'm currently in, where the traffic noise is constant.
 
@@ -39,7 +39,7 @@ We'll keep at it.
 
 {% image src="/assets/images/posts/2024/05/Screenshot%202024-05-16%20at%203.13.34%E2%80%AFPM.png" alt="I think I can't retire yet 👀" %}
 
-## 3. I started my own studio
+### 3. I started my own studio
 
 For some time I had the idea of creating a place to group my professional experience and also use it as a creative project, looking to give a different touch to the typical services landing.
 
@@ -49,7 +49,7 @@ With all that in mind, I created [Cantimplora Studio](https://cantimplora.studio
 
 ![](/assets/images/posts/2024/05/1711545581064.jpeg)
 
-## 4. I've started curating content on my website.
+### 4. I've started curating content on my website.
 
 ![](/assets/images/posts/2024/05/Screenshot%202024-05-16%20at%203.34.48%E2%80%AFPM.png)
 
