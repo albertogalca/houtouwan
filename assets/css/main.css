@@ -15,17 +15,17 @@
 
 h1,
 .h1 {
-  @apply font-sans font-medium text-xl lg:text-2xl mt-8 lg:mt-16 mb-4 lg:mb-8;
+  @apply font-sans font-medium text-xl lg:text-2xl mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
 }
 
 h2,
 .h2 {
-  @apply font-sans font-medium text-lg lg:text-xl mt-8 lg:mt-16 mb-4 lg:mb-8;
+  @apply font-sans font-medium text-lg lg:text-xl mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
 }
 
 h3,
 .h3 {
-  @apply font-sans font-medium text-base lg:text-lg mt-8 lg:mt-16 mb-4 lg:mb-8;
+  @apply font-sans font-medium text-base lg:text-lg mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
 }
 
 p {
@@ -61,7 +61,7 @@ blockquote {
 }
 
 blockquote p {
-  @apply my-0 text-black;
+  @apply my-0 text-black leading-loose;
 }
 
 img,
