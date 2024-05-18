@@ -12,3 +12,59 @@
   font-stretch: 0% 100%;
   font-style: normal;
 }
+
+h1,
+.h1 {
+  @apply font-sans font-medium text-xl lg:text-2xl mt-8 lg:mt-16 mb-4 lg:mb-8;
+}
+
+h2,
+.h2 {
+  @apply font-sans font-medium text-lg lg:text-xl mt-8 lg:mt-16 mb-4 lg:mb-8;
+}
+
+h3,
+.h3 {
+  @apply font-sans font-medium text-base lg:text-lg mt-8 lg:mt-16 mb-4 lg:mb-8;
+}
+
+p {
+  @apply font-sans text-base lg:text-lg text-gray-600 leading-loose my-4 lg:my-8;
+}
+
+figure.image > img {
+  @apply mx-auto my-0;
+}
+
+figcaption {
+  @apply text-center text-sm text-gray-600 mt-2;
+}
+
+ul {
+  @apply list-disc pl-8 text-lg text-gray-600 leading-loose mb-4;
+}
+
+li::marker {
+  @apply text-primary;
+}
+
+a {
+  @apply underline underline-offset-4 hover:decoration-primary transition duration-100 ease-in-out font-medium text-black;
+}
+
+strong {
+  @apply font-medium;
+}
+
+blockquote {
+  @apply p-4 my-4 border-s-4 border-primary bg-gray-50;
+}
+
+blockquote p {
+  @apply my-0 text-black;
+}
+
+img,
+figure.image {
+  @apply mx-auto my-16;
+}

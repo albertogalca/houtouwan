@@ -8,13 +8,17 @@ module.exports = {
     "./*.html",
   ],
   theme: {
-    fontFamily: {
-      sans: ["HEX Franklin", "sans"],
-      serif: ["Crimson Pro", "serif"],
-    },
-    maxWidth: {
-      720: "720px",
+    extend: {
+      fontFamily: {
+        sans: ["HEX Franklin", "sans"],
+        serif: ["Crimson Pro", "serif"],
+      },
+      maxWidth: {
+        720: "720px",
+      },
+      colors: {
+        primary: "#FF595E",
+      },
     },
   },
-  plugins: [require("@tailwindcss/typography")],
 };

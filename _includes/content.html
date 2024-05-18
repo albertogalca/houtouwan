@@ -43,10 +43,10 @@ Usage:
 {% endif %}
 <article class="flex mb-2">
   <div class="w-full flex flex-col lg:flex-row gap-1 lg:gap-0 lg:justify-between items-baseline">
-    <h3 class="my-0 text-base">
+    <h3 class="my-0">
       <a class="block mb-1" href="{{ post.url }}">{{ post.title }}</a>
     </h3>
-    <p class="text-sm text-gray-500">{{ post.date | date: "%b %d, %Y" }}</p>
+    <p class="text-gray-600 text-right my-0">{{ post.date | date: "%b %d, %Y" }}</p>
   </div>
 </article>
 {% assign count = count | plus: 1 %}
@@ -54,5 +54,5 @@ Usage:
 {% endfor %}
 
 {% if include.limit and total_posts > include.limit %}
-<a class="text-gray-500 no-underline" href="{{ include.link }}">Read more &#8594;</a>
+<p><a class="text-gray-600 no-underline" href="{{ include.link }}">Read more &#8594;</a></p>
 {% endif %}

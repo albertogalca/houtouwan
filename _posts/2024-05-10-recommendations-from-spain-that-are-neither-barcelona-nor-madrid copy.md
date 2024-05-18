@@ -1,5 +1,5 @@
 ---
-title: "Recommendations from Spain that are neither Barcelona nor Madrid"
+title: "Spain without Barcelona or Madrid"
 date: "2024-05-10T08:14:15+02:00"
 layout: post
 permalink: /recommendations-from-spain-that-are-neither-barcelona-nor-madrid/

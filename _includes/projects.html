@@ -1,13 +1,13 @@
-<div>
-  <h2 class="text-lg font-medium mb-8">👨🏻‍💻 Working on</h2>
+<section>
+  <h2>Working on</h2>
   {% for project in site.data.projects %}
   <article class="flex my-4 leading-snug">
     <div class="self-center">
-      <h3 class="my-0 text-base"> <a class="block mb-1" target="_blank" rel="nofollow noopener"
-          href="{{ project.url }}">{{ project.name }}</a>
+      <h3 class="my-0"> <a class="block mb-1" target="_blank" rel="nofollow noopener" href="{{ project.url }}">{{
+          project.name }}</a>
       </h3>
-      <p class="text-gray-500 text-sm">{{ project.description }}</p>
+      <p class="text-gray-600 my-0">{{ project.description }}</p>
     </div>
   </article>
   {% endfor %}
-</div>
+</section>

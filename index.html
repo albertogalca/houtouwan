@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div>
-        <h1 class="text-2xl font-medium">Hello, I'm Alberto 👋🏻</h1>
+<section>
+        <h1>Hello, I'm Alberto 👋🏻</h1>
         <p>
                 I’m a curious mind and a slow thinker. I create conscious technology and collaborate with other people
                 to <a href="https://cantimplora.studio" alt="Cantimplora Studio" rel="nofollow noopener"
@@ -19,17 +19,17 @@ layout: default
                 I enjoy meeting new people, so <a href="mailto:hello@albertogalca.com">write me</a> and say hello.
         </p>
         {% include newsletter.html %}
-</div>
+</section>
 
 {% include projects.html %}
 {% include curations.html %}
 
-<div>
-        <h2 class="text-lg font-medium mb-8">📮 Essays</h2>
-        {% include content.html exclude_category="note" link="/essays" limit=4 %}
-</div>
+<section>
+        <h2>Essays</h2>
+        {% include content.html exclude_category="note" title="Essays" link="/essays" limit=4 %}
+</section>
 
-<div>
-        <h2 class="text-lg font-medium mb-8">📝 Notes</h2>
-        {% include content.html category="note" title="📝 Notes" link="/notes" limit=8 %}
-</div>
+<section>
+        <h2>Notes</h2>
+        {% include content.html category="note" title="Notes" link="/notes" limit=8 %}
+</section>

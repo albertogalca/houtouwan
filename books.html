@@ -10,12 +10,13 @@ permalink: "/books"
   {% for book in site.data.books %}
   <div class="items-center text-center">
     <div class="w-[180px] max-w-full h-auto lg:h-[280px] bg-gray-200 rounded-lg mb-4 border-2 border-gray-200 mx-auto">
-      <img loading="lazy" class=" w-full h-full object-cover rounded-lg" src="{{ book.cover }}" alt="{{ book.title}}">
+      <img loading="lazy" class="w-full h-full object-cover rounded-lg my-0" src="{{ book.cover }}"
+        alt="{{ book.title}}">
     </div>
-    <h2 class="mb-2 text-base font-medium"> {{ book.title
+    <h2 class="mb-2 text-base font-medium my-2"> {{ book.title
       }}
     </h2>
-    <p class="text-gray-500">{{
+    <p class="text-gray-600 my-0">{{
       book.author }}</p>
   </div>
 
