@@ -12,6 +12,9 @@ module.exports = {
       sans: ["HEX Franklin", "sans"],
       serif: ["Crimson Pro", "serif"],
     },
+    maxWidth: {
+      720: "720px",
+    },
   },
   plugins: [require("@tailwindcss/typography")],
 };
