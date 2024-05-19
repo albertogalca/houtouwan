@@ -15,12 +15,12 @@
 
 h1,
 .h1 {
-  @apply font-sans font-medium text-xl lg:text-2xl mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
+  @apply font-sans font-bold text-xl lg:text-2xl mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
 }
 
 h2,
 .h2 {
-  @apply font-sans font-medium text-lg lg:text-xl mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
+  @apply font-sans font-bold text-lg lg:text-xl mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
 }
 
 h3,
@@ -42,6 +42,10 @@ figcaption {
 
 ul {
   @apply list-disc pl-8 text-base lg:text-lg text-gray-600 leading-loose mb-4;
+}
+
+li {
+  @apply mb-2;
 }
 
 li::marker {
