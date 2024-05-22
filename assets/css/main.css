@@ -40,8 +40,17 @@ figcaption {
   @apply text-center text-sm text-gray-600 mt-2;
 }
 
+ol,
 ul {
-  @apply list-disc pl-8 text-base lg:text-lg text-gray-600 leading-loose mb-4;
+  @apply pl-8 text-base lg:text-lg text-gray-600 leading-loose mb-4;
+}
+
+ul {
+  @apply list-disc;
+}
+
+ol {
+  @apply list-decimal;
 }
 
 li {

@@ -5,6 +5,8 @@ description: "Searching the Internet is one of my hobbies, here are some of my d
 permalink: "/now"
 ---
 
+# Now
+
 _**Last updated:** 19/05/24_
 
 ## Personal
