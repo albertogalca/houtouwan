@@ -6,78 +6,17 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Hex Franklin";
-  src: url("../fonts/hex-franklin-0.2.woff2") format("woff2");
+  font-family: "Instrument Serif";
+  src: url("../fonts/InstrumentSerif-Regular.woff2") format("woff2");
   font-weight: 1 999;
   font-stretch: 0% 100%;
   font-style: normal;
 }
 
-h1,
-.h1 {
-  @apply font-sans font-bold text-xl lg:text-2xl mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
-}
-
-h2,
-.h2 {
-  @apply font-sans font-bold text-lg lg:text-xl mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
-}
-
-h3,
-.h3 {
-  @apply font-sans font-medium text-base lg:text-lg mt-8 lg:mt-16 mb-4 lg:mb-8 leading-loose;
-}
-
-p {
-  @apply font-sans text-base lg:text-lg text-gray-600 leading-loose my-4 lg:my-8;
-}
-
-figure.image > img {
-  @apply mx-auto my-0;
-}
-
-figcaption {
-  @apply text-center text-sm text-gray-600 mt-2;
-}
-
-ol,
-ul {
-  @apply pl-8 text-base lg:text-lg text-gray-600 leading-loose mb-4;
-}
-
-ul {
-  @apply list-disc;
-}
-
-ol {
-  @apply list-decimal;
-}
-
-li {
-  @apply mb-2;
-}
-
-li::marker {
-  @apply text-primary;
-}
-
-a {
-  @apply underline underline-offset-4 hover:decoration-primary transition duration-100 ease-in-out font-medium text-black;
-}
-
-strong {
-  @apply font-medium;
-}
-
-blockquote {
-  @apply p-4 my-4 border-s-4 border-primary bg-gray-50;
-}
-
-blockquote p {
-  @apply my-0 text-black leading-loose;
-}
-
-img,
-figure.image {
-  @apply mx-auto my-16;
+@font-face {
+  font-family: "Instrument Serif";
+  src: url("../fonts/InstrumentSerif-Italic.woff2") format("woff2");
+  font-weight: 1 999;
+  font-stretch: 0% 100%;
+  font-style: italic;
 }

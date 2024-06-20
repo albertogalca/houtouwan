@@ -2,34 +2,23 @@
 layout: default
 ---
 
-<section>
-        <h1>Hello, I'm Alberto 👋🏻</h1>
-        <p>
-                I’m a curious mind and a slow thinker. I create conscious technology and collaborate with other people
-                to <a href="https://cantimplora.studio" alt="Cantimplora Studio" rel="nofollow noopener"
-                        target="_blank">build
-                        tech products.</a>
-        </p>
-        <p>
-                Apart from that, I often travel and observe the world around me through <a
-                        href="https://www.instagram.com/albertogalca" alt="My Instagram" rel="nofollow noopener"
-                        target="_blank">photography</a>.
-        </p>
-        <p>
-                I enjoy meeting new people, so <a href="mailto:hello@albertogalca.com">write me</a> and say hello.
-        </p>
-        {% include newsletter.html %}
-</section>
+<div class="relative">
+        <ul class="text-3xl lg:text-6xl leading-relaxed space-y-6 lg:space-y-12 tracking-wide">
+                {% assign cities = site.data.cities %}
+                {% for city in cities %}
+                <li>
+                        <a class="underline underline-offset-8 decoration-2"
+                                href="/cities/{{ city.city | to_url_friendly }}">{{
+                                city.city }}</a> /
+                </li>
+                {% endfor %}
+        </ul>
 
-{% include projects.html %}
-{% include curations.html %}
 
-<section>
-        <h2>Essays</h2>
-        {% include content.html exclude_category="note" title="Essays" link="/essays" limit=4 %}
-</section>
 
-<section>
-        <h2>Notes</h2>
-        {% include content.html category="note" title="Notes" link="/notes" limit=8 %}
-</section>
+        <div class="flex justify-center lg:justify-end mx-auto lg:sticky lg:bottom-0 pointer-events-none">
+                <img src="./assets/images/shape-2.svg" class=" w-[60px] lg:w-[341px] h-auto" />
+        </div>
+
+
+</div>

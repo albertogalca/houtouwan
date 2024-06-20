@@ -4,20 +4,23 @@ module.exports = {
     "./_includes/**/*.html",
     "./_layouts/**/*.html",
     "./_posts/*.md",
+    "./_recommendations/**/*.md",
     "./*.md",
     "./*.html",
+    "./scripts/**/*.js",
+    "./cities/**/*.html",
   ],
   theme: {
     extend: {
       fontFamily: {
-        sans: ["HEX Franklin", "sans"],
-        serif: ["Crimson Pro", "serif"],
+        serif: ["Instrument Serif", "serif"],
       },
       maxWidth: {
         720: "720px",
       },
       colors: {
-        primary: "#FF595E",
+        primary: "#314AC4",
+        background: "#FEFAEF",
       },
     },
   },

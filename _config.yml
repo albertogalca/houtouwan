@@ -1,10 +1,14 @@
-url: "https://albertogalca.com"
-title: "Alberto Gallego"
-description: "I create software, write random stuff, and enjoy traveling to capture moments with my phone"
+url: "https://crearespaces.com"
+title: "Creare"
+description: "Spaces to be creative and to work remotely around the world"
 author:
-  twitter: albertogalca
-  name: Alberto Gallego
+  twitter: crearespaces
+  name: Creare Spaces
   picture: /assets/images/me.jpg
+collections:
+  recommendations:
+    output: true
+    permalink: /recommendations/:name
 plugins:
   - jekyll-postcss
   - jekyll-sitemap

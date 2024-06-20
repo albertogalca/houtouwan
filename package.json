@@ -4,9 +4,11 @@
     "autoprefixer": "^10.4.19",
     "cssnano": "^6.1.2",
     "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3"
+    "tailwindcss": "^3.4.3",
+    "node-fetch": "^3.3.2"
   },
   "scripts": {
-    "start": "bundle exec jekyll serve --livereload"
+    "start": "bundle exec jekyll serve --livereload",
+    "generate": "node scripts/get_places_from_airtable.js && node scripts/generate_city_pages.js"
   }
 }
