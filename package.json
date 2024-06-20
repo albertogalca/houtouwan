@@ -8,6 +8,7 @@
     "node-fetch": "^3.3.2"
   },
   "scripts": {
+    "build": "npm run generate && bundle exec jekyll build",
     "start": "bundle exec jekyll serve --livereload",
     "generate": "node scripts/get_places_from_airtable.js && node scripts/generate_city_pages.js"
   }
