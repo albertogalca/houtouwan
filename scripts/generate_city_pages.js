@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const https = require("https");
 
 const cities = require("../_data/cities.json");
 const places = require("../_data/places.json");
@@ -34,6 +35,29 @@ permalink: "/cities/${toURLFriendly(city)}"
 }
 
 function generatePlaceHTML(place) {
+  const pictures = place.fields.Pictures || [];
+  const pictureElements = pictures
+    .slice(0, 4)
+    .map((picture, index) => {
+      const imageUrl = picture.thumbnails.large.url;
+      const fileName = `p0${index + 1}.jpg`;
+      downloadImage(
+        imageUrl,
+        path.join(
+          __dirname,
+          `../assets/images/places/${toURLFriendly(
+            place.fields.Name
+          )}/${fileName}`
+        )
+      );
+      return `
+      <img class="w-full lg:w-[512px] h-auto lg:h-[683px] object-cover"
+        src="/assets/images/places/${toURLFriendly(
+          place.fields.Name
+        )}/${fileName}" />`;
+    })
+    .join("");
+
   return `---
 layout: default
 title: "${place.fields.Name}"
@@ -61,11 +85,7 @@ city: "${place.fields.City}"
 </div>
 
 <div class="my-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:-mx-24">
-  ${place.fields?.Pictures?.map((picture) => {
-    return `
-    <img class="w-full lg:w-[512px] h-auto lg:h-[683px] object-cover"
-      src="${picture.thumbnails.large.url}" />`;
-  }).join("")}
+  ${pictureElements}
 </div>
  `;
 }
@@ -77,6 +97,27 @@ function toURLFriendly(input) {
     .toLowerCase()
     .replace(/ /g, "_")
     .replace(/[^\w-]+/g, "");
+}
+
+function downloadImage(url, filepath) {
+  const dir = path.dirname(filepath);
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+
+  const file = fs.createWriteStream(filepath);
+  https
+    .get(url, (response) => {
+      response.pipe(file);
+      file.on("finish", () => {
+        file.close();
+        console.log(`Downloaded ${filepath}`);
+      });
+    })
+    .on("error", (err) => {
+      fs.unlink(filepath);
+      console.error(`Error downloading ${filepath}: ${err.message}`);
+    });
 }
 
 // Create output directory if it doesn't exist
