@@ -14,7 +14,7 @@ description: "${city} Collection of Spaces"
 permalink: "/cities/${toURLFriendly(city)}"
 ---
 
-<nav class="text-3xl lg:text-6xl leading-relaxed tracking-wide mb-12">
+<nav class="text-3xl lg:text-6xl leading-relaxed tracking-wide mb-20">
   <a class="underline underline-offset-8 decoration-2" href="/">World</a> / ${city}
 </nav>
 
@@ -67,7 +67,7 @@ permalink: "/cities/${toURLFriendly(place.fields.City)}/${toURLFriendly(
 city: "${place.fields.City}"
 ---
 
-<nav class="text-3xl lg:text-6xl leading-relaxed tracking-wide mb-12">
+<nav class="text-3xl lg:text-6xl leading-relaxed tracking-wide mb-20">
   <a class="underline underline-offset-8 decoration-2" href="/">World</a> / <a
     class="underline underline-offset-8 decoration-2" href="/cities/${toURLFriendly(
       place.fields.City
