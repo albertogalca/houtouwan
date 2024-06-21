@@ -51,7 +51,7 @@ function generatePlaceHTML(place) {
         )
       );
       return `
-      <img class="w-full lg:w-[512px] h-auto lg:h-[683px] object-cover"
+      <img loading="lazy" class="w-full lg:w-[512px] h-auto lg:h-[683px] object-cover"
         src="/assets/images/places/${toURLFriendly(
           place.fields.Name
         )}/${fileName}" />`;
