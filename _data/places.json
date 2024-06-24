@@ -3,8 +3,8 @@
     "id": "rec14zSzVRqmBkzwY",
     "createdTime": "2024-06-07T15:38:40.000Z",
     "fields": {
-      "Description": "It is located in the Gràcia neighborhood (Barcelona).\n\nActually, it's not a cafeteria, it's a restaurant, but outside of peak lunch or dinner hours, you can go to work without problems. \n\nIt has an interior part and an exterior part. The patio is full of plants and this piece of nature within the city is very pleasant. \n\nThe coffee is ok.",
-      "Pictures": [
+      "description": "It is located in the Gràcia neighborhood (Barcelona).\n\nActually, it's not a cafeteria, it's a restaurant, but outside of peak lunch or dinner hours, you can go to work without problems. \n\nIt has an interior part and an exterior part. The patio is full of plants and this piece of nature within the city is very pleasant. \n\nThe coffee is ok.",
+      "pictures": [
         {
           "id": "attAk1XSajKEZ5a88",
           "width": 275,
@@ -84,43 +84,22 @@
           }
         }
       ],
-      "Longitude": "2.1569759",
-      "Address": "Carrer de Minerva, 2, Gràcia, 08006 Barcelona",
-      "Category": "Restaurant",
-      "Name": "Les Filles Cafè",
-      "Google Maps": "https://maps.app.goo.gl/WqszkgbJLMDdHUiF8",
-      "City": "Barcelona",
-      "Latitude": "41.3960241"
-    }
-  },
-  {
-    "id": "rec2ox1NzT5Pn5Fn4",
-    "createdTime": "2024-06-21T03:43:12.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Cottbus Technical University Library",
-      "City": "Cottbus"
-    }
-  },
-  {
-    "id": "rec5JzTRIpPHrBfDG",
-    "createdTime": "2024-06-07T07:54:11.000Z",
-    "fields": {
-      "Longitude": "2.1663768",
-      "Address": "Carrer d'Elisabets, 6, Ciutat Vella, 08001 Barcelona",
-      "Category": "Bookstore with cafe",
-      "Name": "La Central del Raval",
-      "Google Maps": "https://maps.app.goo.gl/XuFiP3EnANv3wn6VA",
-      "City": "Barcelona",
-      "Latitude": "41.3836205"
+      "longitude": "2.1569759",
+      "address": "Carrer de Minerva, 2, Gràcia, 08006 Barcelona",
+      "category": "Restaurant",
+      "name": "Les Filles Cafè",
+      "google_maps": "https://maps.app.goo.gl/WqszkgbJLMDdHUiF8",
+      "city": "Barcelona",
+      "latitude": "41.3960241",
+      "is_active": true
     }
   },
   {
     "id": "rec5UCrJz18xOh0So",
     "createdTime": "2024-05-28T08:01:08.000Z",
     "fields": {
-      "Description": "La Casa Encendida is social and cultural center located in the Lavapiés neighbourhood. \n\nThe center has a library, youth library, media library and office room, as well as a cafeteria. The Terrace of La Casa Encendida is an extraordinary place that houses a wide variety of plant species and allows you to contemplate the best sunsets in the city. It is home to the Terrace coffee bar, open all year round, with exquisite breakfasts, brunches, and an extensive list of wines, cocktails and beers.\n\nIt is located in a neo-Mudejar style building that has a monumental character, designed by the architect Fernando Arbós and inaugurated in 1913.\n\nCoffee Shop is located in floor 1 and terrace coffee bar in floor 0. ",
-      "Pictures": [
+      "description": "La Casa Encendida is social and cultural center located in the Lavapiés neighbourhood. \n\nThe center has a library, youth library, media library and office room, as well as a cafeteria. The Terrace of La Casa Encendida is an extraordinary place that houses a wide variety of plant species and allows you to contemplate the best sunsets in the city. It is home to the Terrace coffee bar, open all year round, with exquisite breakfasts, brunches, and an extensive list of wines, cocktails and beers.\n\nIt is located in a neo-Mudejar style building that has a monumental character, designed by the architect Fernando Arbós and inaugurated in 1913.\n\nCoffee Shop is located in floor 1 and terrace coffee bar in floor 0. ",
+      "pictures": [
         {
           "id": "att8uJDnH26MGRZj5",
           "width": 2000,
@@ -200,30 +179,22 @@
           }
         }
       ],
-      "Longitude": "-3.6998928",
-      "Address": "Rda. de Valencia, 2, Centro, 28012 Madrid",
-      "Category": "Library",
-      "Name": "La Casa Encendida",
-      "Google Maps": "https://maps.app.goo.gl/2pM7L9fMs5J3pZb17",
-      "City": "Madrid",
-      "Latitude": "40.4060941"
-    }
-  },
-  {
-    "id": "rec7SLeKepo1Z6J8M",
-    "createdTime": "2024-06-16T06:33:26.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Bibliothèque Alexis de Tocqueville",
-      "City": "Caen"
+      "longitude": "-3.6998928",
+      "address": "Rda. de Valencia, 2, Centro, 28012 Madrid",
+      "category": "Library",
+      "name": "La Casa Encendida",
+      "google_maps": "https://maps.app.goo.gl/2pM7L9fMs5J3pZb17",
+      "city": "Madrid",
+      "latitude": "40.4060941",
+      "is_active": true
     }
   },
   {
     "id": "rec9ekgqAtSCoVZD5",
     "createdTime": "2024-06-16T09:13:46.000Z",
     "fields": {
-      "Description": "Their coffee is excellent. It's from different places of the world and you can smell it before you taste it. For example, americano's price is 130 baths (3,3€). \n\nThey don't have wifi. You can go here to write, read or enjoy your journey. ",
-      "Pictures": [
+      "description": "Their coffee is excellent. It's from different places of the world and you can smell it before you taste it. For example, americano's price is 130 baths (3,3€). \n\nThey don't have wifi. You can go here to write, read or enjoy your journey. ",
+      "pictures": [
         {
           "id": "attr06iqjWWOQ7ME0",
           "width": 3024,
@@ -329,81 +300,22 @@
           }
         }
       ],
-      "Longitude": "100.5393997,17",
-      "Address": "24, 2 Ari 4 Alley, Samsen Nai, Phaya Thai, Bangkok 10400, Tailandia",
-      "Category": "Coffee Place",
-      "Name": "NANA Coffee Roasters Ari",
-      "Google Maps": "https://maps.app.goo.gl/fhPNvFEDBfowJHHf8",
-      "City": "Bangkok",
-      "Latitude": "13.7826347"
-    }
-  },
-  {
-    "id": "recAw63pt0VQO84ld",
-    "createdTime": "2024-06-16T06:34:16.000Z",
-    "fields": {
-      "Longitude": "100.5778396,17",
-      "Address": "T-One Building 8, 40th Floor Sukhumvit 40, ซอย Phra Khanong, Khlong Toei, Bangkok 10110, Tailandia",
-      "Category": "Coworking",
-      "Name": "Paper Plan Project",
-      "Google Maps": "https://maps.app.goo.gl/yKyiLy33sAtu9aga8",
-      "City": "Bangkok",
-      "Latitude": "13.7222793"
-    }
-  },
-  {
-    "id": "recBXVRt2ulfkkSxg",
-    "createdTime": "2024-06-16T06:22:40.000Z",
-    "fields": {
-      "Category": "Coffee Place",
-      "Name": "recordoffee",
-      "City": "Bangkok"
-    }
-  },
-  {
-    "id": "recE8TWrYfFuBEsJV",
-    "createdTime": "2024-06-19T03:20:32.000Z",
-    "fields": {
-      "Address": "813 Charoen Krung Road, Talat Noi, Samphanthawong, Bangkok 10100, Tailandia",
-      "Category": "Coffee Place",
-      "Name": "La Cabra Bangkok",
-      "Google Maps": "https://maps.app.goo.gl/2zxTxQFHgFvXskEA7",
-      "City": "Bangkok"
-    }
-  },
-  {
-    "id": "recFAMEdjGBBOMLBH",
-    "createdTime": "2024-06-16T06:32:38.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Biblioteca de Arte TEA",
-      "City": "Santa Cruz de Tenerife"
-    }
-  },
-  {
-    "id": "recGiPkefYJ26doOf",
-    "createdTime": "2024-06-16T06:35:02.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Tama Art University Library ",
-      "City": "Tokyo"
-    }
-  },
-  {
-    "id": "recJaGTK4q54emAqa",
-    "createdTime": "2024-06-21T03:46:17.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Petrus Library",
-      "City": "Vught"
+      "longitude": "100.5393997,17",
+      "address": "24, 2 Ari 4 Alley, Samsen Nai, Phaya Thai, Bangkok 10400, Tailandia",
+      "category": "Coffee Place",
+      "name": "NANA Coffee Roasters Ari",
+      "google_maps": "https://maps.app.goo.gl/fhPNvFEDBfowJHHf8",
+      "city": "Bangkok",
+      "latitude": "13.7826347",
+      "is_active": true
     }
   },
   {
     "id": "recL6GDICvNRYfBfe",
     "createdTime": "2024-05-28T07:56:53.000Z",
     "fields": {
-      "Description": "The library houses a reading area, a meditation space, activity room, a drinking bar and a resting area",
-      "Pictures": [
+      "description": "The library houses a reading area, a meditation space, activity room, a drinking bar and a resting area",
+      "pictures": [
         {
           "id": "att3fYUi2no9I5XwZ",
           "width": 2000,
@@ -509,21 +421,22 @@
           }
         }
       ],
-      "Longitude": "119.3169244",
-      "Address": "M848+FQ7, Changli County, Qinhuangdao, Hebei, China, 316939",
-      "Category": "Library",
-      "Name": "Seashore Library",
-      "Google Maps": "https://maps.app.goo.gl/oZnWPQH5KaLdGwBS7",
-      "City": "Qinhuangdao",
-      "Latitude": "39.6561601"
+      "longitude": "119.3169244",
+      "address": "M848+FQ7, Changli County, Qinhuangdao, Hebei, China, 316939",
+      "category": "Library",
+      "name": "Seashore Library",
+      "google_maps": "https://maps.app.goo.gl/oZnWPQH5KaLdGwBS7",
+      "city": "Qinhuangdao",
+      "latitude": "39.6561601",
+      "is_active": true
     }
   },
   {
     "id": "recLhw127rq6ql0rX",
     "createdTime": "2024-05-28T07:55:02.000Z",
     "fields": {
-      "Description": "Norai Raval is the restaurant of Museu Marítim de Barcelona located in the Ciutat Vella neighbourhood. \n\nBy enjoying the Norai restaurant you will also be contributing to the Norai project, a social and training project that every year allows access to the labor market for people from the Raval neighborhood in vulnerable situations.\n\nIt is a very bright space thanks to its large window that overlooks the port and it’s big and open concept. ",
-      "Pictures": [
+      "description": "Norai Raval is the restaurant of Museu Marítim de Barcelona located in the Ciutat Vella neighbourhood. \n\nBy enjoying the Norai restaurant you will also be contributing to the Norai project, a social and training project that every year allows access to the labor market for people from the Raval neighborhood in vulnerable situations.\n\nIt is a very bright space thanks to its large window that overlooks the port and it’s big and open concept. ",
+      "pictures": [
         {
           "id": "attjyEegkiOTO9K0r",
           "width": 2000,
@@ -577,30 +490,22 @@
           }
         }
       ],
-      "Longitude": "2.1735499",
-      "Address": "Av. de les Drassanes, 1, Ciutat Vella, 08001 Barcelona",
-      "Category": "Coffee Place",
-      "Name": "Norai Raval",
-      "Google Maps": "https://maps.app.goo.gl/5TwsJAFYSHcJjsBE8",
-      "City": "Barcelona",
-      "Latitude": "41.3757723"
-    }
-  },
-  {
-    "id": "recM9HnerXrBzix6O",
-    "createdTime": "2024-06-21T05:04:31.000Z",
-    "fields": {
-      "Category": "Coffee Place",
-      "Name": "Blue coffee at Agriculture CMU",
-      "City": "Chiang Mai"
+      "longitude": "2.1735499",
+      "address": "Av. de les Drassanes, 1, Ciutat Vella, 08001 Barcelona",
+      "category": "Coffee Place",
+      "name": "Norai Raval",
+      "google_maps": "https://maps.app.goo.gl/5TwsJAFYSHcJjsBE8",
+      "city": "Barcelona",
+      "latitude": "41.3757723",
+      "is_active": true
     }
   },
   {
     "id": "recMAv6kjvqPgl97E",
     "createdTime": "2024-05-12T09:08:03.000Z",
     "fields": {
-      "Description": "Piccolo Vicolo is a coffee shop that forms part of Galile Oasis, an arts and community hub and boutique hotel in the regenerated Ratchathewi neighborhood, which also houses a gallery and theatre. It is tucked down Wat Phraya Yang alley, hence the name, which translates from Italian to ‘small alley’. \n\nThe open space is filled with verdant plants and vintage furniture for a laidback, laptop-friendly setting, where freelancers will feel right at home.\n\nThey have plugs, good wifi and good coffee for good price (100 baths for Americano).",
-      "Pictures": [
+      "description": "Piccolo Vicolo is a coffee shop that forms part of Galile Oasis, an arts and community hub and boutique hotel in the regenerated Ratchathewi neighborhood, which also houses a gallery and theatre. It is tucked down Wat Phraya Yang alley, hence the name, which translates from Italian to ‘small alley’. \n\nThe open space is filled with verdant plants and vintage furniture for a laidback, laptop-friendly setting, where freelancers will feel right at home.\n\nThey have plugs, good wifi and good coffee for good price (100 baths for Americano).",
+      "pictures": [
         {
           "id": "attm8hK0kXwimW78F",
           "width": 1790,
@@ -680,149 +585,22 @@
           }
         }
       ],
-      "Longitude": "100.5263632",
-      "Address": "535 31 ตรอก Wat Phraya Yang Alley, Khwaeng Thanon Phetchaburi, Ratchathewi, Bangkok 10400",
-      "Category": "Coffee Place",
-      "Name": "Piccolo Vicolo Café",
-      "Google Maps": "https://www.google.com/maps/place/Piccolo+Vicolo+Café/@13.7513384,100.5263632,17z/data=!4m15!1m8!3m7!1s0x30e29962afced02f:0x8dfeff48a299e2fb!2sPiccolo+Vicolo+Café!8m2!3d13.7513346!4d100.5263871!10e5!16s%2Fg%2F11rf7l5c42!3m5!1s0x30e29962afced02f:0x8dfeff48a299e2fb!8m2!3d13.7513346!4d100.5263871!16s%2Fg%2F11rf7l5c42?hl=en-TH&entry=ttu",
-      "City": "Bangkok",
-      "Latitude": "13.7513384"
-    }
-  },
-  {
-    "id": "recN3WxR7ldIaoYyV",
-    "createdTime": "2024-06-16T06:32:09.000Z",
-    "fields": {
-      "Pictures": [
-        {
-          "id": "attvOzrTF1kRTo37Q",
-          "width": 3000,
-          "height": 2000,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/OnFffRU6OCG73SbZtP1KJg/LqIug3oxjI4VTLWAHUuwMKqhgl-OkxRZFIFSsyT1Y_OusPGFDCIsWKY8T2BGFxoBDG0AUlItj-ry3lJCTjqjfvyHuJNDJEyW98dDtxccoXPIxoORC5FbFMfI3_aYWZg4yRXRYRVVz-AqOyWIxuS-Tv3Xn1GHnNOz4A62d2UbhdrhvRy5UCRuLx5C-SBbnVYrW0CctiqBOipgdPTcKkuPDw/q3_jGzc4ljcQJLw0aSiKNf4zER8J0AoWNIr1qJfj2eo",
-          "filename": "oodi_helsinki_270819_outside_kuvio_011-1.jpg",
-          "size": 572096,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/fjORTUTxSsKMhdWnMJe8cA/BdlQWpYwOwsK69tTglyMosxrxTr7ZuboWtXKK5Cg3X3EHb_EY57vtOP2D5zjFKh_-hXBXFs4reK3CyBsawC1qQhjULpmmAC4HPDuZYyEqAUZm_h8pQDPFgmvPXlQenX-A8lkcjdTvuAtBV7i7m7VLg/dAnw8Uk4jaJuWsMxLXGWH6wfZSHAOaTUFME3ReX_U10",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/W5fELQsNdnt9VIoDzUykgA/Kyj2igVt0xU26V7sC-Gtb8Qs_6Ya2aAN4cXSZiqkRg8FlJKHtEmdx20jJcA9PSYhjkcQZfYyuBQmSvYLj0aQ5W6YQgD8u7riBWsWXsGDqP8jEnEh5P4UvWSkR9I6iDItxfZRUvjtC9YcaD4ofh6eMQ/c_6PnmHiQYgK1tF_H5eu5YiUClsEkYCmXcxzeJiay0o",
-              "width": 768,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/3_UOZWAfIooqD0-kjqfYBA/L1ZSfd09HBC8VSFCdjjynAiCGCuLdkr5v9fKkNNkD_bWcGFeb8rtiY455xS5_3iH7w-VUOeUOfsTkrDrF5NEiMdxrTn_a5j4UjICyJR2Qp0rrrSbJUY9bGov7eWtdpuVkxLNsPDDbV1jPqqxvhW_2g/tSh3Q4T25o6t7Q_siVnSYs8MLlpcgClQPYS9U85x-ok",
-              "width": 3000,
-              "height": 2000
-            }
-          }
-        },
-        {
-          "id": "attbdGd5Mh7E6Gdll",
-          "width": 3000,
-          "height": 2000,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/8DVXDaWCXzFYUfjd8QP41Q/CE8osWN1QSiE_bf5JZQ2MmzvmBownasZtR_ctyFmk9g7TjPbSrMDigVcjLH34cnBOB0x1sHMf2XCsHlmFu6qdX9FMA84830ViOR83Gq2vPVnwTjAw0moL133ayKr7YCydbT0hf_fDdJBvn3jMpa9laWjRiYzHrsT14ODSVJP1jcTiG2R9uEJzpbaN8g1lLD7G5owyQ4AZHM2oGRrxRe4cg/kRA5izZUx4gr5Hpfmhid1POCAOCvIuJIqnZpZpY9lEE",
-          "filename": "oodi_helsinki_270819_outside_kuvio_025.jpg",
-          "size": 467300,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/gCjPXjwB3ObjUZaHukMLyg/_gBl5PBX8sSzxJbnNYZOi6TOyE2H_EzL4P1VJ1w-4gGrQBSayNq0ZU_8o8Yc43zSeIh3oYdS8ksXLjyn7zJBPJKC3CSa7GmszMqSamqgP4NF7_wTKp92x7jNp9sONm-HsFCAqWduzWY6mzppF-OzdA/WNTcclQOZ_xQkNOv9iZk2paP3MwS9Zr1N-uh05UuEjk",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/cbOCDhV0gzWRKVB-fr-5FQ/F5q3J1UIMXT9WMRC2J4AZwbpEDTdnTBbSAbnfQqYh9jbUMyMqIkHE6GkGYvCjXCURLEVeztfpNVtSHVYgijbRvMO8X4vKWcM7deBTe1Xn3rc5XyYfJwQPkyZB3v78yKD9Ec1qq0mP1DXQMp70ejSnw/VgWn7w5iz0mJkmEd8Rv6fFSlYpqVuAcGX5tTooOhnWQ",
-              "width": 768,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/i-t1kKwyMtHtpTFxXWhgsw/GH4YAV13p8ihsDFsnf-yJRyjKzP8kDHOfNlfYzXvpA1YlJJ6bnMsAawAJvW1QbJEWe4FmmaL5M445tH18A4WfKVv_alqbI0jZBkJYCvudtW2CBaNxBJxewKshsnwBQ2Y07sUr9DsqvPV2l1xwb_isw/Z0wndHBkFgLvOS82F2TcFh2eQTiJIRenurBM4a13FXY",
-              "width": 3000,
-              "height": 2000
-            }
-          }
-        },
-        {
-          "id": "att4KNid7d5gpsF1h",
-          "width": 8621,
-          "height": 5747,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/vZDVUFd40VcJO9DPAEG6xg/xgxvhC9Bi0uyA94doEfsqeVJdfjQka-W7bM4yYto7p4Yw-IQG4D5aZJB8sfenao_ER8pdXsPYLuIY7kAP-BQej0VMM5b05j-VJ-ilfXOHUQKZYiJ4zGHk7o2_lOII2K15znhUHCZ8Q8xjoqP2x8PlFoj-6yJD_Linw5cB-PtwskfFBp8vGCfz-iiuM_5MSDxcDPBRHZd-WrcJ6eQeWPXuR7rlwYqam1F0wKppOV0nZY/Fd6onADNbg1V-eYtg_8qtUuPpYumKXsVd0DRc0PyuhY",
-          "filename": "Oodi_Helsinki_Central_Library_press19_photo_Tuomas-Uusheimo.jpg",
-          "size": 1483574,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/n8a1RlbdV1nxCnAiTKVecw/AinqGrxUORj18CKhzjS0H4HMozbD3D9QratpqDCj4RwS6Y4Tw8snRHttkKo-Uy5VwGQGV1ekRjWPeVRIiMDFqg05qaCysVrAQqJgsOzY2c9Xo0dHyHdyqfT7MP6Wcob41kJFaIZAbwb4lEDvmddxNQ/lW-1dxagnnZbsGOUtpuYfNUOctzFQ8ya19KJHdAWivU",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/AjEQfbbTGM2fXXzmTWEJ1g/jSwA9RXoBb0uFcQiGrGeNdTSMYdE0IMDZOu4l6--jHJdKJF6WOVlOjYaPhIUqokpjE_bl4Qc7dAUxdzuw6I9jlO2LuoE7QeQ_YeBJvIduefP_m-yboSDljg8CaXZEHE1QJ-OUrh2OSimLYFeRCu2_A/H2DGc_eIGhtLa9woWDEqdZMvOaw-lv49A600V112wQ0",
-              "width": 768,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/UbNWo4u76JnerxBtfZ5a6Q/V5xnonJjvJ8UKDO8yUWR4CoHlbpVZTh0EoJ9A65I2RYJQPc64iiVKaAKH-_k2lnhbAQHEvhIdfXJB-bJku5jbI_n4DX6KhHcsw7DG2s3pmbWuqmmTBDG3Q9IUSdicTHfk9oE6jATvl4b-0sEjX2vVw/KGsm3Pvh8gFSX7455Fuvovg7gQd-aSXC-8BOgkUREOg",
-              "width": 3000,
-              "height": 2000
-            }
-          }
-        },
-        {
-          "id": "attRIwjklswOEkJRr",
-          "width": 3000,
-          "height": 2143,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/z2U-YR5Aps0TfpvvjYS0jA/aNOZU1E1tG9XjC7TSVINijZZd8fHdGjv3fdtgSrUSNBH9q81br-fvOBX0is0FPttBMNXvDXtDD1VqlNgvBy4b_kttU9pHWrkTotmjx0xKudAp0dk4AmV3iIrXdyaRUxbVCyVznbVvUoC-D75RNaCEAzlcnp_6V4HC28GbuDj-XX-y1u3f6CRADsp1v3vjEARm-JRF--lXlGxG4Pd-nAZpQ/f2O-4asQqV8U7GpboOPR0EMX-Zuv9X5C9HuJFjeWPyw",
-          "filename": "Oodi_Helsinki_third_floor_03_photo_Kuvio-3000x2143.jpg",
-          "size": 246449,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/VpgGALlXcyv2TBdUyWY2Cg/2qA32wEaEoKl6lRQxLTs8PqWBII0lHqYlc5QRLgc_3UWoVGgvs6UVfh9bqJSCIQn5jds09j672KOS7jCAaj0fDyXW3lx6w4hz-1ddNp4esuo4fayy49RA5NS8-6QIxijW0E8CFlEyvRIXI9jkAap_A/lOWsi9W-CUM7U6hfBnJ_4oUlS89dBPJDDns7rXk56z8",
-              "width": 50,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/ixGjVn9dh4jreGWQa3ixMQ/x1s12_yWNkbfKfmluR6dDG_C3fx1wR7j4aOYtG-wheGxVM4lNrVB1jCW5eD5gs8wh3hskQFEt9QjOX-0jThKmYmOM4ldRPwEmlbGPDG8MXn-kWTzrYrHeql4Jn_9AiygMYCol4Jrmi4f5atLb9tofQ/AcJtyUuwuaYi7Jv9henDwynv3vz-Uo5EiKDE_HcZiCA",
-              "width": 716,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/fiFZT_v7LKFp9mog_4RLqQ/bJenUMG3YCJUNF6UCaTKGdRz8AlKBxOVNqSNxtoD4pUmLW8f8skSVZmbDzA3UJZfg73rQSmwXHjt0mBz8MSKqWuT_BF4Zu_KbxAY6K9sgtDadVaDqCh4xxlGoLZJ6K0u83ZqCODQprl5AxAIXzIp0g/whW1WxS4SQj4w07WIQxC_lWmRrG1c0JEpFVsxrEUK9A",
-              "width": 3000,
-              "height": 2143
-            }
-          }
-        }
-      ],
-      "Longitude": "24.9353442",
-      "Address": "Töölönlahdenkatu 4, 00100 Helsinki, Finlandia",
-      "Category": "Library",
-      "Name": "Odi Library",
-      "Google Maps": "https://maps.app.goo.gl/wCokD7afuAXp4xPv6",
-      "City": "Helsinki",
-      "Latitude": "60.1736833"
-    }
-  },
-  {
-    "id": "recNUqewfOQDjjc2g",
-    "createdTime": "2024-06-21T03:44:45.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Joe & Rika Mansueto Library",
-      "City": "Chicago"
+      "longitude": "100.5263632",
+      "address": "535 31 ตรอก Wat Phraya Yang Alley, Khwaeng Thanon Phetchaburi, Ratchathewi, Bangkok 10400",
+      "category": "Coffee Place",
+      "name": "Piccolo Vicolo Café",
+      "google_maps": "https://www.google.com/maps/place/Piccolo+Vicolo+Café/@13.7513384,100.5263632,17z/data=!4m15!1m8!3m7!1s0x30e29962afced02f:0x8dfeff48a299e2fb!2sPiccolo+Vicolo+Café!8m2!3d13.7513346!4d100.5263871!10e5!16s%2Fg%2F11rf7l5c42!3m5!1s0x30e29962afced02f:0x8dfeff48a299e2fb!8m2!3d13.7513346!4d100.5263871!16s%2Fg%2F11rf7l5c42?hl=en-TH&entry=ttu",
+      "city": "Bangkok",
+      "latitude": "13.7513384",
+      "is_active": true
     }
   },
   {
     "id": "recNZPqor9p768KpF",
     "createdTime": "2024-05-28T04:52:34.000Z",
     "fields": {
-      "Description": "This is the typical place we wouldn't go to work. In our case we went to read and write, and it was very calm.\n\nThe tea is very good, and the atmosphere is very relaxing. You can pour yourself water, they refill your tea when you finish it and you can spend a few hours there enjoying the atmosphere.\n\nThe place is beautiful and worth it.",
-      "Pictures": [
+      "description": "This is the typical place we wouldn't go to work. In our case we went to read and write, and it was very calm.\n\nThe tea is very good, and the atmosphere is very relaxing. You can pour yourself water, they refill your tea when you finish it and you can spend a few hours there enjoying the atmosphere.\n\nThe place is beautiful and worth it.",
+      "pictures": [
         {
           "id": "attYBDsGzu3XbE4xP",
           "width": 2000,
@@ -902,423 +680,22 @@
           }
         }
       ],
-      "Longitude": "121.5071863",
-      "Address": "No. 174, Section 1, Zhonghua Rd, Wanhua District, Taipei City, Taiwán 108",
-      "Category": "Coffee Place",
-      "Name": "Eighty-Eightea Rinbansyo",
-      "Google Maps": "https://maps.app.goo.gl/YKoZhaDvGuebd87f8",
-      "City": "Taipei",
-      "Latitude": "25.0403932"
-    }
-  },
-  {
-    "id": "recO7b25GWmDQKkXd",
-    "createdTime": "2024-06-17T03:47:54.000Z",
-    "fields": {
-      "Pictures": [
-        {
-          "id": "attaxVsNjcOJvYFZ0",
-          "width": 3024,
-          "height": 4032,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/Yi_ATyFx_d_VPY-nPLpAfQ/cRzOnj5xXiajEUqsk6-aRrpTAVZpuZ4cvBaVEv3DzhOCwKnPcKfJw80TtUaksBA_cTGjHHu71GQsJg1ovLoVD7GT-4q_5PklaM_tKXOctRurZB0zoUHUm9wlToNcvfmCyBwBWQaH88o3qS9kALGsDYdyXWvGho1a-LhnMx0kR8E/svUiGdovfLEnRgyYF6PppzjgmuS-x98X8LmdRxJMFZE",
-          "filename": "IMG_6636.jpg",
-          "size": 922622,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/oEedlXs62uccQOEVdR7EBA/w7W93yY1laWGMo7G_HREczubqtyjbY_WqnIfBVIQBTUtKrg7Y2iJVo5XZEwTsmfg0vM8DDhOWs00rOC7ujQT-_DTPDhBPjhrfpSPBxfp8jnc0FoSe4JJHVn1WxFfSgWSpRw8KFJ6Vci9NHWIo36sWg/WAAANqYQkEGjNQEGZDGbkZA-mQ7RQbQ_MeIJj_Q5lck",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/VFu3IO9Q-ZadWfYtjdhadA/EZTsQm1EuGpGRfu9D6rcOjAySEniIu1V0ofqy4r3L7NZaso9LgWCKMiU8skHQaIaX6lsjOIY_AxayhZrw4-fxSsp07FK8t8-usLXuXbCyiE8tNxRL1abAKRZs1zMjFdjYM3zb1rRmi6UG9dPAKU6fQ/ga04tdE4ANVKdttG83e-x7wHBz6LTFv8vHMA_-2y2QE",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/CK5kRN9Cai24XfBXcYJDjQ/lCu5SskGCCPw0XU40GpmV2C5AEFzNf22BOX7lxzyDBACnfV8aStFkUkSVLkmLkA6iJQ2q_8KqlhVVcAc-PC0an2oTWJZ34V6x97JmOZkQ1WHhVZ4Quht3ueODWVYIPcDHG_xTjmV44wtlb17YautRQ/F-Efvlf21KVjWfMonuoen134PSCqCpHycRALoYhw0TQ",
-              "width": 2250,
-              "height": 3000
-            }
-          }
-        },
-        {
-          "id": "attXGqLJgisnASI4C",
-          "width": 3024,
-          "height": 4032,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/Cs9Gr8xJnd-jwRwrIARkLg/bMQujZJPXJJTvFpEfcHnI8BrbNz07Iwtv9KEzNZscvs_HIXyYm7M_rO3_jXu9KmhFckuFTQLriGvfEo1ZL1OblZcbYt66u9xsDxyDoLR7LoIBs3qDOXaXSaTuUozLBtR0Dk6GiNHIFoIvUn-tT0XWJZp2ZbZC5N1KMv0sBJuhJY/LKOPI2x9amwpmEp0EJBE3gsLycfflLpruDcGDErRFzs",
-          "filename": "IMG_6638.jpg",
-          "size": 1143686,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/GIiRgtFeBkBCUWT_ZHfySA/WRppHccLy_4rJxJ6d-mYrWJzXosKnHsKLz9LNYD80mPmTHXrPYnM3M4q8WjTTGpIJLv1_15UrR5SDS__Xonhs_2saOdMiFOD72q8T1_clVuRqD8CtLs8340ANL2Aae7sd7iROqq5URkfGtHp9yXb7g/eqJVbBHpfKjVl8m-7fVUo6kGLhbreINOCKn4Lstgifk",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/KMdGf9ka9K7hUoHDvwm0GA/2e8FDucag03rO8P7SufR_76X1257v3rG36IPrMZ_eFvSTacXCT20XOKQGzFo-Ykpx95pw4AgyuwDdwrGUY6ta5YxRLhTFGjNyNlhjZkFpFrXR-cW_QK-gLdcqHwu8V1LZSJXTaLf0z7dhLA9lzaeHw/Be2ItJHESnch8Ki5rvo8ovdU52yEoVIL6vTmBBMLId0",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/mrhML1io72aLRs5GiR7Dkg/nadBWsgeLMANtX7e6EK5gtvwMrM3WJ0xPlOl50jqIkmzpdI-KNudH5d9Sf34BlP9FpVVq4uRZCFGmj5RQD1C9roCgz_XcTaBjg9HR3Hu046EoGVXmQCRbNtH_IgLLvrkUcq63qIKfdoA1VEC5siNIA/6cdAjO_UkRSqe7IqM8zxCZNNfSnSEpfUUE6rZ8MkAWs",
-              "width": 2250,
-              "height": 3000
-            }
-          }
-        },
-        {
-          "id": "attGgOQB9uErlpdHl",
-          "width": 3024,
-          "height": 4032,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/4whVNfMBJ2_4qmBP_o7-_g/UOrBZIlWmRJlcY8l-jm0paUgIq-oKvYySseMDf8ON91neOvPmHpMObo0p14IlYLuTMMPn6tOYrSXJuQiDUb2ILgLlv3KtJg570uzTL91x4T2rSAriWpXT17vCJrSYMy4Xff3w7rlcMQBIo81ROhI-60bnIb88pfYSPTxwlpovgM/j8WSRNbH6gyA1uThFPn7EojIzK6OKrLCBFP2MFzDaCg",
-          "filename": "IMG_6642.jpg",
-          "size": 738490,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/86vpp7QfNZsIzVUOGM7nYA/w0KPJvdtIbgIz_xeFCQPsFbfdOKhZqZn19afzPbe-E7etWcMyL2aFUJkNHdXRQWQ-R32TzdxZXHbCY2-ZmN9p_8LDBM-6lbqSF3-ANPTiHjkZ1dRCSm99UvZ4hq73BebdrCYaG-H63n38prYrePqWg/u4F9_EJfVfr83vDRi33JemSplMmBWPa5NalTRtRVL1s",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/TCMxF88zvdkMjaY56GR-fA/EwuOSIh73UF7EsOQhHh8a2K-s5cjPm0bE2qPFFfJqvjk8k6X6aVyZIl7Lun0cWOfAC_WM0BVL95U97fW9g5fOem_6HgmWmq_tGOhsanxR0xtdoFbw-V6BnNhuHVCeCyvTY_BIx7repuNPTK99y95WA/8s4vU4lSKzDQFtkeBb7z-BHc87hk7I-07nTCxIc3mVI",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/IVfonIwvySh3ol_RatFMcg/V8RpNP39JrVgPE6URacZeNofIcjgqWFjMpXKdrrXhyYT5dyJStOir2TPcy05qGRvUgTfrqZ-GNX8ipKxWlTxzI5NuDpzYveBAQDLY7Ddb20B2VidqarMpGhD7vNQSdm7bgB73RFGlZ146QMEe6Mw6A/W30PoFqVhRE38cXh-yLwjgTd-g3mcHqNcVrJrEyhk0E",
-              "width": 2250,
-              "height": 3000
-            }
-          }
-        },
-        {
-          "id": "attDPyH5fFZM5kHI9",
-          "width": 3024,
-          "height": 4032,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/s4T8Xq5TyLdTYrRHVGpmaw/WDqSuGiAfxwiH2mebtAJJoIt2QkpteeiJ7UKzkKGamYwy1KJo5z6ppv-hDcSDF2P45NS9Y13IoYerK3CUv_Pi83hoCfZ2HF39wPitLu3guk6dgLJJ23Rjpdu4Ijf5oproZJAd7vawkMiz9_9RVCy2khCWu9X-pnAOYcZi0mYsWU/6UCXwfEumIw86KtMkZIkb3jXaXEQ5oyAhd_kcjSLwcI",
-          "filename": "IMG_6645.HEIC",
-          "size": 1405929,
-          "type": "image/heic",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/QVzqzKWmpU9damzal3Zumw/wNeOJgmdoJ8-sXzo94x6M5t5W5s1QvL1mGB6m4k0_DAv2AF5_mFL-nRbrjyC8IOPcyr8eS-nU-gO58dBqLjEnzEh7XW2TYqRwItpZ8CQYZRzDLsWJxXjd4wm7LJvquzWm3_73XoIWDlY7TBipU5Tdg/A1sN4PCGSp0bs748tp81ySPC0c-pq-WfYuHMrbMRPWg",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/s4nLtg0Sx3kz340fZtAfag/W7M9nKSqcI2lZZFSjHk0-n5QbBkfTtpzbIzTIrukpDc_i4PGjGKGMK4zGD6rrm5TVEoWffVYM5tRIhl479C7TqHeWGsqB4zIP5-4hZOfeV0iAu0uYWetk3pFXdV5CPHiWzpxUw6FTsKpk41H3cz4Tg/skdzABAJv68GF7eFxfH4y1HaiBpaCKJwRNOvUUG05Ho",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/KZLgkyCGiyDH63owwIF3wA/OTgUCBS3Wkv630he--K6mgDfizjQFbtByGvNX5-xacJVQFgjO_DOSbLL_KW0gulIv47afS1Nk-MIGy4muzVaeWaqnUTWjg7X8_KmBrUx-zk7pj_LQFmWamh9KRXT0oEj3SU_Jtsje5a1AedlXipz4A/0cNYdn6JcgpjyrBnavTRMmVViWbkIjLwKGotIT5lA28",
-              "width": 2250,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "Longitude": "116.0753202,17",
-      "Address": "21, Lorong Dewan, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malasia",
-      "Category": "Coffee Place",
-      "Name": "Woo!",
-      "Google Maps": "https://maps.app.goo.gl/oWHM31nopwoud4fPA",
-      "City": "Kota Kinabalu",
-      "Latitude": "5.9834286"
-    }
-  },
-  {
-    "id": "recOBsiAdph6E5BlA",
-    "createdTime": "2024-06-21T03:45:06.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Biblioteca y Archivo de Galicia",
-      "City": "Santiago de Compostela"
-    }
-  },
-  {
-    "id": "recOTMMHkZrHhU5D7",
-    "createdTime": "2024-06-16T06:22:40.000Z",
-    "fields": {
-      "Pictures": [
-        {
-          "id": "attdQFhMnKE7yj2U8",
-          "width": 3024,
-          "height": 4032,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/YAzurSHyBpDeMLPCTqgX_w/fAxrNcNUmNnXznbbE_gUGE3xgDJDbW36ReOiNL6Ycifhp6Yz7CDmC7kDGMOgZ0no4OVsivqN6cAfGhfCHviOpWclo2FIs8L8zstO56j1FJnbJ6HSNoxC7B9XxgUF7w8R7yORGAae667ihgWRRS625k5Kwerho8rnyE6Gtf6ZQfE/BNaAgwopbmmsh-6VMtiGEYdW60bhSZdfCyk_R-3yN0c",
-          "filename": "IMG_7497-min.jpg",
-          "size": 872282,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/WjcXo6BBR6-Zpr1yDACuXw/PTj3Hn2_lAZ0ZDQRITDkNxWYmRmSiga9uTej4TP8n3MZLoXZ4osBL70FSBkDQM9IeQC0-0iasAQMKee14zOR6udwM97rv0ru1VOWYcsrRU3XDnxWuzBU4rNTdmkFhvEV5CsyIhzEhafhsXvhsh5z2A/geEWTxtMVYpi0055NzLeE-Ja3-4Sxe5PapKnTGjPxdY",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/G1CIRp4zGGKGfAZGwwW6Qw/1JDQm0lyzhoSlJtXk19QO5NZ7YKfEH2xZUCUqJ47rt2a2mLtACzgjPi0uTlq53mU38h8OqAvM_09Bxoq0LH7gAUPel736MsEAmK3zL28qkua59RvIr_gpJZq4ErIK_MJlfCm_69AolFeaTeYw2T1OQ/jEqOOKamoFZjCIklRe7A2dkb6N6vNCV8E2kcFz5WeFs",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/PXmjvo6GH-c2-60Coit9Lw/8pm_B5yU45SUXKbH5zvUvViLPoVYUtjruFRRp6Hm0LPp4XSIktjZjgdAsJo7_TzY9Fw3mYS8641XAlbVTF4BCaxzb5TeKoIrNlLiDG9WSxw7wzr_WYlovChjrHvzbhxKmYl73SqAD5jeMFQCQ8JhwA/Tpt_ATpJokqdbiQ7t0UmwIfyLRLoSzCczBGoEhpC4H0",
-              "width": 2250,
-              "height": 3000
-            }
-          }
-        },
-        {
-          "id": "attw3zJRnBATdRTDc",
-          "width": 3024,
-          "height": 4032,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/2PHQkUIcvCfqqOYgU4NL7w/2B22Y83MAnVtaDZv3hi4QEW5GKShWXcgEsalC7Jwc-v1cFV7lom5Xvp_e9DrNSh7L2oz19-as0N1JRlX_V0BqGw0jweAWX6VZRFmOgE5tEZqGMhyOTFLZFGfDoF0CzEHJ4k7RVPGX0l0B4qI2rz63zXOiHJlw9MZ1nJYS1iv0s4/bCP2qusRj2Hpiw7EVMceHBmRSoTjet1darPb5YCwaRc",
-          "filename": "IMG_7502-min.jpg",
-          "size": 1412713,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/YbMZJfTjqqi1_xJ3B3he8g/xst9ONv05ZyyCbXzcMfsaBCcUDWkRVMbmahYU8z6yI_rFP7bTKV0KZjt4jgd61IfYVvavmBrNGInNz0tHR5tRC-tVNp5JhKTjwW_Yyug1Bt0UCZhogysB0bKkrWxdsX2ONKpvdBi0_jqAkwB0OFXcw/WFG_X7s5kROKng-ixrVzV4CKp5iZkT7FwrW-yuIl22E",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/KhZ9-kYdREsZ1zCkWRbQzw/k2VoEwr9Nk97j7Ig9zowtH98V5w_VukMoz9W4wIi2G55dCP9CM38LtYzg1NcCr3iQGC4GlyuK2mCvDkqXm2oZHMLCMNNX4t6uqHfyTR_j-n49C0uSdCAjbeLehuY1YTcLPxzZYIB8awiDcD52ZTDlw/5SehFepzlZAMhgRJgpu1pi7bqfdpd6a6wLzTRCf62wI",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/gocb6_Tm2Kgj8CH7cpE-Tg/mIuBg2SsT2jQj4Tgx0pxP2vZN-C2EoichQF54l45Vps3w2l13mCupWyadUZpPZzLjInE2H3vXI_V7kYUVtfDhKLRIBhX5Gpv3VNsSqbSZq5OYAZDU7qjhDR0kYcl-yFJre0KxwaggFWs5Wul_2WFxg/DUd7EK0243gqqo4Xur_hFaHQv7LHl1z4sQ4alU6Im_I",
-              "width": 2250,
-              "height": 3000
-            }
-          }
-        },
-        {
-          "id": "attSXonWQiwZNxTqp",
-          "width": 3024,
-          "height": 4032,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/HEgEONGEMkuqU4FHlroT9A/dhFFnvC-Bf8Qm8FNWv3uTs7UMh84vwwH931lWPxYatNJTAvnRCJfhMsorsqYtQnQQnArnRDpgJQcXzKA4d3YJ3HKPtnYfmNa0pzMLtx3ahoTZcT5JoVoWCSbonZqKKSea1ZF-lF-Iz9CjAVKzcPzsRi5RuWZe86olBsrHAFFpV0/jkc-7rj3Sin9Oa2muFD2yAODoUAqwxX6Uo-5ZkS81cI",
-          "filename": "IMG_7495-min.jpg",
-          "size": 870729,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/xcgMyKjCf-J9fCTrjWVTRQ/hayd3Tta6du51zJhQQYMBZkOHFmMGuiTBE5gnmCaYvm2MBcKhhbid5NFoz72sMe0_TB6I6eRNPmB4t-SQ1mr_hAdg3V6FlnFuM9yltROtbnXA5Iwx0TgKQZL-89Q1C-5rqok5ae4t_u-jTjHGDpzrg/ANJT7Tfq0YNtEBYmNrOb5Byrq_D48xxgCiWRUMCpq40",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/-TSo8Cq6mkHTL9cVaMVB0Q/TIe4fQWmwI-xsiUBjn1IG8V3-Wle6z7VuZcRqWaXyABEEewh5g73vxma_W06W_agbuWxvTzX2FMmI2_4PxLLUeJkoQxbErwQqjWxlN0SXaqfsYbIrQwCYeX0KRW3B8en68lp7iT6hi2r-UtogexgMw/SbOXxxqnUox-cNCc1lERKS59NjSaQuWe77fo4gpXpag",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/PmytQqlGHbhhJvPB56pPoA/yrkZjy4kcRYxZFkoNYbBIODVn90eoajGyNXfkUAh4ujXILuFXg32UsitdLyHcQ5i7ZFrfwjcT2S__ZzzZlrwveoOJDxtAJykeQAMcnNLbsdXmN3UqaN09JXsEIoY5ZcCHShrXKLAWT3MCzCoW-meEQ/KOb-JLPj2HDN2ZqqD4_CvL9b9VL7_9z1Va_bVsjcnYs",
-              "width": 2250,
-              "height": 3000
-            }
-          }
-        },
-        {
-          "id": "attbjwzmpX4E67wBE",
-          "width": 3024,
-          "height": 4032,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/SQ_XPaGMLhUXHIhexACpSQ/FGP-umnEqVHozWa2BAACkUdYVuzP0RsR_5HzcmW4Xwkzid_oT4lh2n9Gv6b5RwGb8pcMD7bxl2uuqn8mI3HdVXEUkqosOhuOJ_fmYyOkm66ZNelqpqqRa2PjpSn2Q4KIaBDB_pYkRDxjHsm7zH-WCqeLKPSGGUyVWeSi9-4nqvI/toHIo9RKW7eljXfU3I1umNtvdNbpdNz3bzqk4rFKvA4",
-          "filename": "IMG_7503-min.jpg",
-          "size": 1687746,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/kfRQmGd2ScRpNSGByR8j5g/N9M-p9v0KGpkXZZHKovGQadT-qwTtW3BVd6ViTiCXAZMHxEyP3_aVQcEhLf-kAWFeZqgAVoeTsskHFgjylVf7wgC0e78TVpW_m-Kia_jlSyVGWrphRvMH75Lt-fvutqdL0jH_MyrGFuF47gaJYLpug/3JTw5bRpaTUtxINQ7qH-EXKlcjvn04TuldmGQEGFJ4o",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/6gVRksAGLBPMJAO07eubWQ/90YICCLSwS_mq3EM8zkmcybjKaVLOmb3RqV8YNeQ2z4DHveTrujJvT6W4v_eXjfCrUhydhoCUVIDRz8QEGTAXW0pfVSgPLF_prjlS6deZWF02V0cjql-oeOikElCamxSK4bmuMrEKThBPxifdSqQFQ/QrGdDtcmrKajL0DPPN-Dx0ImXV0fj6VgieD7rU9DO5g",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/lDsHGieO9tKCa4RHz7On3Q/IbF6D3kxtJcbTOyiEidzb9Af8LuOe9TvAkPK3Dun-DKhEuV_lWwDP3wLa76bn5d8TBTYZQfdrxOzwrnaWLMx-LAemYVSmqfvQLFoK9JtUJh_JQDMN_bvLOrRv-OyF-hzn9wHMDZrT10amUOiV8i3Kg/0NGSW6LU1GbDcV5FWS7d3BQkVcBGzO0s5gXuYInqR8U",
-              "width": 2250,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "Longitude": "100.5060724,15",
-      "Address": "10 Boripat Rd, Ban Bat, Pom Prap Sattru Phai, Bangkok 10100",
-      "Category": "Coffee Place",
-      "Name": "JEDI Café & Bar",
-      "Google Maps": "https://maps.app.goo.gl/yMz97xQ6t2B8T2558",
-      "City": "Bangkok",
-      "Latitude": "13.7549099"
-    }
-  },
-  {
-    "id": "recOddFVBxneYcolv",
-    "createdTime": "2024-06-16T06:31:43.000Z",
-    "fields": {
-      "Category": "Coffee Place",
-      "Name": "Kaja Gallery Bangkok",
-      "City": "Bangkok"
-    }
-  },
-  {
-    "id": "recRzvDWEe9TPfag5",
-    "createdTime": "2024-06-16T06:35:36.000Z",
-    "fields": {
-      "Pictures": [
-        {
-          "id": "attOhHzaAXH0CrJDk",
-          "width": 960,
-          "height": 960,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/IALrN04BeFcyfIWnBxC_sw/q90qOXZ2piAVGmdjxxOdKfZVWcVPNlIcyjXfXVSDlynswNcLUnSJqoKXR3e5WIAq0tPLe2OIytpw2hQ0TYx4lA0qXmwkBtdIYvzMJP5Q7BN8l0wkiZK7Z9o_dn77ATlUtbU2FM_b4h4zkhQ3QJWbQY8nQxU0davwXBksQK1wftRo7JnbBr8Rwc9lts9NYV5sUzUND-taWwqv640asI8smA/n1I-fbRZSc3Hxk89woS4IzToZj_loHnHQZ4uPI_4eTc",
-          "filename": "436351124_432857339117793_7707756694571316043_n.jpg",
-          "size": 197727,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/S-TN-3WL5-rD15KYyaz-vA/Vx_eDrPGFCMYrIJh-A3jMWfeWMTiBIZWA3k8yaABCetf67Q52eBKOcC4AY0VNnNpICmR-pIrBHhbVPtf9QJ3mpVh9UeRR-rz6bU6BJbcRRvyx6JL_ikiq_wuLAgRLg_jcK3_zd6BRm6eIPOrtP6IzA/1HhF5VlUefoo8OGYISmH_9WdjO_qdCoAlYG_M7Gk2MA",
-              "width": 36,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/X8axyGUdpFnSGClv9aQftw/HmHtSv__73GIxLmcxktpYnPlYDRXKDzzW270dXr8aSU6hoi97_j8o00VI3SxgvXq5ysX5tCQai2Qm8aBQJjm2ndNVgL28QcA1vKYCyh7xcNF_EO4VWKI2acj685shxUn2Dr9NaHq-j9NaRSpiJZYDA/8PMT4xV0Sv5Dq4unA-CbnNXjdqBNWZIm9JRouk1DQGI",
-              "width": 512,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/4s8CwAxownCxByS087jtZg/iXGliOwrzJsxonTV7qX5oPqTND6phHozqcj1HcZo-XjYnYH1uEGN5YcflCzs_fGS7YqpadnGyoRQ-967Dv4cgvwoK94rmezewn9R7ctvDpUPXbjKfi4b9aMifPetFcRnlCGkogV_s7blPoWO10JToQ/svgYdy2lXmBKSmSJNq4eN63IpINDSI5OkLT-A-6ytwU",
-              "width": 960,
-              "height": 960
-            }
-          }
-        },
-        {
-          "id": "attcGGK5KE9Z34xlW",
-          "width": 960,
-          "height": 960,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/KWb5CGdyxB4Yn9yspDA9-A/uL2mC32KJ5dnZjvqYIwkpvWXJe40Koa7ymdBynH78XqwtQ_m028x_qYHyVvxXQoyNT1XGAGRPhEIMvlGFkUR7TLcYE3PiTorOzK9qUdxdVyS0bNDDo6TOdhrrvLiTroE0nMZcSyqQidRqTa-rpSqvSLUlb5FrhLYsiZojB1ne5u07XfD1lEBoKqR-8lJBYdBNST5kruDlhXBRLiPnUGyRA/pf8pOLxiNJJ5X_B9mZ5e_ZxA9JQk_89powaIHqskNgU",
-          "filename": "436536882_1149231296103766_2341928682603010761_n.jpg",
-          "size": 222018,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/NAqWZVNuPHrSkAPXvWJr4A/DR1XM_MYkRyM_J5dwYnU-wQzkJapfSAv6WK4PQT-NOQStojquFicsGD73Rrz5c66j7wCxLmayhKuzVvf3P79sMIOYIqp6rqiabmAsJwOHfpmTrGdoWaEnnq_XwQnd92oeT1L1WaaxsltIBw6DxyV_A/4T-wGAaoGV8itEUVc4vJz347nGo1DmZxmfnlFFYhWu8",
-              "width": 36,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/Xi5UGK46rd5B5WvOMjg75A/S8LE3pcid5ex4QkBNcsrK47xDcobFrXi0bygAN6cNc1dQS6VWIsiA20uTllU90kw1brtCIPQ5vscQtF9bsl3XcLZCMlPLjZR2EkpioRNbRI9SyWvWoCjTGZVWkgMXdKe7vf8xUBk6a9tDoZTk-n5DQ/8dwbI8aRkWdUG-RlC5R7VYUYRpdyz-0K9KlFS-lz_0M",
-              "width": 512,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/-CQj8rSzp-x9MaBBWjdOug/83enYXIKiOK7MUjzQjoAKjwR5WBFwrJU3x6DbH0Sq72TdxIPyA5BcYHfVFPLqaY3pjkEv2si7n256u6oH5wy4wKN_7AAM0ERFldyKQIMyadn4cv_47MSZWHvAIpNhrN1DXoSYdUhZYz3L4NX22glZw/D64jPhNwqOHqNpB7y_7mwCbfGYAbyD9IucER0N6MTXc",
-              "width": 960,
-              "height": 960
-            }
-          }
-        },
-        {
-          "id": "attgl2V7E2LBD6lOv",
-          "width": 960,
-          "height": 960,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/lV6rTYveIwvku4LGEPXV0g/xRA_I-TMVTH2bvI3yFh26_pXgL_kSx583EjDu7rXgDplJOddhgPZm1D2ancgkif3kusI0B0EndtcKZk_p9SS9WltnURQMUxbbLFRT3rfIpFMivn11tZ_AuHpI8KAZGfRMSfM4WtO1n1DlnxFJ8ohGQni4oDgQTQzFHFnA9rXgn8tpgdPgfpY1cwu6slCTL8M2ocPPADzN_OTXQyWsa0ZLA/PsXx9Q8hsQHZTSuHqvX1Sz8NaZ0cdwTHLZYcwX0YgVg",
-          "filename": "436550276_357190103366226_367182878400893160_n.jpg",
-          "size": 259796,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/7aeSQz6fRSdqThIkvkErdg/03Ds7XDe6QvDxoD_5RwHUhY8sfkfRnubvallGFZ7k9Z_oq4fukAAG_-smg2C7kiro1IOqacmrsuPHUVTDlP43ab-IHh4BsDNgVq38K0nI54S9SOlvKD3WtEuJKe0X3uZlJ8fbtlyc1HL8dMV0w44Fg/3G-on4DBigeNtiIFad-UVbfvYZQAPZL3ggdc3RZSo80",
-              "width": 36,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/iVeVu0Nv3Ry9Dek5boIYjQ/F3ako5PInZwdExxoCvkc_EeugV2V-q6_Zy4Sfw97z_4zSUeSvyb7ELcWldBdcBFo0s-Jo43klRV5a5_y1VabmnqykZwclqqzCGP5MmHY1Ieb_Twins9SOntC9Sz123y8XKNFWseh3iNnr71kg-_HaA/vDxkql4r6poOIzzPOxiMWegkb1RO4INNXYr1hvjfQPk",
-              "width": 512,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/cllcTot7xh333Cd5DTBc4A/zs5l400JEyfY_JVAyVsl11Fn79TSmaHrud6nU4kvZEYg2JdJZjOPluAw9InVcTbbTQTuSm6_Mm7A7WKdLGcCc4HIRjzZ5-oeIZ7D7U-nDNesgG533wXJ5TsJNL8Q9WpUYivqzC26_eovWjr_nveXMw/yjIqpH3gszmMUJR_wxAW0Xs6sKxUM1RdnkbO_UjrZ_8",
-              "width": 960,
-              "height": 960
-            }
-          }
-        },
-        {
-          "id": "attO7iJxIEJxzJPv8",
-          "width": 960,
-          "height": 960,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/nLYHoFVmatiuCisnybsBbA/2eCE_vrwbeBHM5eSgDVCGbDqazrW-8q_YyxHDYuN7NlDPkbLgOvUF03984qPCBl3Pb7u73E4V-zibbQW4njqwFCpnrdJkuiWlYZyvypr4PkbcWojBn8nS9gA6YXiRpUjdczu6Dw2L_j0sr9iXiO0iIypKpV4UaUKgjE-geLNnYP0L8-rXqOgFFtX2fOjmWBrzxY43Y-i93D3kupNBUq4Sw/IFhzOfFhzncAfWQbJFa4mw5QlkdprNFhMk2omgNBtWA",
-          "filename": "436566898_1798550660667489_4109793010637007628_n.jpg",
-          "size": 102496,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/fKJ0nT2rAAP2oA7NKh1P8A/Bie47s6oQBUvX4cvfRAKeWtyqOMW7jnNyLMF0DnyXslhw-Owpa84JJF3EDGOZndsNjAAOOEENK5LBzy1XrXJL9-jHLM5xmUU6aStO4r14WeFc54Co52uRqAvWFRJHtXAiPutKZvYlxRBE_enUZQquA/UZ7dEdi6X9_9Q7GXwDep_Qb5oi1b5PjaIJgIrA_xfjE",
-              "width": 36,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/EaYe5NuJyoApgdpdh4ZqUA/Jt1SpoMPUBu9sgZo4_dqOMOYW672KnyjmqX_CUvQDVKFSAosLvZMwJXqCsNIG3bkgih_r-JfbIMsDlK6Nmyi6w0F_ct3g3wIlhSxjwTMnsEuQ40xLxVigFQdGSBZBISp3rvP7OI0YSPIUF7hspygnw/s6hgFQ11iZONZ3cdjg1cA0CrgM6IXo0k_Gv8uFkBRYA",
-              "width": 512,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/SCEjLze_ZPfBy6KKCdg_og/X4OPlSoARUIulJzT0p8z-U1EKU9RxTPE-urx5T3geyOvjrDPgJuN_ECsIFzysBNwIvKgIiyZetwLXRvLwlY1i_0ttjcEX2jTJKGfb8EHcL-BZPLp7l3zL9SprYL6eeBDcPg_kHUinxKlbERtS5ffig/8Jfxd8PDhlBlp91SkjwM2IZuvhFQTy_Blf14sx-anI8",
-              "width": 960,
-              "height": 960
-            }
-          }
-        }
-      ],
-      "Longitude": "100.4965447",
-      "Address": "35 Trok Nawa, Sao Chingcha, Phra Nakhon, Bangkok 10200, Tailandia",
-      "Category": "Coffee Place",
-      "Name": "Bit and Bond",
-      "Google Maps": "https://maps.app.goo.gl/VKKn1LgdgZZcGhS96",
-      "City": "Bangkok",
-      "Latitude": "13.7527248"
-    }
-  },
-  {
-    "id": "recT54TRgI4BaTe93",
-    "createdTime": "2024-06-16T06:32:56.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "National Library Of Sejong",
-      "City": "Sejong"
-    }
-  },
-  {
-    "id": "recTiNA0VlTMqkOEn",
-    "createdTime": "2024-06-21T03:43:38.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Qatar National Library",
-      "City": "Doha"
-    }
-  },
-  {
-    "id": "recWM2FLzdv7pBCya",
-    "createdTime": "2024-06-16T06:22:40.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "City Library at the Mailänder Platz",
-      "City": "Stuttgart"
+      "longitude": "121.5071863",
+      "address": "No. 174, Section 1, Zhonghua Rd, Wanhua District, Taipei City, Taiwán 108",
+      "category": "Coffee Place",
+      "name": "Eighty-Eightea Rinbansyo",
+      "google_maps": "https://maps.app.goo.gl/YKoZhaDvGuebd87f8",
+      "city": "Taipei",
+      "latitude": "25.0403932",
+      "is_active": true
     }
   },
   {
     "id": "recZH68v5Nbq5FsHN",
     "createdTime": "2024-05-17T05:37:05.000Z",
     "fields": {
-      "Description": "To use this library you have to pay. The price is 50 Taiwan dollars. In euros about €1.40 and in dollars $1.55. Which isn't much but it keeps it from being full.\n\nThey force you to take off your shoes. You have a small interior garden where you can go out and get some fresh air. The internet is good and being specialized in design you have thousands of magazines and books on the subject.\n\nSometimes they do events inside, but otherwise it's very quiet.",
-      "Pictures": [
+      "description": "To use this library you have to pay. The price is 50 Taiwan dollars. In euros about €1.40 and in dollars $1.55. Which isn't much but it keeps it from being full.\n\nThey force you to take off your shoes. You have a small interior garden where you can go out and get some fresh air. The internet is good and being specialized in design you have thousands of magazines and books on the subject.\n\nSometimes they do events inside, but otherwise it's very quiet.",
+      "pictures": [
         {
           "id": "atthiRqF6d5g2rsqz",
           "width": 1790,
@@ -1424,21 +801,22 @@
           }
         }
       ],
-      "Longitude": "121.559897",
-      "Address": "No. 133號, Guangfu S Rd, Xinyi District, Taipei City, Taiwán 110",
-      "Category": "Library",
-      "Name": "Not Just Library",
-      "Google Maps": "https://maps.app.goo.gl/eY7wwJT8kmZ9jRM8A",
-      "City": "Taipei",
-      "Latitude": "25.0437756"
+      "longitude": "121.559897",
+      "address": "No. 133號, Guangfu S Rd, Xinyi District, Taipei City, Taiwán 110",
+      "category": "Library",
+      "name": "Not Just Library",
+      "google_maps": "https://maps.app.goo.gl/eY7wwJT8kmZ9jRM8A",
+      "city": "Taipei",
+      "latitude": "25.0437756",
+      "is_active": true
     }
   },
   {
     "id": "recb7BIMoNXni2cJy",
     "createdTime": "2024-05-28T05:00:12.000Z",
     "fields": {
-      "Description": "A library in the center of New York, with plugs, internet and without paying admission.\n\nWhat more could you want.",
-      "Pictures": [
+      "description": "A library in the center of New York, with plugs, internet and without paying admission.\n\nWhat more could you want.",
+      "pictures": [
         {
           "id": "attSMRl21XPc5FOvL",
           "width": 2048,
@@ -1544,175 +922,22 @@
           }
         }
       ],
-      "Longitude": "-73.9798199",
-      "Address": "18 W 53rd St, New York, NY 10019, Estados Unidos",
-      "Category": "Library",
-      "Name": "53rd Street Library",
-      "Google Maps": "https://maps.app.goo.gl/frrABjGaVgCrdCZY7",
-      "City": "New York",
-      "Latitude": "40.760854"
-    }
-  },
-  {
-    "id": "recbTjAXsnTtFhRhL",
-    "createdTime": "2024-06-16T08:35:48.000Z",
-    "fields": {
-      "Longitude": "100.5241409,17",
-      "Address": "เลขที่ 9 Kasem San 2 Alley, Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330, Tailandia",
-      "Category": "Coffee Place",
-      "Name": "LIBI HOME (ลิบิโฮม)",
-      "Google Maps": "https://maps.app.goo.gl/L1A8Lv9pPcMYRu877",
-      "City": "Bangkok",
-      "Latitude": "13.7484513"
-    }
-  },
-  {
-    "id": "recbZgffTvfKAjKCX",
-    "createdTime": "2024-06-16T06:22:40.000Z",
-    "fields": {
-      "Pictures": [
-        {
-          "id": "attJbF685PcJlt7go",
-          "width": 691,
-          "height": 460,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/fH8iFhrLqU7TkhujorE7qQ/3dqAau-vj1iB1yOBiZUCknAh5D_ORdosemRm576X3rLviXn0egRZhFWkjP6kzY9Nn5DsOpioZvJagGiZ1vPaZvSpcxt4Y1UZkYG4rQeSVSjIyR5_l9W5YanAu2MB8kV9D-vp1n8pYWVHMCxh4DntLEQtB10QLu12BphQ8FpoLDc/x4Lqkoz_0d_8i71J47OAsEOvgXxqAUkNqeOailzYaB8",
-          "filename": "stringio (1).jpg",
-          "size": 135753,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/8dNu87ywCQWx0Wp4iQsHMg/5no6WxzWL0pTMJHkNmChF2A6zd4HZ2DNg0W1Q9fMH8CmxlTfUVtr-pE3lBdOq2P9lDscIYy4IbbC1osda6SqjgMKimmRfSvG82rEO6v1aYdsJT8yUsq39jYz4eb5k-nPkxiRxcdOl2WLArR6Qagzaw/NaV80uTVA1q8m6JIJiccprfdylav2IZdINIMGqH3Wa4",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/QDlWKfF2IC_qH70i_VX8rw/BLNmc6iS_tFQyXrzL6hRlkMqC2AeGPp_m8bDidg0E-D6PcCsq2b4VzCgkwnEunlBl2f2vt01A-Y45e-ukerGmt6S0MEs_L8jOI4190qyTxFXB5_UbzoNiSpmU65KdOwTSlt-oxPjy8EQ1cqmhSPucQ/L38DPANFYk2b4uFHn-bMot07PrLTKi2N6tjB4YRMfuw",
-              "width": 691,
-              "height": 460
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/TWWvCYSGI3Gh9S261IVG-g/RSBBQdFGpsWszRq1O6e_wJ41ksgzJCJjByA_nttZdKBMUJQUUBP-UqN9Vo2oXSkXaLsMgodr9VBfncPg1TTlkJhxEbmlW2Q8W1Xi5eOWAKotc-ZL2JCCenV7vYACZJ5BEybQmGHuB57w437Pi42l9g/DCRUqVHQxuz5d3lrx99i33dhgmneYE74e2VIroTlyms",
-              "width": 691,
-              "height": 460
-            }
-          }
-        },
-        {
-          "id": "attzJkKPA50l8y29Q",
-          "width": 706,
-          "height": 460,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/m8gDDuEu2F5T8VD74Y798Q/K7jmeZg5RQ_faLeZxvWjYxDs1gGiAPqOlu2PXtgSyWOefegJ1NIbpdJn5ad5BX74Q5hG7fpQ6C6Y5wmN28-Ix98cEB84PNr0nLVt7iPxH09qWT_lQcgvmPNt1BU-q3pds5dYj4TzhHhB7bs_bNtvB6irFV1QAM7C7Ph_hm8GA04/zkHFvciwum5WXFhi8G4493vIOCt3a6qhqUedKFo6hFU",
-          "filename": "stringio (2).jpg",
-          "size": 85013,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/kuwC-u5XUNx0HDityd-8TQ/K8Be1EKmD3Mc_DlIj0uMqowfcwZ3p6VBUiyFeKo8Tx89xUVXJoFYIG5OEAyjWRVb8SDWTMLzUc08Kvx1PEFJjK1xFC95PW0yajBXX4HfqICWuAHzSLYcwqLFjIxDQDIMucFTsjN6MDLNMAxKIsrN5Q/D6tWnJNoyBGZ5hT9s0FhYCwcP8N8fnMPXdE0pHR4WTg",
-              "width": 55,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/TRy-0D33Y2-kcjZH2JLLwg/Rc8hZv3s53avrL8Cxw-MOUaJB0aII1N7-OGWazsI3Qdl0h18cAdlRdcm8aqMeNgch0IMBa49uCXexG84Nl66hdGfsDM-J6PanNlyj5h47y-_beb_g_m9Wnp16MGjHoXVVbU_4_9Rc_Yp2r0rSzr70w/sb3WCNXZZu-aXa17J_vm2jAs_blxQve9_ZqxS5LgXl8",
-              "width": 706,
-              "height": 460
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/YkroCOP6IcdMEWb_JJbyHg/pvkmEJLHReand0gKXE5PUXSxcNhUK63WHjAGVK7jFitshZdJv4EsbC4s04QewBGKj01n_Ch2X6ceSC1JFbqbZUFCbuk9tKHP26tmUBXQ5cXLQ4VvuN1NrLD-uTq7wAErHo3wsTiqbVNEE6Cfqwf3Lw/nIahScswanAFAlI2mKdFDz2C-Q4vIIMrzfpR3g_os6A",
-              "width": 706,
-              "height": 460
-            }
-          }
-        },
-        {
-          "id": "attGo73eCDTJPl8x7",
-          "width": 690,
-          "height": 460,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/Ujpc9cyztXdNMpc4LO575Q/nvSAktXq0_tTGvIXyRpz1JkfWZv_bcqPTDX7G9u2jFs40RGGPhpA9BAVX0eUrg0nvdar8TJlHVLT1KTKDD11q6KtmpasOFR1PE0r8qbtbd-syU6frh9HKIqYpzg231kgbVn7euS7iYOszD5kycRiEp3nq9wGthgdPZ04S0-NdHw/NRNJaEGScJicYPzib6oXEu5UzRzgiOl985Gulx2a2iY",
-          "filename": "stringio (3).jpg",
-          "size": 115368,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/uVYSv-8_AmXUc0UBejVA-g/EXnDA-2AJiFmxdda1E48RlpOX7_6JG5_Uk75sgDD7MjiWx0pMXHOk4iXUNylu7bxJBVgwnajsMdimx57VtRdEN4GebzGZ9kW4xP1lE-B6ImS7LmayHoLzuB4MHEXs99ZMcypLxmzAx-4ENXjl9EOcg/BPXAgLNz4mc05v5zCwXyqCm7oeOzr6CbQPz79axNlB4",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/gLMpjDgQR8WOMe-CrFaqlw/ORs9LuGht9BWdtCFv8mCSxeFeAFWN2m59vQxBCCD8PGMi8JvtXI9_0zTuWzFptCUMhZeePrDJC52ZyUw2grPQ2scM0PAwsFP9jaNMTftlZ63c2vw6aGP8zR2FkGL_ZQjHXjYRbtgrfDUuT2yLElGnw/ni_QIEsO92EHnAFmJDdxAgXilI3PJ0HoAvNR_L7_IHc",
-              "width": 690,
-              "height": 460
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/Wp2HRr4OBOgfUBaD9AI3Hw/Jn-ed60uUIb9NP2fhsHYPFUOTDSrSvddhkkXPY5SLCTL-6F5u1au1n45q2yA8-e6qT09xNLIqe-jT-O_Lmz9PAErSlo5FUUxp5g4ZX-NQUOS9SKNTyAXtWyUEyAX7khbX232sG-9Ser7tHqwp1-4vg/OManTXDWMiJYNymqEGxefPFuTdWJwi52se2iPtuqGgE",
-              "width": 690,
-              "height": 460
-            }
-          }
-        },
-        {
-          "id": "attUREMOlDo63xLH3",
-          "width": 722,
-          "height": 460,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/HeAvsAhQBOf4lGdHd6KsTQ/WVg9ty7fM8KN8BZtFw-5ssAkPpDcXxpflT21OwTMYATkc0luoo1FZ_xIVqkBmgwbFEsz0E7U79-uUcibH8SyCoDxG_mFwXUjOr8GYEycT_96Stk5g9ASTqxKS8VqpUn2UTKcr2O5fyVjsbQg1Fq10On3vrOwpO4coTrz38WtQMs/ja1glUz9XwyNdoqcZeJ1tcKjTJlGfUf4MO1CX5FGJpQ",
-          "filename": "stringio.jpg",
-          "size": 108805,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/MkGxTOI1M_W08R2RfgMocA/bmRPzJAEdc4Zw3WbJgwPKKqgEtMgQCTAm8KuATyslz9dfkmKYf0SJpNMRBtrPCXCFKB4bFOZSWqEu_0XdFB6lHjYjfUgeQMaOnyu0kYleod5iI4sbgB3ZFVTfbUWtA1i1DLLf6q22ErLsJ1bTvYqVA/PJuyqjC2Cgyrt4Gfh0-OzIE4Z07hmLOrErl_OoHzqKg",
-              "width": 57,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/X301LU3wOika8U_PGjkPwQ/l0kf0oSmOGMR9Ns0NcUyZ5RGNvq3S5UOK9XnsLY5_Oxw_YaXnsH-IqZ-v03amuOyyQKhR6eBxhiV12LhYzNHciZyVAz7wLib2LFu4cYkzfbdObpnncCKG4UMBY3mMvCc_Z0ADjQp_YZFajXtTPHrfA/oVduc1K_BvKzSAzrqrPuL6hiqGJFZtslp-OGlXdyEhc",
-              "width": 722,
-              "height": 460
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/RBYYF9h5U7leTREu4IKaYw/xujoY5VgbbgeQEMVQfZKmAvdepAnXN8YMiE362fFMAZlI9E4WAih1pklaGdBAalRTGx2M-trMvspZ-KaSq7bPt1SPucU6Q8kSNpNlrwIJO2Pn4_PVf4cQQrJP7TojSOfwj5Mcm3aLnlInFT8nVWRew/MD94qwqjmxvBiim4zzBSQn343a0cVaTIrj6WkVjGZgc",
-              "width": 722,
-              "height": 460
-            }
-          }
-        }
-      ],
-      "Longitude": "139.348719",
-      "Address": "2 Chome-1723 Yarimizu, Hachioji, Tokyo 192-0375, Japón",
-      "Category": "Library",
-      "Name": "Tama Art University Library",
-      "Google Maps": "https://maps.app.goo.gl/WbWWYke1idqStAPK6",
-      "City": "Tokyo",
-      "Latitude": "35.6117577"
-    }
-  },
-  {
-    "id": "recfLxz8cwpGlPZ37",
-    "createdTime": "2024-06-16T09:18:59.000Z",
-    "fields": {
-      "Longitude": "100.5068672,13",
-      "Address": "10th & 11th Floor, China Resources Tower, Capital, Bangkok, 87/1 Witthayu Rd, Pathum Wan, Bangkok 10330, Tailandia",
-      "Category": "Coworking",
-      "Name": "JustCo – Capital Tower, All Seasons Place | Coworking & Office Space",
-      "Google Maps": "https://maps.app.goo.gl/ypjhuRgHvK3thoaW7",
-      "City": "Bangkok",
-      "Latitude": "13.7465535"
-    }
-  },
-  {
-    "id": "recgPsyEH1mR5cKhI",
-    "createdTime": "2024-06-21T03:42:34.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Public Library Beitou District",
-      "City": "Taipei"
+      "longitude": "-73.9798199",
+      "address": "18 W 53rd St, New York, NY 10019, Estados Unidos",
+      "category": "Library",
+      "name": "53rd Street Library",
+      "google_maps": "https://maps.app.goo.gl/frrABjGaVgCrdCZY7",
+      "city": "New York",
+      "latitude": "40.760854",
+      "is_active": true
     }
   },
   {
     "id": "recgu07xlZ2dAd39p",
     "createdTime": "2024-05-28T07:22:30.000Z",
     "fields": {
-      "Description": "It is located on the second floor of the East Wing of Lone Mountain. Free Wi-Fi, ample plugs, quiet, and dark academia vibes.",
-      "Pictures": [
+      "description": "It is located on the second floor of the East Wing of Lone Mountain. Free Wi-Fi, ample plugs, quiet, and dark academia vibes.",
+      "pictures": [
         {
           "id": "attMZc33xUPGDOMo1",
           "width": 2000,
@@ -1766,140 +991,22 @@
           }
         }
       ],
-      "Longitude": "-122.4507187",
-      "Address": "2130 Fulton St, San Francisco, CA 94117, Estados Unidos",
-      "Category": "Library",
-      "Name": "Del Santo Reading Room",
-      "Google Maps": "https://maps.app.goo.gl/e4m469gN1qiZ1syF9",
-      "City": "San Francisco",
-      "Latitude": "37.7765643"
-    }
-  },
-  {
-    "id": "recig4KOUpzQxcqJU",
-    "createdTime": "2024-06-16T06:22:40.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Starfield Library",
-      "City": "Seoul",
-      "Google Maps": "https://maps.app.goo.gl/eev1N1ZsdWyNYquA6",
-      "Latitude": "37.5100586",
-      "Longitude": "127.0575439",
-      "Pictures": [
-        {
-          "id": "attnmAt6X4pnqZtN3",
-          "width": 1023,
-          "height": 682,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/swIpvoXWRHwGm3IJT7lN7w/I3cTyOt-STylGaWqojdHGFzuea4ojcmOrVolQmGo7-4mwcSj1y4hrUCmUaQULfkGfTrwIuoNsuXup-pnA0VdFhwDLWJG-JjnHFt7r7JXKQ_YTFRqjD5RWcHBYWVx-K4artjLfpg_HRL4usX2t7VxtGYBBR_ojDINkUpBscmFm4_Pk4HruqD7Xq8gdciFsm05/GVLmfxTgJiMm6xkmMCJrHVfFVBuOB_gQ1K6wfC95ZaQ",
-          "filename": "53630596772_e6442e46b4_b.jpg",
-          "size": 366704,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/tqfpkeg1xmq8-6_Sz54Lgg/1oEjcQSVHP02aPHTWYeeOoVq8koaetWzQWuIKRPvmlCBplkPpLLjJzlwRwBlKQ4CaoW0GzRBIC3e0nwuhhkaK1XkSKBBWFZNo3nlnc3dSXhICWBO8NoyG9QHaOp80kIi2JcldztXK0a8pfmtWBdcRg/BWNwlcg_iBg74FyERldVjGh-nZTvRZtbXi3PGn2ELfI",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/VP5Vtk2VsD5UsqkW6Mteyw/2TcFTJtPGxKbX46CpfOI3Nv7JpBrOE2Xs5lmeNSCKKC16jjyNw_zhLJ5FVabVb4vpLsE43rKrdfHTUxOYMF7iD2sYj3GsWxwzcylaJy6ycNM7vNBnwPbepDDzRxArHWV_vPCVJT9P24dBQR0Y1w_Aw/Podf3IJPj7oLoFpEnhJTeD80jrD-0s6L79NgjwKvWiU",
-              "width": 768,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/JM4U5OXu2XitN-ERBfY_EQ/WKP32eIHzYj-BA-PmLYTNL-vGUJcjoK_dbH8T_JLvwBtyTFrHaNsM0XVmN8z0LKbmXxKm4Q6deHF8dCOz1hWKGvyE4msOER8GNXAmteOoRNI9-GhPDhOCTdr4-C3BkWgmjAkWOwo7Rz9o8AVZiftTA/TZOFzAWAasBdRJg6o5nwzF9SXqD2pw9hJNt6nV6gKNc",
-              "width": 1023,
-              "height": 682
-            }
-          }
-        },
-        {
-          "id": "attHA2lWwoHp0zOjc",
-          "width": 1023,
-          "height": 682,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/ZoDdPx4kbsoKRXi4tj2w2g/EhSNqJ9ZsvbNuLeVjHzWDATMe7Rf6lLftRzglz3ZSalj8pekVcM02uNXWF_jeTfl-t4PBkv92ru46zIsuts1sMY6SjwtXl0jbnSL6cQVb8yfJURkH5gp_PzpzyaWMzl5MyzWps9rKmiu5xp5Q_jA-cz1ZpKle6RyMSU6k22Scz8JewWBFudlKHXK5aWNrfzn/wdrsz9ktxBMQT1QLT85XEi3EuhzAXDuIokAMH3thClk",
-          "filename": "53630596837_84a308d603_b.jpg",
-          "size": 464903,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/WCfhfmWebWYwqXDcrn7nPw/e3YHP4DTERufXINzTk3Xs32jpcdX9RkZJqeH5P-Rjnqr6RXqODOtvoCNmdkeC4dn0FkzHZ2j2jXxDi_j-mMEgpSYoNmCdD8y4ZirNU7znVeQsP9HpKTuU6jFNdMNacDKUuziOqoBq4tSNSS42Q9_SQ/2ndERzqRwytMlFsdKQiuVRahYMVskDAa8-huQdQR0mo",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/DEDhjsYwiyv70dsHag5RqQ/Dk0Xof3yUeiuLHYOVJGhNKn2Udy2HOJOH_ppFyMw5Cu2CQ1izVmCnPa4tLAQKGBnpoPspCisADXbsVfXTuOzSD4NJRB5SDhKEQUvTJBZrx2KKNlJKDBmCd3LszPRp_bDiJ5FoN9bJZBjfz5SySSWHQ/tXmxkt5xGAO_n6s4sTl64FOzQR0_N6pUE00nNunAgrU",
-              "width": 768,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/nScZIAzhii-V16Y6_E-9wA/_YJsvAhzDDQNZIUi0XaWFBgvANtEXNNvAqNls9PJh28Nvyc-k4IIaeS8DWVT5sRjeBTISHuWlktmHGp2ly6fm7meXff1Qo-jmk8MnT_NLhEXij0b6V83MwLK7tfmyS0XqfU_ZclFqwVVdiv6sUU9JQ/ePQ_diIjkudlZA3wCMXItx00MdctamT2KLY2tzHgn1o",
-              "width": 1023,
-              "height": 682
-            }
-          }
-        },
-        {
-          "id": "attw3NUwViSgPY6if",
-          "width": 1023,
-          "height": 682,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/VTGGSqjM7SgSCdRO6wzFAg/hFOnhltfQGNfmse5RYBOEAnXoMS3087fNK6rWpNOSGCtt2SuN5dCR5BRusDUxgNDFSCB6HbDqWtlwye_eIBZsPdFTw59aPvgNDfz3wA1NVdyLEeA-TFt3fhVA-MmxYN6WLLM-ydGnh34tnQ6OWWSzQxvyNZM6ZlGnaisBev4JLmRpzo763M_B6mb5PQ6m0B6/qds6ll3bcqPzJF-ApTsBMONNFxXNlCQ1xqPJe8-K5oY",
-          "filename": "53630596977_473afa3cb4_b.jpg",
-          "size": 295704,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/ltIes4sIWKWh0RzbLcgKgQ/D10ChgNSOjk6jMG6qt7g5hHmDI82t6t0HBse978NXuHKAZClm5-Zff0y3LpJeBQQNhnvu4Q7Tn5BlogFQae_W5OihR5gfxCXBsXaHt3MYejY6D77lyeQDe2xr3a4QAYQh6K6gP4hhx5M4E2SsPFADw/0pNvrHC1IexwDWNGkYNifLGj6whGsGItp589Wpfi5yo",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/G1rHEbt3Ph27LbCIlrH22A/baG7o2q7oIztzzgM6VmkPQ7eMWAhLzSX550T-kgFU_DHppqyqIl2xvRRAIdJ6QC4HiVvQnpyYQW5vGzxW8ZFGkevB_L81JaIEQYU9tOVnIU_PqJosjYLZnCvO_xHfUsR682o_vlQREy4VrQ2v2te8g/6uMkVeyp_co2Apb3FQ2w92hG4qUL1WHGy0UjgLO0N3s",
-              "width": 768,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/dgMGpZmHtDIRyjubj-YjgQ/Cpn36F4M7NfNk4GqG2wsAuq6OdLOcdVtarIIWXobdhU6gitTdwSK1WCussGyNigEsHu_x1EjChufXVCRVO7El7bHWTyVIXzSAaxrRkSgbIY87Wa_pjdsj4WJjj_31lpplWxjGKir8Sa67BLBgrxjRQ/hk4oR6rP7cZ3zIRsxZRiv6Eymfg2BltffUtyledNqWY",
-              "width": 1023,
-              "height": 682
-            }
-          }
-        },
-        {
-          "id": "attFS55764w1lywTj",
-          "width": 1023,
-          "height": 682,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/nEOo07KkMAA_YSiZJaONYA/LAyKElYa9mKHZ_rLc97gk20IE5fxOehI2U_bg4IioSEpNtT1QXnkNlO4F7Qap28XYV9CnExDXzfy6dDzWDNkYis2rlzQjaPwRKb7GkdxD2DybSq_ote7cyWElmblciVXtzGS2Q0J7XN-QZul5QMHvW6I2q3WjI7p253A7UsbuS82T5KoUOruojrUb94aad9m/mr43_qlOhGLh-fhdSXQMQJ8JlNLXhDaNg9KqB1qjbyc",
-          "filename": "53631829029_c13793ba7d_b.jpg",
-          "size": 443655,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/s-4FGVqV6U0lc1gWELM_Bw/Zp4e1On-7g1vZzLrauwOygvN26t509cmcdMFCmWpeaZIREjL1FdBuk8oK0CDdQ8TdBC46xdd0-DWMkRyX8OYBZWLmlOsYrnn3SuEmu8Rb01NwN1qrmIzZ7lRyfp4_JIsZxq1R2xvEVFq5PhYaRbJNw/g-AlZ_WVWlPPLj1RMqXp1JCsPob_udKFKcj7GN1t2Sc",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/zK-kRSofslpySPbqEsnokA/v26EsfYE25eJ71ONTC4bdk4X2gxj1WQStGzPbtFUbxPMBsWbEgkJh5lqoMVCyxWwisJEBM5akM0EXrv74HAY4iqNjng6xvbdvd8ZdPnjcchk6nEy70Gf0nsm2NWBWhJKiS-8JFakKHmvQkKnePTbfA/8TAMXIAhmffnB2FuRiQ5VGy7rc6sUh3gfg5EKRy6JOM",
-              "width": 768,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/D46wLuePjn1ehWLYIS4ZGw/L_lRxZKAKRwP210Rpp6nxJtWQEEGJibwF4aE0eoZG3Ib9U0xGHuGhpqNXQsuw80mnMZNpSNkh_ALS8_hRnt9gWwnRbtipyGm11PLUKzKoAU_rI7j3RjYXYKYAQkPaDJr3cccikP02MP_TE_w-_TTYQ/1ZQA1CjDeHcrNXny58Jf0pDiD39qt4gmAzf_9xniy-Q",
-              "width": 1023,
-              "height": 682
-            }
-          }
-        }
-      ],
-      "Address": "Corea del Sur, Seoul, Gangnam District, Yeongdong-daero, 513 스타필드 코엑스몰 B1"
+      "longitude": "-122.4507187",
+      "address": "2130 Fulton St, San Francisco, CA 94117, Estados Unidos",
+      "category": "Library",
+      "name": "Del Santo Reading Room",
+      "google_maps": "https://maps.app.goo.gl/e4m469gN1qiZ1syF9",
+      "city": "San Francisco",
+      "latitude": "37.7765643",
+      "is_active": true
     }
   },
   {
     "id": "recir80eUegQ5OM57",
     "createdTime": "2024-05-28T05:04:13.000Z",
     "fields": {
-      "Description": "This library is spacious and well-appointed, featuring cozy areas with sofas where you can relax and read, as well as comfortable tables for studying. The only downside is that it doesn't have Wi-Fi.\n\nWhat we appreciate the most is the library's architecture. The design of the staircases and the distribution of the books are particularly fascinating.\n\nWe recommend visiting the library alone, either to read or simply to appreciate the architecture. While it may not be ideal for working due to the lack of internet, it's definitely worth a visit if you enjoy architectural beauty or want a peaceful place to read.",
-      "Pictures": [
+      "description": "This library is spacious and well-appointed, featuring cozy areas with sofas where you can relax and read, as well as comfortable tables for studying. The only downside is that it doesn't have Wi-Fi.\n\nWhat we appreciate the most is the library's architecture. The design of the staircases and the distribution of the books are particularly fascinating.\n\nWe recommend visiting the library alone, either to read or simply to appreciate the architecture. While it may not be ideal for working due to the lack of internet, it's definitely worth a visit if you enjoy architectural beauty or want a peaceful place to read.",
+      "pictures": [
         {
           "id": "attJz8yDcUERsykMZ",
           "width": 2000,
@@ -1979,162 +1086,22 @@
           }
         }
       ],
-      "Longitude": "-99.150819",
-      "Address": "Eje 1 Nte. S/N, Buenavista, Cuauhtémoc, 06350 Ciudad de México, CDMX, México",
-      "Category": "Library",
-      "Name": "Biblioteca Vasconcelos",
-      "Google Maps": "https://maps.app.goo.gl/WzbexKHw3HpDqx5ZA",
-      "City": "Ciudad de México",
-      "Latitude": "19.4471608"
-    }
-  },
-  {
-    "id": "reckE5qn4uPBidyDm",
-    "createdTime": "2024-06-07T15:36:15.000Z",
-    "fields": {
-      "Longitude": "2.181529",
-      "Address": "C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona",
-      "Category": "Coffee Place",
-      "Name": "Centro Cívico Convento de San Agustín",
-      "Google Maps": "https://maps.app.goo.gl/vGxxiZRSvkLU8M749",
-      "City": "Barcelona",
-      "Latitude": "41.3877519"
-    }
-  },
-  {
-    "id": "recmg4A20nab5NeFF",
-    "createdTime": "2024-06-16T06:22:40.000Z",
-    "fields": {
-      "Category": "Coffee Place",
-      "Name": "A Clay Cafe",
-      "City": "Bangkok"
-    }
-  },
-  {
-    "id": "recnA2E5i9SXP5x5B",
-    "createdTime": "2024-06-16T06:32:23.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Tianjin Binhai Library ",
-      "Address": "China, Tianjin, Binhai, 旭升路347號",
-      "City": "Tianjin",
-      "Google Maps": "https://maps.app.goo.gl/by8LdQCEgC7XViMX7",
-      "Latitude": "39.1407901",
-      "Longitude": "117.5533209",
-      "Pictures": [
-        {
-          "id": "attuBFygcKJyD3hiB",
-          "width": 1920,
-          "height": 1281,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/CtEbMgKH1tVS21umgeBd8g/Uxe9XfrqNnu42jcn8QOn_F8akn6YDMB06IxCvpWPRFbE1Aa7g2QIUDrNhKyDR2rSD3HSLROKY0CvelRdz6YxPxsXcTW80bTvDOCptbxYp6vmL19lzgki_ruWXK1GXJsUYv-dxr5IYi_mp5ofgmK3kQ/3PZsNSDH1QW9d9Mj-FyEVXGzRnIXYsmLzjtuPlp7Ns8",
-          "filename": "003.jpg",
-          "size": 437809,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/oGkHAWcshURDyF6j5Gt3hw/1v0303jBSPtyyVHlM06mFZFOArOLRnXoTgttus_jwe1vcB49rdt8nc81_ypXNQXrspJAk7o4q6_8MasZNb0c8SkZhKctTaN4R-U0POeG1-3YI4epqFT-hKMXNYJK92l9GAZg7WJTly0-5RzYiuyX_w/cAVmzYxvUbFu7p3jjIyRh-aqt_XZJUFn_ipL9QbGxSY",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/nvRB-EX_lFJo-wzRuwus1g/WNZs3LlN4sWgxynRnJIY-DBd8pIUw-lGZONmYy-O5ppKPIOU7O8cHhhQ_4FGR7fArLyTxk3nGmYlX-kppB2NOhRVHc0vV6CPGlTPCfcoEMe_bzVgYH1xDQ5f-g4mtJZLG3QuK61wCjEuAoD8RHMY9A/TSv1N4qmTWK_XDiNNuXImWfW-hoU9dErRg0UOwqXX9E",
-              "width": 767,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/0J6vQX1kUAyqYX3wvJBgRA/bid48tDr-0oAiCzHXp2a0ZUy9b3dlP8_a1utxuO-FxiK6orgQgbOG3sJihQQsmmCryuKJqzV2eKmzzz1c2NZwE8-p2RChhrMlwfrf_7NXY9nvkBgqRDRtRABRNgwMr9xRyTBhBpFPKaf-yk0rtZYZQ/UnwEI_jDyQTcyNGJ0zTKSnPCpDRZGYe3T4Qz7NJm1l8",
-              "width": 1920,
-              "height": 1281
-            }
-          }
-        },
-        {
-          "id": "attDGYAvuMYI2zO3x",
-          "width": 1920,
-          "height": 1281,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/ushLYnDNSmxBDhMPY8klvg/ttjYXlur02LDA-UFWBf7jTfMnwLH03HuOTK4q44HLy1Qe7FJjNZ1XQI6gk6GVy8UqoxeE48cbuxTsCxEbvDDyYBKQojO2_z859Rb-ffSjcw24EaV3JOVhNRakAXsJ0878TvvAjoBSXXI3QYvzFI5APQwX2BjrcjaIjNIoYe9e-yIZVf9T8SAmz9FPUcKgPSj/33CVTabMtCfsyHTxfHFSuqx_EWO1maXsHZHo11Rp79Q",
-          "filename": "24_Tianjin_Library_©Ossip.jpg",
-          "size": 585359,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/ksiL-BPPLeKOORuGGuvplw/8-NkhHfzeQmD1pcvQv4zVfCyfpq4mPBXxrDDQ0Yo7KhM4UcK79zcp9e8n-TZJhTJUTX5AERZ2jJOHVtJEiaAGNP3RO02axmJxcKSyMyfES-YpcFVHD3oaiEp2VLUe7j74EThSF5iFsROfKiI7P6K7g/GSOIoHYOiRMHB5nNgNGU6i5MknQR5qS_3l_E7M-S9Lc",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/gw9GkhKUMjm6HzIta65a9w/NYAokla8cUbP5Id_vHIsufaV99otVBBxrGn8lUX8co11gORsj3fSoPSIWFFNuu2DrW4xAEqf4b-E4dZntgIUnYayfDnHeoMzQv9ZgQULEH9Jx2iJ2cKOvPY4Ky-oKf8m39kfqunqrFovQv4r3Xy0Sg/XweaGXNh8O0hE2RJesPPiH4IuzQYhih-m9fV_1K9xn8",
-              "width": 767,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/bnWpK4U6JaH1KyS1UjR4Ng/Rjow05pGBDncyM6vV0X-A0WDNwk4kGQkok18zRSwg8JS-cFFKRUudtrk0t04sUqKFj0UstNH2tyEwNujTkAJysMPCYpAW49yi5IV5VvBMfQzH07j1PfsuuGToITsEWbzgEvyU0MGG05-Jw5aRNnk-A/HpvM8i5ZJnapikukelh9buDWg-vVKUFXUyqvBEoyRCs",
-              "width": 1920,
-              "height": 1281
-            }
-          }
-        },
-        {
-          "id": "attHsHRMcjaVD6noY",
-          "width": 1920,
-          "height": 1281,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/hH7C3alWOMlfqWXhTR1TSw/_NoEmecInzCOEyITAk10f3eaGyhRUBfJernnlzNcuVqCUJ-IrftyBFLmonxA82MknSAlpaBe8HJIe61z78nFtxB_tyQHGj0eo9hqwugA1MXW9GM7BEdVa03cC2IUfaBBT8EZ5ALx7At-UOvPwd364kNllYAK8tdwYtKsuxHtj7Y8nPDgLv96eYSmJOWR9MLb/Y5D-OzZJ7wRqZULGYKsDMKZTkiqGhdT-abiIagM2_0M",
-          "filename": "38b_Tianjin_Library_©Ossip.jpg",
-          "size": 355337,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/gjI7k5eQAczNxDldern0Hw/PEvsqTFXXKYvoT8vNDgpuD6y9rmlH9scGHDQrDxmjwjmoHw0-pbjglFp5thEcU4jPPko4JUl158oq0IFqrYEAQ0W4s6lMmC23-edBbq6LpCbmKZwsqPvQcC1c7OVK4zcX929oB3FTDQ2jNf05mB7kQ/D0TYgbbx7pSMYTyvXAVMTw_59powJQM-FF8zKhip9Sg",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/JtD_K4fwqsO61882O-1mqA/8v7Ap-Bt9cW8XskKzBqwSEw-1AvjhRbujeD3wS5wnCBobm34543uabcedd_6RhrC-OX17EcH5g2RC5CdiyVfGpDeVCZisS2NxLITWhFOa04LaQ6AiC8n2piovvGEdjyiL-keGnDxBw_SBBCFOkWUWg/b0RECWX3PuQVuOF9gWa2uLkk6F1KWa-AHX47nmJCazU",
-              "width": 767,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/RQIwKPE-lY0EG4vayCEJsA/UjFfdIQQuBtjhzFI87A0BxDvebbYXaSnRwuV4pOlrXbggrP9epJA4AzDN70K5RB0UtliI3GhutZbAgQlX8iomXXa7h9xumqHePBVdAADIRDSn4qJAMw_eNrwx7Gpu1g_DnbKFo-_18mbXZHKLvihgw/pie4axg6r83uoZqzx0sOnkC1tjsNHNNv8dRK8GQ1GUI",
-              "width": 1920,
-              "height": 1281
-            }
-          }
-        },
-        {
-          "id": "attBBk5laVCyKUOB3",
-          "width": 1920,
-          "height": 1281,
-          "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/cE3Hi1p3G2TcTvG-1CNsvQ/UuFBOxIFOYYmX5BzYOhLwJA45IiKRwOFd-M3Vdq0uxfUWBMvV01RYg2PCn4zCvfSiy0VoNaElJhH_M0DXn1YwZPo4XRBKAJ0O_eNgu7CHexEJ-5OdWpV8sojlWkzsKk_Fy8QwzZ7azWwBkW4v0h43201Es4ZurUtFSyoAHeaPsxrLWGF9jE0Hs9YlheuPzXU/lgJd9TETR1Fr4QrN5A61-PkbQccXIfR-H2XeYgWXc6k",
-          "filename": "40_Tianjin_Library_©Ossip.jpg",
-          "size": 431002,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/elp88JO4besXjgH6d-wa4w/DCMY4Upaq-xQLRN0TIfFC8WTHpvYjwMJsI5gPXIbxazL0gfFcu1ibB3ROzfAtcEe772ByBVyUgI9AuYhja1Vzyg8jbgWZMYG5RZjvn2ZFpcyRfpY-Znqh-WdSwpFVKUg-fsSxsVCyCoOv6hSNbYEGA/7qYm4shYHS1tnfFiADdKL5o1jcLdNRB3Nn_1dTs8I7Y",
-              "width": 54,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/BAxOB-qf6WZxcher-7qVlQ/Bns8NJWfEsFTDeEwTcG2AiYTz54M_BpT-O4yXTFfdn-MzPWtuRZUJ_LkA-tFyQMmM3RjGB33H7aCy2WA_P8XITGHcWH_Dvwl0iebF4qPymx6P7WL3fOz6UUR55gWF07pNvGYX04Q0DV26dxwPO-jAA/ZPTavWb3dBXSXSGKoM1oGgte1WJK9JmcPsOlkl61C8o",
-              "width": 767,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/30/30/1719230400000/_ANYUGLGDNMx8n9lsf4jFQ/Es_6THVzkR0KbdlDR1r2TUoN2Y3g2WW6O_w3BgAeCL9mycEZN7ncYqVC2dNfE8vsf8mDekBXefhhInf1Qazfk3TAVpcHr3hXGVbuq0nCAzt651Eo3hml6qQyZyO54AeqHblPoFznm5c0sHEBcUKY1A/ZY6uQEenTBPCA5JedJ2VTZVM4PhSj43VEELQWuUqD0E",
-              "width": 1920,
-              "height": 1281
-            }
-          }
-        }
-      ]
+      "longitude": "-99.150819",
+      "address": "Eje 1 Nte. S/N, Buenavista, Cuauhtémoc, 06350 Ciudad de México, CDMX, México",
+      "category": "Library",
+      "name": "Biblioteca Vasconcelos",
+      "google_maps": "https://maps.app.goo.gl/WzbexKHw3HpDqx5ZA",
+      "city": "Ciudad de México",
+      "latitude": "19.4471608",
+      "is_active": true
     }
   },
   {
     "id": "recobp6D14Tj0kPzE",
     "createdTime": "2024-06-16T03:22:55.000Z",
     "fields": {
-      "Description": "It is located in the Asok neighborhood of Bangkok. \n\nIt is an incredible space. It seems like you are inside a laboratory. Clean, pristine and minimalist. All in metal and white. It is a small oasis of freshness in the hot city. \nThe chairs are not very comfortable if you are on the stools. The wifi is not very fast.\n\nThey are some of the best coffee experts there are. They only have a specialty and each type of coffee, designation of origin and grain is used to make a specific type of coffee. \n\nIts look is also very nice.\n\nThere are plugs for charging.",
-      "Pictures": [
+      "description": "It is located in the Asok neighborhood of Bangkok. \n\nIt is an incredible space. It seems like you are inside a laboratory. Clean, pristine and minimalist. All in metal and white. It is a small oasis of freshness in the hot city. \nThe chairs are not very comfortable if you are on the stools. The wifi is not very fast.\n\nThey are some of the best coffee experts there are. They only have a specialty and each type of coffee, designation of origin and grain is used to make a specific type of coffee. \n\nIts look is also very nice.\n\nThere are plugs for charging.",
+      "pictures": [
         {
           "id": "attWQLZxYMT5Tg1X7",
           "width": 3024,
@@ -2240,30 +1207,22 @@
           }
         }
       ],
-      "Longitude": "100.5599699",
-      "Address": "27 Soi Sukhumvit 19, Khlong Toei Nuea, Watthana, Bangkok 10110, Tailandia",
-      "Category": "Coffee Place",
-      "Name": "WWAPortal",
-      "Google Maps": "https://maps.app.goo.gl/o6J55AvegM3nwxKf9",
-      "City": "Bangkok",
-      "Latitude": "13.7397196"
-    }
-  },
-  {
-    "id": "recpGFHUMMM35pefJ",
-    "createdTime": "2024-06-16T10:21:11.000Z",
-    "fields": {
-      "Category": "Coffee Place",
-      "Name": "Kaja Gallery Bangkok",
-      "City": "Bangkok"
+      "longitude": "100.5599699",
+      "address": "27 Soi Sukhumvit 19, Khlong Toei Nuea, Watthana, Bangkok 10110, Tailandia",
+      "category": "Coffee Place",
+      "name": "WWAPortal",
+      "google_maps": "https://maps.app.goo.gl/o6J55AvegM3nwxKf9",
+      "city": "Bangkok",
+      "latitude": "13.7397196",
+      "is_active": true
     }
   },
   {
     "id": "recsG4xYPZxfjwDSy",
     "createdTime": "2024-06-07T15:33:25.000Z",
     "fields": {
-      "Description": "It is located in the Poblenou neighborhood. \n\nIt is a clear, spacious space with lots of light. It has large windows, good coffee and delicious lemonades without sugar. \nIn addition, it has a small outdoor space as a quiet zone to concentrate. \n\nThe chairs are not very comfortable. They are stools. It has plugs and good wifi.",
-      "Pictures": [
+      "description": "It is located in the Poblenou neighborhood. \n\nIt is a clear, spacious space with lots of light. It has large windows, good coffee and delicious lemonades without sugar. \nIn addition, it has a small outdoor space as a quiet zone to concentrate. \n\nThe chairs are not very comfortable. They are stools. It has plugs and good wifi.",
+      "pictures": [
         {
           "id": "attID1puMFVY4moBT",
           "width": 3024,
@@ -2343,30 +1302,22 @@
           }
         }
       ],
-      "Longitude": "2.1570914,13",
-      "Address": "C. de Pujades, 134, Sant Martí, 08005 Barcelona",
-      "Category": "Coffee Place",
-      "Name": "Mono Café",
-      "Google Maps": "https://maps.app.goo.gl/bMyTANs5xFt3Dum96",
-      "City": "Barcelona",
-      "Latitude": "41.3890461"
-    }
-  },
-  {
-    "id": "rect87YbDk8herMxu",
-    "createdTime": "2024-06-21T03:45:34.000Z",
-    "fields": {
-      "Category": "Library",
-      "Name": "Geisel Library",
-      "City": "San Diego"
+      "longitude": "2.1570914,13",
+      "address": "C. de Pujades, 134, Sant Martí, 08005 Barcelona",
+      "category": "Coffee Place",
+      "name": "Mono Café",
+      "google_maps": "https://maps.app.goo.gl/bMyTANs5xFt3Dum96",
+      "city": "Barcelona",
+      "latitude": "41.3890461",
+      "is_active": true
     }
   },
   {
     "id": "recu3kQaI36su8N0T",
     "createdTime": "2024-05-28T08:06:51.000Z",
     "fields": {
-      "Description": "It is located in the Poblenou neighborhood.\n\nLibrary, podcasting and working spaces. Also this library has some spaces to read with hammocks and armchairs and others spaces to concentrate. \n\n💬Why we love? Natural light, the entire building is modern and with wood. So warm!",
-      "Pictures": [
+      "description": "It is located in the Poblenou neighborhood.\n\nLibrary, podcasting and working spaces. Also this library has some spaces to read with hammocks and armchairs and others spaces to concentrate. \n\n💬Why we love? Natural light, the entire building is modern and with wood. So warm!",
+      "pictures": [
         {
           "id": "attXI8ezdTSgBJqbM",
           "width": 2000,
@@ -2472,29 +1423,14 @@
           }
         }
       ],
-      "Longitude": "2.1999626",
-      "Address": "C/ del Treball, 219, Sant Martí, 08020 Barcelona",
-      "Category": "Library",
-      "Name": "Gabriel García Márquez Library",
-      "Google Maps": "https://maps.app.goo.gl/cJrBJo3LxCsa3BfD8",
-      "City": "Barcelona",
-      "Latitude": "41.4172731"
-    }
-  },
-  {
-    "id": "recvfqPph05jxnp61",
-    "createdTime": "2024-06-16T06:33:49.000Z",
-    "fields": {
-      "Category": "Coffee Place",
-      "Name": "host x AMBER"
-    }
-  },
-  {
-    "id": "recw10Ke52UbhAHI5",
-    "createdTime": "2024-06-16T06:34:10.000Z",
-    "fields": {
-      "Category": "Coffee Place",
-      "Name": "OKONOMI Central Embassy"
+      "longitude": "2.1999626",
+      "address": "C/ del Treball, 219, Sant Martí, 08020 Barcelona",
+      "category": "Library",
+      "name": "Gabriel García Márquez Library",
+      "google_maps": "https://maps.app.goo.gl/cJrBJo3LxCsa3BfD8",
+      "city": "Barcelona",
+      "latitude": "41.4172731",
+      "is_active": true
     }
   }
 ]

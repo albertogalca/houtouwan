@@ -7,7 +7,10 @@ const airtableToken =
 const airtableBaseId = "appiZtE7OwYC34l0n";
 
 async function getRecords(table) {
-  let url = `https://api.airtable.com/v0/${airtableBaseId}/${table}`;
+  const filterFormula = "AND({is_active} = TRUE())";
+  let url = `https://api.airtable.com/v0/${airtableBaseId}/${table}?filterByFormula=${encodeURIComponent(
+    filterFormula
+  )}`;
 
   const response = await fetch(url, {
     headers: {
@@ -48,7 +51,7 @@ async function saveRecordsToFile() {
 function extractUniqueCities(records) {
   const citiesSet = new Set();
   records.forEach((record) => {
-    const city = record.fields.City;
+    const city = record.fields.city;
     if (city) {
       citiesSet.add(city);
     }

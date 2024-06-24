@@ -6,7 +6,7 @@ const cities = require("../_data/cities.json");
 const places = require("../_data/places.json");
 
 function generateCityHTML(city) {
-  const cityPlaces = places.filter((place) => place.fields.City === city);
+  const cityPlaces = places.filter((place) => place.fields.city === city);
   return `---
 layout: default
 title: "${city}"
@@ -24,8 +24,8 @@ permalink: "/cities/${toURLFriendly(city)}"
       (place, index) => `
   <a class="text-primary/70 hover:text-primary"
      href="/cities/${toURLFriendly(city)}/${toURLFriendly(
-        place.fields.Name
-      )}">${place.fields["Name"]}</a>
+        place.fields.name
+      )}">${place.fields.name}</a>
   ${index < cityPlaces.length - 1 ? '<span class="mx-2">·</span>' : ""}
   `
     )
@@ -35,7 +35,7 @@ permalink: "/cities/${toURLFriendly(city)}"
 }
 
 function generatePlaceHTML(place) {
-  const pictures = place.fields.Pictures || [];
+  const pictures = place.fields.pictures || [];
   const pictureElements = pictures
     .slice(0, 4)
     .map((picture, index) => {
@@ -46,41 +46,41 @@ function generatePlaceHTML(place) {
         path.join(
           __dirname,
           `../assets/images/places/${toURLFriendly(
-            place.fields.Name
+            place.fields.name
           )}/${fileName}`
         )
       );
       return `
       <img loading="lazy" class="w-full lg:w-[512px] h-auto lg:h-[683px] object-cover"
         src="/assets/images/places/${toURLFriendly(
-          place.fields.Name
+          place.fields.name
         )}/${fileName}" />`;
     })
     .join("");
 
   return `---
 layout: default
-title: "${place.fields.Name}"
-permalink: "/cities/${toURLFriendly(place.fields.City)}/${toURLFriendly(
-    place.fields.Name
+title: "${place.fields.name}"
+permalink: "/cities/${toURLFriendly(place.fields.city)}/${toURLFriendly(
+    place.fields.name
   )}"
-city: "${place.fields.City}"
+city: "${place.fields.city}"
 ---
 
 <nav class="text-3xl lg:text-6xl leading-relaxed tracking-wide mb-20">
   <a class="underline underline-offset-8 decoration-2" href="/">World</a> / <a
     class="underline underline-offset-8 decoration-2" href="/cities/${toURLFriendly(
-      place.fields.City
-    )}">${place.fields.City}</a> / ${place.fields.Name}
+      place.fields.city
+    )}">${place.fields.city}</a> / ${place.fields.name}
 </nav>
 
 <div>
   <p class="text-2xl lg:text-4xl max-w-3xl mb-12">${
-    place.fields.Description
+    place.fields.description
   }</p>
   <a class="underline underline-offset-8 decoration-2 text-2xl lg:text-4xl"
     href="${
-      place.fields["Google Maps"]
+      place.fields.google_maps
     }" target="_blank" rel="noopener nofollow">Visit this place</a>
 </div>
 
@@ -142,10 +142,10 @@ cities.forEach((cityObj) => {
   }
 
   // Generate and write HTML files for each place in the city
-  const cityPlaces = places.filter((place) => place.fields.City === city);
+  const cityPlaces = places.filter((place) => place.fields.city === city);
   cityPlaces.forEach((place) => {
     const placeHTML = generatePlaceHTML(place);
-    const placeFileName = `${toURLFriendly(place.fields.Name)}.html`;
+    const placeFileName = `${toURLFriendly(place.fields.name)}.html`;
     const placeFilePath = path.join(cityDir, placeFileName);
     fs.writeFileSync(placeFilePath, placeHTML, "utf8");
     console.log(`Generated ${placeFilePath}`);
