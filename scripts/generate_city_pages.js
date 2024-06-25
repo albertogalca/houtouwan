@@ -51,7 +51,7 @@ function generatePlaceHTML(place) {
         )
       );
       return `
-      <img loading="lazy" class="w-full lg:w-[512px] h-auto lg:h-[683px] object-cover"
+      <img loading="lazy" class="w-full h-full bg-gray-100 object-cover"
         src="/assets/images/places/${toURLFriendly(
           place.fields.name
         )}/${fileName}" />`;
@@ -64,6 +64,7 @@ title: "${place.fields.name}"
 permalink: "/cities/${toURLFriendly(place.fields.city)}/${toURLFriendly(
     place.fields.name
   )}"
+description: "${place.fields.description}"
 city: "${place.fields.city}"
 ---
 
@@ -75,7 +76,7 @@ city: "${place.fields.city}"
 </nav>
 
 <div>
-  <p class="text-2xl lg:text-4xl max-w-3xl mb-12">${
+  <p class="text-3xl lg:text-4xl tracking-wider xl:tracking-wide max-w-3xl mb-12">${
     place.fields.description
   }</p>
   <a class="underline underline-offset-8 decoration-2 text-2xl lg:text-4xl"

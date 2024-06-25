@@ -5,10 +5,6 @@ author:
   twitter: crearespaces
   name: Creare Spaces
   picture: /assets/images/me.jpg
-collections:
-  recommendations:
-    output: true
-    permalink: /recommendations/:name
 plugins:
   - jekyll-postcss
   - jekyll-sitemap
