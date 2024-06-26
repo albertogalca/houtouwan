@@ -76,10 +76,10 @@ city: "${place.fields.city}"
 </nav>
 
 <div>
-  <p class="text-3xl lg:text-4xl tracking-wider xl:tracking-wide max-w-3xl mb-12">${
+  <p class="text-3xl lg:text-4xl tracking-wider lg:tracking-wide max-w-3xl mb-12">${
     place.fields.description
   }</p>
-  <a class="underline underline-offset-8 decoration-2 text-2xl lg:text-4xl"
+  <a class="underline underline-offset-8 decoration-2 text-3xl lg:text-4xl"
     href="${
       place.fields.google_maps
     }" target="_blank" rel="noopener nofollow">Visit this place</a>
