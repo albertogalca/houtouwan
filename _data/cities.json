@@ -9,6 +9,9 @@
     "city": "Ciudad de México"
   },
   {
+    "city": "Helsinki"
+  },
+  {
     "city": "Madrid"
   },
   {
@@ -21,6 +24,15 @@
     "city": "San Francisco"
   },
   {
+    "city": "Seoul"
+  },
+  {
     "city": "Taipei"
+  },
+  {
+    "city": "Tianjin"
+  },
+  {
+    "city": "Tokyo"
   }
 ]
