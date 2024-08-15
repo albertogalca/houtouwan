@@ -6,6 +6,15 @@
     "city": "Barcelona"
   },
   {
+    "city": "Chiang Mai"
+  },
+  {
+    "city": "Chicago"
+  },
+  {
+    "city": "Doha"
+  },
+  {
     "city": "Helsinki"
   },
   {
@@ -27,6 +36,9 @@
     "city": "San Francisco"
   },
   {
+    "city": "Santiago de Compostela"
+  },
+  {
     "city": "Seoul"
   },
   {
@@ -37,5 +49,8 @@
   },
   {
     "city": "Tokyo"
+  },
+  {
+    "city": "Vught"
   }
 ]
