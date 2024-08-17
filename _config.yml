@@ -33,4 +33,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/og.png
+      image: /assets/images/example.jpg
