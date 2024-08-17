@@ -19,8 +19,8 @@ module.exports = {
         720: "720px",
       },
       colors: {
-        primary: "#314AC4",
-        background: "#FEFAEF",
+        primary: "#588157",
+        background: "#fefae0",
       },
       animation: {
         fade: "fadeIn 1s ease-in-out",

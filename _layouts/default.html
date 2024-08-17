@@ -12,7 +12,9 @@
 
     <header class="flex items-center justify-between">
       <h1 class="text-3xl lg:text-6xl w-full lg:max-w-3xl tracking-wide">{{ site.header_text }}</h1>
-      <img src="/assets/images/shape-1.svg" class="w-[253px] h-auto lg:block hidden" />
+      {% if site.header_image %}
+        <img src="{{ site.header_image }}" class="w-1/4 h-auto lg:block hidden" />
+      {% endif %}
     </header>
 
     <hr class="mt-16 mb-16 lg:mb-32 border-primary" />

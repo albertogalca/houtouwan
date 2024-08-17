@@ -16,9 +16,11 @@ layout: default
 
 
 
-        <div class="flex justify-center lg:justify-end mx-auto lg:sticky lg:bottom-0 pointer-events-none">
-                <img src="./assets/images/shape-2.svg" class=" w-[60px] lg:w-[341px] h-auto" />
-        </div>
+        {% if site.content_image %}
+                <div class="flex justify-center lg:justify-end mx-auto lg:sticky lg:bottom-0 pointer-events-none">
+                        <img src="{{ site.content_image }}" class=" w-[60px] lg:w-1/5 h-auto" />
+                </div>
+        {% endif %}
 
 
 </div>
