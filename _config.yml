@@ -1,15 +1,28 @@
-url: "https://crearespaces.com"
-title: "Creare"
-description: "Spaces to be creative and to work remotely around the world"
+url: https://crearespaces.com
+title: Creare
+description: Spaces to be creative and to work remotely around the world
+locale: en_US
 author:
   twitter: crearespaces
   name: Creare Spaces
-  picture: /assets/images/me.jpg
 plugins:
   - jekyll-postcss
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-
+twitter:
+  username: crearespaces
+  card: summary_large_image
+social:
+  name: Creare Spaces
+  links:
+    - https://twitter.com/crearespaces
+    - https://www.instagram.com/crearespaces
+    - https://www.linkedin.com/company/crearespaces
 postcss:
   cache: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og.png
