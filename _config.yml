@@ -1,6 +1,9 @@
 url: https://crearespaces.com
 title: Creare
 description: Spaces to be creative and to work remotely around the world
+header_text: "This is <i>Creare</i>, your space to find places to be creative, work remotely or simply enjoy a beautiful and unique environment around the world."
+footer_text_1: "📮 If you have any recommendation you can contact us at <a class=\"underline\" href=\"mailto:hi@crearespaces.com\">hi@crearespaces.com</a>."
+footer_text_2: "<span class=\"mr-2 animate-pulse duration-1000\">💙</span> Spaces lovingly curated by <a class=\"underline decoration-2\" href=\"https://x.com/marga_camps\" target=\"_blank\" rel=\"noopener noreferrer\">Marga</a> and <a class=\"underline decoration-2\" href=\"https://albertogalca.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Alberto</a>. Illustrations by <a class=\"underline\" href=\"https://thenounproject.com/creator/karimow-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Maria Zamchy</a>."
 locale: en_US
 author:
   twitter: crearespaces

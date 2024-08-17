@@ -11,10 +11,7 @@
   <main class="p-6 lg:p-12">
 
     <header class="flex items-center justify-between">
-      <h1 class="text-3xl lg:text-6xl w-full lg:max-w-3xl tracking-wide">This is <i>Creare</i>, your space to find
-        places to be creative, work remotely or simply enjoy a
-        beautiful and unique environment around the world.
-      </h1>
+      <h1 class="text-3xl lg:text-6xl w-full lg:max-w-3xl tracking-wide">{{ site.header_text }}</h1>
       <img src="/assets/images/shape-1.svg" class="w-[253px] h-auto lg:block hidden" />
     </header>
 
@@ -23,15 +20,8 @@
   </main>
 
   <footer class="px-6 py-2 lg:px-12 lg:py-4 flex flex-col lg:flex-row items-center justify-between gap-4">
-<p class="text-lg lg:text-xl text-center lg:text-right order-2 lg:order-1">📮 If you have any recommendation you can contact us at <a class="underline" href="mailto:hi@crearespaces.com">hi@crearespaces.com</a>.</p>
-    <p class="text-lg lg:text-xl text-center lg:text-left "><span
-        class="mr-2 animate-pulse duration-1000 ">💙</span> Spaces lovingly curated by <a
-        class="underline decoration-2" href="https://x.com/marga_camps" target="_blank"
-        rel="noopener noreferrer">Marga</a> and <a class="underline decoration-2" href="https://albertogalca.com/"
-        target="_blank" rel="noopener noreferrer">Alberto</a>. Illustrations by <a class="underline" href="https://thenounproject.com/creator/karimow-25/"
-        target="_blank" rel="noopener noreferrer">Maria Zamchy</a>.
-    </p>
-
+    <p class="text-lg lg:text-xl text-center lg:text-right order-2 lg:order-1">{{ site.footer_text_1 }}</p>
+    <p class="text-lg lg:text-xl text-center lg:text-left">{{ site.footer_text_2 }}</p>
   </footer>
 </body>
 
