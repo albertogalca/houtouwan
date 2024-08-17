@@ -1,10 +1,23 @@
 const fs = require("fs");
+const yaml = require("js-yaml");
 const fetch = (...args) =>
   import("node-fetch").then(({ default: fetch }) => fetch(...args));
 
-const airtableToken =
-  "pattYV2vv2pHM3QTU.c9058cbb271a95aee1eb54473b904a2dc66c6c30f541d5436165c93ba292dc04";
-const airtableBaseId = "appiZtE7OwYC34l0n";
+const config = yaml.load(fs.readFileSync("_config.yml", "utf8"));
+
+const airtableToken = config.airtable.token;
+const airtableBaseId = config.airtable.base_id;
+
+if (!airtableToken) {
+  console.error("Error: Airtable token is missing. Please add it to your _config.yml file under airtable.token.");
+  process.exit(1);
+}
+
+if (!airtableBaseId) {
+  console.error("Error: Airtable base ID is missing. Please add it to your _config.yml file under airtable.base_id.");
+  process.exit(1);
+}
+
 
 async function getRecords(table) {
   const filterFormula = "AND({is_active} = TRUE())";

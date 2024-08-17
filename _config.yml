@@ -16,6 +16,9 @@ plugins:
 twitter:
   username: crearespaces
   card: summary_large_image
+airtable:
+  token: "pattYV2vv2pHM3QTU.c9058cbb271a95aee1eb54473b904a2dc66c6c30f541d5436165c93ba292dc04"
+  base_id: "appiZtE7OwYC34l0n"
 social:
   name: Creare Spaces
   links:
