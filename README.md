@@ -20,6 +20,9 @@ You can use it to transform those lists you have into directories. A new life. A
 
 ## How to use it
 
+
+Duplicate [this template](https://airtable.com/appszGRwxOuju9sYi/shrFBTjrS9u2BA78X) and create your own places databas in Airtable.
+
 [Documentation]
 
 - Install Jekyll and npm/yarn.
