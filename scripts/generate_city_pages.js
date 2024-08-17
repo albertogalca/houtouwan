@@ -10,7 +10,7 @@ function generateCityHTML(city) {
   return `---
 layout: default
 title: "${city}"
-description: "${city} Collection of Spaces"
+description: "${city} places to be creative, work remotely or simply enjoy a beautiful and unique environment."
 permalink: "/cities/${toURLFriendly(city)}"
 ---
 
@@ -65,6 +65,9 @@ permalink: "/cities/${toURLFriendly(place.fields.city)}/${toURLFriendly(
     place.fields.name
   )}"
 description: "${place.fields.description}"
+image: "/assets/images/places/${toURLFriendly(place.fields.name)}/p01.jpg"
+twitter:
+  card: summary
 city: "${place.fields.city}"
 ---
 
