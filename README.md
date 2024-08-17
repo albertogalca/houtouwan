@@ -27,3 +27,10 @@ You can use it to transform those lists you have into directories. A new life. A
 - Update the `_config.yml` with the Airtable Base ID and Airtable Token.
 - Execute `yarn build` for generating the HTML files.
 - Deploy to Vercel.
+
+## Customization
+
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falbertogalca%2Fhoutouwan)
