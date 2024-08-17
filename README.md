@@ -20,4 +20,10 @@ You can use it to transform those lists you have into directories. A new life. A
 
 ## How to use it
 
-Documentation
+[Documentation]
+
+- Install Jekyll and npm/yarn.
+- Install Gemfile dependencies and npm dependencies.
+- Update the `_config.yml` with the Airtable Base ID and Airtable Token.
+- Execute `yarn build` for generating the HTML files.
+- Deploy to Vercel.
