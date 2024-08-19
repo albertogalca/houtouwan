@@ -159,3 +159,7 @@ In the current configuration, you can customize everything from the `_config.yml
 - **author:** Update this with your Twitter account and name (your project name).
 - **twitter:** Update with your Twitter username.
 - **social:** In name, you can add your project name, and in links, you can add a list of all your project's social links.
+
+## Who is behind
+
+We are [Marga](https://x.com/marga_camps) and [Alberto](https://x.com/albertogalca). After working for several months on [Creare Spaces](https://crearespaces.com/) gathering places, we thought it would be a good idea to create a template like this so others can build their own directories. If you have any questions, feel free to contact us.
