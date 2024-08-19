@@ -20,7 +20,6 @@ You can use it to transform those lists you have into directories. A new life. A
 
 ## How to use it
 
-
 ### 1. Duplicate the Airtable Template
 
 To begin, you'll need to duplicate the provided Airtable template. You can find the template here. After duplicating it, customize the template by adding your specific places or data.
@@ -29,14 +28,21 @@ To begin, you'll need to duplicate the provided Airtable template. You can find 
 
 Once your Airtable base is set up, you need to obtain the Airtable Token and Base ID. These credentials allow your application to securely access the data in your Airtable base.
 
-For getting your Base ID you just need to open the Airtable Database and check the URL:
+To get your Base ID, simply open the Airtable database and check the URL:
 
 ![Airtable Base ID](assets/images/documentation/base_id.png)
 
-The Base ID is the string of characters after the 'base/' in the URL.
+To get the Airtable token, you need to generate a personal access token. This can be done by visiting https://airtable.com/create/tokens and clicking on 'Create new token.' Then, you need to:
+
+- Set a name for your token.
+- Add a `data.records:read` in your scopes.
+- Select your airtable base template.
+
+After this, copy your token, and you are all set to start generating the places using the Airtable integration.
 
 
-1. Get the Airtable Token and Base ID.
+
+
 2. Clone this repository (you should have a Github account).
 3. Upload your local environment to Vercel.
 4. Install Jekyll and npm/yarn.
