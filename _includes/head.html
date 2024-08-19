@@ -41,7 +41,7 @@
   {% endif %}
   {% for font in site.fonts %}
     {% if font.type == "google" %}
-      <link rel="preload" href="{{ font.url }}" rel="stylesheet">
+      <link href="{{ font.url }}" rel="stylesheet">
     {% else %}
       <link rel="preload" href="{{ font.url }}" crossorigin="anonymous" as="font" type="font/{{ font.type }}">
     {% endif %}
