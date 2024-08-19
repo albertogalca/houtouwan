@@ -1,11 +1,12 @@
 url: YOUR_DOMAIN
 title: Houtouwan
 description: This is a template for creating directories
-header_text: "This is a template for creating directories"
-footer_text_1: "This is a right footer"
-footer_text_2: "This is a left footer"
+header_text: "This is a template for creating directories" # Text for the main header of the website
+footer_text_1: "This is a right footer" # Right footer text
+footer_text_2: "This is a left footer" # Left footer text
 header_image: "/assets/images/example.jpg"
 content_image: "/assets/images/example.jpg"
+place_link_text: "Visit this place" # The link text to go directly to the location, which will appear on the location details page.
 locale: en_US
 author:
   twitter: YOUR_TWITTER_ACCOUNT
@@ -24,16 +25,9 @@ airtable:
 social:
   name: Houtouwan
   links:
-    # - https://twitter.com/crearespaces
-    # - https://www.instagram.com/crearespaces
-    # - https://www.linkedin.com/company/crearespaces
-postcss:
-  cache: false
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: /assets/images/example.jpg
+    # - https://twitter.com/houtouwan
+    # - https://www.instagram.com/houtouwan
+    # - https://www.linkedin.com/company/houtouwan
 fonts:
   - url: "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
     type: "google"
@@ -41,3 +35,10 @@ fonts:
     type: "woff2"
 paragraph_font: "'Open Sans', serif"
 title_font: "'Open Sans', serif"
+postcss:
+  cache: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/example.jpg

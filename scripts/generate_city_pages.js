@@ -1,6 +1,9 @@
 const fs = require("fs");
 const path = require("path");
 const https = require("https");
+const yaml = require("js-yaml");
+
+const config = yaml.load(fs.readFileSync("_config.yml", "utf8"));
 
 const cities = require("../_data/cities.json");
 const places = require("../_data/places.json");
@@ -85,7 +88,7 @@ city: "${place.fields.city}"
   <a class="underline underline-offset-8 decoration-2 text-3xl lg:text-4xl"
     href="${
       place.fields.google_maps
-    }" target="_blank" rel="noopener nofollow">Visit this place</a>
+    }" target="_blank" rel="noopener nofollow">${config.place_link_text || 'Visit this place'}</a>
 </div>
 
 <div class="my-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:-mx-24">
