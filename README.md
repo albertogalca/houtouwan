@@ -1,6 +1,6 @@
 # Houtouwan
 
-Project description
+Houtouwan is an Airtable template created by Alberto Gallego and Marga Camps to build [Creare Spaces](http://crearespaces.com/). It provides a foundation for you to create your own directories easily and accessibly for anyone.
 
 ---
 
