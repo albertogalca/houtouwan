@@ -12,9 +12,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        serif: ["Instrument Serif", "serif"],
-      },
       maxWidth: {
         720: "720px",
       },

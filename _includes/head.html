@@ -34,9 +34,31 @@
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <link rel="alternate" type="application/rss+xml" title="Alberto's Nonsense" href="/feed.xml">
 
-<link rel="preload" href="/assets/fonts/InstrumentSerif-Italic.woff2" crossorigin="anonymous" as="font"
-  type="font/woff2">
-<link rel="preload" href="/assets/fonts/InstrumentSerif-Regular.woff2" crossorigin="anonymous" as="font"
-  type="font/woff2">
+{% if site.fonts %}
+  {% if site.fonts | where: "type", "google" | size > 0 %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  {% endif %}
+  {% for font in site.fonts %}
+    {% if font.type == "google" %}
+      <link rel="preload" href="{{ font.url }}" rel="stylesheet">
+    {% else %}
+      <link rel="preload" href="{{ font.url }}" crossorigin="anonymous" as="font" type="font/{{ font.type }}">
+    {% endif %}
+  {% endfor %}
+{% endif %}
 
-<script defer data-domain="crearespaces.com" src="https://plausible.io/js/script.js"></script>
+<style>
+  :root {
+    --paragraph-font: {{ site.paragraph_font | default: 'sans-serif' }};
+    --title-font: {{ site.title_font | default: 'sans-serif' }};
+  }
+
+  html {
+    font-family: var(--paragraph-font);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--title-font);
+  }
+</style>
