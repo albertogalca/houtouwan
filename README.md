@@ -76,7 +76,3 @@ You can deploy this template wherever you want. There are plenty of options, and
 2. How to customize colors
 3. How to customize fonts
 4. SEO configurations
-
-## Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falbertogalca%2Fhoutouwan)
