@@ -21,18 +21,21 @@ You can use it to transform those lists you have into directories. A new life. A
 ## How to use it
 
 
-Duplicate [this template](https://airtable.com/appszGRwxOuju9sYi/shrFBTjrS9u2BA78X) and create your own places databas in Airtable.
-
-[Documentation]
-
-- Install Jekyll and npm/yarn.
-- Install Gemfile dependencies and npm dependencies.
-- Update the `_config.yml` with the Airtable Base ID and Airtable Token.
-- Execute `yarn build` for generating the HTML files.
-- Deploy to Vercel.
+1. Duplicate the Airtable template you have [here](https://airtable.com/appszGRwxOuju9sYi/shrFBTjrS9u2BA78X) and add your places.
+2. Get the Airtable Token and Base ID.
+3. Clone this repository (you should have a Github account).
+4. Upload your local environment to Vercel.
+5. Install Jekyll and npm/yarn.
+6. Install dependencies (Gemfile and npm).
+7. Execute `yarn build` for generating the HTML files with your places.
+8. Deploy to Vercel.
 
 ## Customization
 
+1. How to customize texts
+2. How to customize colors
+3. How to customize fonts
+4. SEO configurations
 
 ## Deploy
 
