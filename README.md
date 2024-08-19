@@ -108,25 +108,43 @@ place_link_text: "Visit this place" # The link text to go directly to the locati
 
 Don't forget to upload the changes to your GitHub repository to see the updates on your deployed website.
 
-### 2. Customize colors
+### 2. Customize colors
 
 Colors are handled by Tailwind, the CSS framework I'm using for this template. Just go to `tailwind.config.js` and update the following two parameters:
 
 ```js
-      colors: {
-        primary: "#588157",
-        background: "#fefae0",
-      },
+colors: {
+  primary: "#588157",
+   background: "#fefae0",
+},
 ```
 
 
 Don't forget to upload the changes to your GitHub repository to see the updates on your deployed website.
 
-### 3. Customize fonts
+### 3. Customize fonts
 
 You have two options for incorporating fonts:
 
-- You can import fonts from Google Fonts. You just need to add those fonts into
+- **You can import fonts from Google Fonts.** Again, go to the `_config.yml` and add the font like this (don't forget to specify the type as `google`):
 
-3. How to customize fonts
-4. SEO configurations
+```yaml
+  - url: "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+    type: "google"
+```
+
+- **You can import fonts locally.** Just copy your fonts into`/assets/fonts` and create a new entry in the `_config.yml` like this:
+
+```yaml
+  - url: "/assets/fonts/InstrumentSerif-Regular.woff2"
+    type: "woff2"
+```
+
+After incorporating your fonts properly, you can use them in the same file by updating the following parameters:
+
+```yaml
+paragraph_font: "'Open Sans', serif"
+title_font: "'Open Sans', serif"
+```
+
+2. SEO configurations
