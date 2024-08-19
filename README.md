@@ -18,6 +18,14 @@ You can use it to transform those lists you have into directories. A new life. A
 
 ---
 
+## Requirements
+
+- Github account & Git.
+- Airtable account.
+- Jekyll.
+- NodeJS.
+- Vercel account (if you want to deploy on Vercel).
+
 ## How to use it
 
 ### 1. Duplicate the Airtable Template
@@ -78,9 +86,47 @@ You can deploy this template wherever you want. There are plenty of options, and
 
 ![Vercel config](assets/images/documentation/vercel_config.png)
 
-## Customization
+You should be ready with those steps. If you need more help with this or if you are trying to deploy to another service provider, just reach out at [][hi@crearespaces.com,](mailto:hi@crearespaces.com), and we will try to help you.
 
-1. How to customize texts
-2. How to customize colors
+
+## How to customize this template
+
+All the customization is in the `_config.yml` file and the `tailwind.config.js` file. This is just an HTML file styled with [Tailwind CSS](https://tailwindcss.com/). If you have the knowledge, feel free to change whatever you want to adapt the template to your requirements.
+
+### 1. Customize texts
+
+You can easily customize all the text on the web. Just go to `_config.yml` and update the following variables as you please:
+
+```yaml
+header_text: "This is a template for creating directories" # Text for the main header of the website
+footer_text_1: "This is a right footer" # Right footer text
+footer_text_2: "This is a left footer" # Left footer text
+header_image: "/assets/images/example.jpg"
+content_image: "/assets/images/example.jpg"
+place_link_text: "Visit this place" # The link text to go directly to the location, which will appear on the location details page.
+```
+
+Don't forget to upload the changes to your GitHub repository to see the updates on your deployed website.
+
+### 2. Customize colors
+
+Colors are handled by Tailwind, the CSS framework I'm using for this template. Just go to `tailwind.config.js` and update the following two parameters:
+
+```js
+      colors: {
+        primary: "#588157",
+        background: "#fefae0",
+      },
+```
+
+
+Don't forget to upload the changes to your GitHub repository to see the updates on your deployed website.
+
+### 3. Customize fonts
+
+You have two options for incorporating fonts:
+
+- You can import fonts from Google Fonts. You just need to add those fonts into
+
 3. How to customize fonts
 4. SEO configurations
