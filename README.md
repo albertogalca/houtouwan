@@ -147,4 +147,15 @@ paragraph_font: "'Open Sans', serif"
 title_font: "'Open Sans', serif"
 ```
 
-2. SEO configurations
+### 4. Customize SEO
+
+In this project, we use the `jekyll-seo-tag` plugin for all SEO purposes. If you want to delve further into the configuration,, [you can check the plugin documentation](https://github.com/jekyll/jekyll-seo-tag).
+
+In the current configuration, you can customize everything from the `_config.yml`:
+
+- **url:** Your domain URL.
+- **title:** Your website title.
+- **description:** Your website description.
+- **author:** Update this with your Twitter account and name (your project name).
+- **twitter:** Update with your Twitter username.
+- **social:** In name, you can add your project name, and in links, you can add a list of all your project's social links.
