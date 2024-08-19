@@ -24,7 +24,7 @@ You can use it to transform those lists you have into directories. A new life. A
 
 To begin, you'll need to duplicate the provided Airtable template. You can find the [template here](https://airtable.com/appszGRwxOuju9sYi/shrFBTjrS9u2BA78X). After duplicating it, customize the template by adding your specific places or data.
 
-### Get the Airtable Token and Base ID
+### 2. Get the Airtable Token and Base ID
 
 Once your Airtable base is set up, you need to obtain the Airtable Token and Base ID. These credentials allow your application to securely access the data in your Airtable base.
 
@@ -38,17 +38,25 @@ To get the Airtable token, you need to generate a personal access token. This ca
 - Add a `data.records:read` in your scopes.
 - Select your airtable base template.
 
-After this, copy your token, and you are all set to start generating the places using the Airtable integration.
+After this, copy your token. Then go to `_config.yml` file and update the following section with your credentials:
+
+```yml
+airtable:
+  token: "YOUR_AIRTABLE_PERSONAL_TOKEN"
+  base_id: "YOUR_AIRTABLE_BASE_ID"
+```
+
+After this you are all set to start generating the places using the Airtable integration.
 
 ### 3. Clone this Repository
 
 Next, clone the GitHub repository to your local machine. This repository contains the necessary files and configuration to build and deploy your project. Ensure you have a GitHub account and use the following command to clone the repository:
 
-````
+````bash
 git clone https://github.com/albertogalca/houtouwan.git
 ````
 
-### 4. Install Jekyll and npm/yarn
+### 4. Install Jekyll and npm/yarn
 
 To build and manage your project, you'll need to install Jekyll ([follow the documentation](https://jekyllrb.com/docs/)), a static site generator, and npm ([follow the documentation](https://nodejs.org/en/download/package-manager)) for managin JavaScript packages.
 
@@ -56,7 +64,7 @@ To build and manage your project, you'll need to install Jekyll ([follow the doc
 
 With Jekyll and npm installed, the next step is to install the project dependencies listed in the Gemfile and package.json files. Run the following commands in the root directory of your project:
 
-````
+````bash
 bundle install
 npm install
 ````
