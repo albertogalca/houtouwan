@@ -40,15 +40,35 @@ To get the Airtable token, you need to generate a personal access token. This ca
 
 After this, copy your token, and you are all set to start generating the places using the Airtable integration.
 
+### 3. Clone this Repository
 
+Next, clone the GitHub repository to your local machine. This repository contains the necessary files and configuration to build and deploy your project. Ensure you have a GitHub account and use the following command to clone the repository:
 
+````
+git clone https://github.com/albertogalca/houtouwan.git
+````
 
-2. Clone this repository (you should have a Github account).
-3. Upload your local environment to Vercel.
-4. Install Jekyll and npm/yarn.
-5. Install dependencies (Gemfile and npm).
-6. Execute `yarn build` for generating the HTML files with your places.
-7. Deploy to Vercel.
+### 4. Install Jekyll and npm/yarn
+
+To build and manage your project, you'll need to install Jekyll ([follow the documentation](https://jekyllrb.com/docs/)), a static site generator, and npm ([follow the documentation](https://nodejs.org/en/download/package-manager)) for managin JavaScript packages.
+
+### 5. Install dependencies
+
+With Jekyll and npm installed, the next step is to install the project dependencies listed in the Gemfile and package.json files. Run the following commands in the root directory of your project:
+
+````
+bundle install
+npm install
+````
+
+### 6. Configurate Vercel
+
+You can deploy this template wherever you want. There are plenty of options and most of them support Jekyll. In this case, to make it easier for your, I hightly recommend you Vercel because it's free. You can create an account in [Vercel](https://vercel.com/) and follow the instruction:
+
+- Once you are created the account, you need to connect Vercel to Github. This way we can select our new repository to be uploaded to Vercel.
+- Once we have it, you just to select "Import" in your project and your config should be something like that.
+
+![Vercel config](assets/images/documentation/vercel_config.png)
 
 ## Customization
 
