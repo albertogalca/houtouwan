@@ -1,6 +1,6 @@
 # Houtouwan
 
-Houtouwan is a template using Airtable as a database created by [Alberto Gallego](https://albertogalca.com/) and [Marga Camps](https://x.com/marga_camps) to build [Creare Spaces](http://crearespaces.com/). It provides a foundation for you to create your own directories easily and accessibly for anyone.
+Houtouwan is a template that uses Airtable as a database created by [Alberto Gallego](https://albertogalca.com/) and [Marga Camps](https://x.com/marga_camps) to build [Creare Spaces](http://crearespaces.com/). It provides a foundation for you to create your own directories easily and accessibly for anyone.
 
 ---
 
