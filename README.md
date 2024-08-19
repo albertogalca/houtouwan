@@ -22,7 +22,7 @@ You can use it to transform those lists you have into directories. A new life. A
 
 ### 1. Duplicate the Airtable Template
 
-To begin, you'll need to duplicate the provided Airtable template. You can find the template here. After duplicating it, customize the template by adding your specific places or data.
+To begin, you'll need to duplicate the provided Airtable template. You can find the [template here](https://airtable.com/appszGRwxOuju9sYi/shrFBTjrS9u2BA78X). After duplicating it, customize the template by adding your specific places or data.
 
 ### Get the Airtable Token and Base ID
 
@@ -63,10 +63,10 @@ npm install
 
 ### 6. Configurate Vercel
 
-You can deploy this template wherever you want. There are plenty of options and most of them support Jekyll. In this case, to make it easier for your, I hightly recommend you Vercel because it's free. You can create an account in [Vercel](https://vercel.com/) and follow the instruction:
+You can deploy this template wherever you want. There are plenty of options, and most of them support Jekyll. In this case, to make it easier for you, I highly recommend Vercel because it's free. You can create an account on [Vercel](https://vercel.com/) and follow the instructions:
 
-- Once you are created the account, you need to connect Vercel to Github. This way we can select our new repository to be uploaded to Vercel.
-- Once we have it, you just to select "Import" in your project and your config should be something like that.
+- Once you have created the account, you need to connect Vercel to GitHub. This way, we can select our new repository to be uploaded to Vercel.
+- Once we have it, you just need to select "Import" in your project, and your configuration should look something like this (basically, you need to leave the default configuration). After that, click on "Deploy."
 
 ![Vercel config](assets/images/documentation/vercel_config.png)
 
