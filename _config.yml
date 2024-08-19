@@ -35,7 +35,7 @@ defaults:
     values:
       image: /assets/images/example.jpg
 fonts:
-  - url: "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap",
+  - url: "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
     type: "google"
   - url: "/assets/fonts/InstrumentSerif-Regular.woff2"
     type: "woff2"
